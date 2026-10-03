@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9a1d2c2defc9fc86db1eb3a0862133d9c7f3adf3636e414b94d7c68c9fc0c073",
+    "url": "https://dev.classmethod.jp/articles/decision2-strands-decider-20q-m4-mps/",
+    "title": "Decision 2.0 を Strands Decider と同じ 20 問で M4 Mac の MPS で試してみた",
+    "summary": "判定専用モデル Decision 2.0 の Eos-0.8B・Sol-2B・Nox-4B を Strands Decider 2B と同じ 20 問で動かし、想定内の件数、応答時間、メモリを並べました。Kev・Decider との仕組みの違いも紹介します。",
+    "published_at": "2026-10-03T15:25:45+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "7df79dfd55e7c78dd6d40ccc80eb5491b274320deb84e5888f091e44b7a0b529",
+    "url": "https://dev.classmethod.jp/articles/snowflake-latest-info-202609/",
+    "title": "2026年9月にリリースされたSnowflakeの新機能・変更点のまとめ #SnowflakeDB",
+    "summary": "Snowflake 2026年9月のリリースで、Semantic Studioの一般提供やDCM Projectsの機能拡張、フェイルオーバーグループの最適化など、データ基盤とガバナンスを強化する多くの新機能がリリースされました。本記事では、特筆すべき変更点をピックアップしてご紹介します。",
+    "published_at": "2026-10-03T14:18:59+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "d29f69b766279c900e20579ee241c7c6177205828b6ee834541dcc4190aa0056",
+    "url": "https://azukiazusa.dev/blog/css-margin-trim/",
+    "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+    "summary": "2026 年 9 月 27 日時点で、margin-trim はすべての主要ブラウザーで利用できる機能ではありません。Safari 16.4 で導入されていますが、Chromium や Firefox では未対応です。 カードの上下に余分な余白ができる まずは、margin-trim を使わない場合の余白を確認しましょう。次のカードには、見出しと 2 つの段落があり...",
+    "published_at": "2026-10-02T15:01:33+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "218944a84ddfc80074190830372d67426bf0f7991354c1a36de2cfd29ccde164",
+    "url": "https://bookofshapes.com/",
+    "title": "Book of Shapes",
+    "summary": "Book of Shapes A collection of minimal, generative and customizable SVG-patterns. Created by Nikolaj Sokolowski. grid (25)flow (18)radial (18)noise (18)isometric (13)distortion (10)organic (9)physics (5)",
+    "published_at": "2026-10-01T11:23:45+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9ab22e17ce1b0f5e64262843488956ddd390333bbdb194c4e2749a77561fc2d8",
+    "url": "https://www.gizmodo.jp/article/sunrun-tesla-home-battery-power-plant/",
+    "title": "東京が3億円で電気をかき集めた夏、カリフォルニアは家の蓄電池を束ねて乗り切った | ギズモード・ジャパン",
+    "summary": "去る9月9日の夕方、カリフォルニア。 気温はぐんぐん上がり、エアコンがいっせいに唸りだす時間帯です。そのとき、14万軒のガレージで、壁に備え付けられた蓄電池がじわっと放電を始めました。 合計580MW（58万kW）。ガス火力の発電所2〜3基ぶんの電気が、住宅街から送電網へ流れ込んだそうです。 住宅用の太陽光発電シ...",
+    "published_at": "2026-10-03T09:35:46+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "7906a460e13cba35713c457a281851ab6e0ac1347c92bacaa6adbaff3a032f6b",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/",
+    "title": "「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap",
+    "summary": "開発支援ツール「Claude Code」は、コードの作成だけでなく、既存コードの調査や修正、テストまでこなすようになっている。最近では、人間が細かな作業を一つずつ指示しなくても、与えられた目標に向けて自ら作業を進めるケースも報告されている。 そんな中、「Claude」の開発元であるAnthropicは、Webサービス版「claud...",
+    "published_at": "2026-10-02T09:38:21+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e10943f5e54c9e59d31fc6dd189026d263d6ebf7cf8dbed20dc0174ecbf959c5",
+    "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+    "title": "City building games have a Soul Problem pt.2",
+    "summary": "Comments",
+    "published_at": "2026-10-03T15:52:07+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8e48b11280df21dfdcfea52c2be57ae164f35545c8f182ee8f11b6cb6c0f6b1d",
+    "url": "https://ftl-os.org/",
+    "title": "FTL: A new operating system for clouds",
+    "summary": "Comments",
+    "published_at": "2026-10-03T15:02:36+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "25e86545dda9f476e1ea61a987c588d6e5cd63216f27c7788c269f4b9b525677",
+    "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+    "title": "Woking Electrical Control Room (2016)",
+    "summary": "Comments",
+    "published_at": "2026-10-02T20:44:38+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9475ed6324f8d11a2f2c62fb7194c1ab52b3d039479025fdd76290bf34c5bdaf",
+    "url": "https://www.nature.com/articles/s41598-026-57500-7",
+    "title": "Body Awareness in Goffin's Cockatoos",
+    "summary": "Comments",
+    "published_at": "2026-09-30T19:17:45+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5ed360fab23450f46098f69a67e5b0f1b6cbf7f4d92658e8d0c5f8b0eab9106a",
+    "url": "https://plato.stanford.edu/entries/holes/",
+    "title": "Holes (1996-2025)",
+    "summary": "Comments",
+    "published_at": "2026-10-02T15:00:03+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "bdb15ef2510d104978fd842dd745d34dc9e2c81ad4c4c4331b2f77581853390f",
+    "url": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
+    "title": "On building a worm detector",
+    "summary": "Comments",
+    "published_at": "2026-10-02T12:00:06+00:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c1c948351465017579b4e07e88bf6ffede79590d78b21b625d591587847fed4d",
+    "url": "https://backspace.fm/ep663/",
+    "title": "PlayStationのディスク生産終了とAMD Ryzen AI Max vs DGX Spark ep663",
+    "summary": "ドリキンと西川善司の2人回でお届け。オープニングは先週に続いてAI詐欺問題の後日談からスタート。Yahoo!アカウントが海外ログインをきっかけに凍結・消滅してしまうトラブル、血圧の薬の近況報告を経て、メインはPlayStationが2028年1月で新作ゲームのディスク生産を終了する発表をめぐる議論。物理メディアの価値、Switch 2のゲームキーカード、PS6へのライブラリ移行の課題まで縦横に語ります。後半はAMD Ryzen AI Max 395とDGX Sparkの対抗関",
+    "published_at": "2026-10-04T00:35:47+09:00",
+    "collected_at": "2026-10-04T02:00:39.242772+09:00",
+    "sources": [
+      {
+        "id": "backspace",
+        "name": "backspace.fm",
+        "category": "podcast"
+      }
+    ]
+  }
+]
