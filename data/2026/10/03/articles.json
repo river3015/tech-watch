@@ -1671,6 +1671,11 @@
         "id": "hatena-it",
         "name": "はてな：テクノロジー",
         "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
       }
     ]
   },
@@ -3071,6 +3076,21 @@
         "id": "publickey",
         "name": "Publickey",
         "category": "news"
+      }
+    ]
+  },
+  {
+    "id": "8b15cc64f73c59667699717edc696df53da2488dea431157053aa3b3ad642f1e",
+    "url": "https://github.com/andreasfertig/cppinsights",
+    "title": "C++ Insights – See your source code with the eyes of a Compiler",
+    "summary": "Comments",
+    "published_at": "2026-10-01T23:53:36+00:00",
+    "collected_at": "2026-10-03T22:00:20.237922+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
       }
     ]
   }
