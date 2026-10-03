@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T02:10:06.770067+09:00",
+  "collected_at": "2026-10-04T02:13:05.112562+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -53,7 +53,7 @@
     {
       "source_id": "developersio",
       "name": "DevelopersIO",
-      "new": 1,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -88,7 +88,7 @@
     {
       "source_id": "hackernews",
       "name": "Hacker News",
-      "new": 1,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -212,13 +212,6 @@
       "fetched": 1014
     },
     {
-      "source_id": "latent-space",
-      "name": "Latent Space",
-      "new": 0,
-      "status": "error",
-      "error": "HTTPError"
-    },
-    {
       "source_id": "syntax",
       "name": "Syntax",
       "new": 0,
@@ -234,5 +227,5 @@
     }
   ],
   "successes": 32,
-  "failures": 1
+  "failures": 0
 }
