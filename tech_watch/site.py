@@ -6,7 +6,8 @@ from pathlib import Path
 from .collector import JST, canonical_url
 
 CATEGORIES = {'community': 'IT界隈の話題・読みもの', 'engineering': '企業の実践・技術ブログ',
-              'official': '公式の更新情報', 'news': '技術ニュース'}
+              'official': '公式の更新情報', 'news': '技術ニュース',
+              'podcast': 'ポッドキャスト'}
 
 
 def category(article):

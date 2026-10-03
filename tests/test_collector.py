@@ -24,6 +24,17 @@ class CollectorTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             parse_feed(b'<!DOCTYPE rss><rss/>')
 
+    def test_podcast_links_fall_back_to_guid_and_enclosure(self):
+        feed = b'''<rss><channel>
+<item><title>no link</title><guid isPermaLink="false">abc</guid><enclosure url="https://cdn.test/ep1.mp3?rss_browser=x" type="audio/mpeg"/></item>
+<item><title>guid</title><guid>https://show.test/ep2</guid><enclosure url="https://cdn.test/ep2.mp3"/></item>
+<item><title>page</title><link>https://show.test/ep3</link><enclosure url="https://cdn.test/ep3.mp3"/></item>
+</channel></rss>'''
+        self.assertEqual([a['url'] for a in parse_feed(feed)],
+                         ['https://cdn.test/ep1.mp3', 'https://show.test/ep2', 'https://show.test/ep3'])
+        self.assertEqual([a['url'] for a in parse_feed(feed, prefer_enclosure=True)],
+                         ['https://cdn.test/ep1.mp3', 'https://cdn.test/ep2.mp3', 'https://cdn.test/ep3.mp3'])
+
     def test_tracking_normalization(self):
         self.assertEqual(canonical_url('https://example.com/a?utm_source=x&id=2#part'), 'https://example.com/a?id=2')
 

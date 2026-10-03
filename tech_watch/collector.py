@@ -13,7 +13,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 JST = ZoneInfo('Asia/Tokyo')
-MAX_BYTES = 5 * 1024 * 1024
+# Podcast feeds embed full show notes for every episode and can exceed 10MB.
+MAX_BYTES = 20 * 1024 * 1024
 
 
 def text(value):
@@ -53,7 +54,12 @@ def matches_keywords(value, words):
     return not words
 
 
-def parse_feed(payload):
+def enclosure_url(url):
+    # Audio URLs carry per-client tracking queries; the path identifies the episode.
+    return urllib.parse.urlunsplit(urllib.parse.urlsplit(canonical_url(url))._replace(query=''))
+
+
+def parse_feed(payload, prefer_enclosure=False):
     if b'<!DOCTYPE' in payload.upper() or b'<!ENTITY' in payload.upper():
         raise ValueError('DTD is not supported')
     root = ET.fromstring(payload)
@@ -65,7 +71,7 @@ def parse_feed(payload):
         if local(node.tag) not in ('item', 'entry'):
             continue
         values = {}
-        link = ''
+        link = guid = enclosure = ''
         for child in node:
             name = local(child.tag)
             value = ''.join(child.itertext()).strip()
@@ -75,9 +81,21 @@ def parse_feed(payload):
                     link = child.get('href')
                 elif not child.get('href') and value:
                     link = value
-        try:
-            url = canonical_url(link)
-        except ValueError:
+            elif name == 'guid' and child.get('isPermaLink', 'true') == 'true':
+                guid = value
+            elif name == 'enclosure' and child.get('url'):
+                enclosure = child.get('url')
+        # Podcast items may lack an episode page link, or share one show page.
+        candidates = [(enclosure, enclosure_url)] if prefer_enclosure else []
+        candidates += [(link, canonical_url), (guid, canonical_url), (enclosure, enclosure_url)]
+        url = None
+        for value, normalize in candidates:
+            try:
+                url = normalize(value)
+                break
+            except ValueError:
+                continue
+        if not url:
             continue
         title = text(values.get('title'))
         if not title:
@@ -134,7 +152,7 @@ def collect(config_path, data_dir, now=None, fetcher=fetch):
             continue
         status = {'source_id': source['id'], 'name': source['name'], 'new': 0}
         try:
-            entries = parse_feed(fetcher(source['url']))
+            entries = parse_feed(fetcher(source['url']), source.get('link') == 'enclosure')
             successes += 1
             status.update(status='ok', fetched=len(entries))
             for article in entries[:config.get('max_items_per_source', 30)]:

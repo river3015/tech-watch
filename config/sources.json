@@ -12,6 +12,22 @@
     {"id":"hatena-all","name":"はてな：総合","url":"https://b.hatena.ne.jp/hotentry/all.rss","category":"community","keywords":["IT","AI","エンジニア","プログラ","開発","ガジェット","ネット","ソフトウェア","クラウド","技術","github","linux","仕事","働き方"]},
     {"id":"hackernews","name":"Hacker News","url":"https://news.ycombinator.com/rss","category":"community"},
     {"id":"publickey","name":"Publickey","url":"https://www.publickey1.jp/atom.xml","category":"news"},
-    {"id":"terragrunt","name":"Terragrunt Releases","url":"https://github.com/gruntwork-io/terragrunt/releases.atom","category":"official"}
+    {"id":"terragrunt","name":"Terragrunt Releases","url":"https://github.com/gruntwork-io/terragrunt/releases.atom","category":"official"},
+    {"id":"rebuild","name":"Rebuild","url":"https://feeds.rebuild.fm/rebuildfm","category":"podcast","language":"ja"},
+    {"id":"mozaic","name":"mozaic.fm","url":"https://feed.mozaic.fm","category":"podcast","language":"ja"},
+    {"id":"fukabori","name":"fukabori.fm","url":"https://rss.art19.com/fukabori","category":"podcast","language":"ja"},
+    {"id":"qiita-fm","name":"Qiita FM","url":"https://rss.art19.com/qiitafm","category":"podcast","language":"ja"},
+    {"id":"london-tech-talk","name":"London Tech Talk","url":"https://anchor.fm/s/d904331c/podcast/rss","category":"podcast","language":"ja"},
+    {"id":"yurucom","name":"ゆるコンピュータ科学ラジオ","url":"https://api.robotstart.jp/api/v1/feeds/35ac047a/get-feeds/podcast","category":"podcast","language":"ja"},
+    {"id":"backspace","name":"backspace.fm","url":"https://backspace.fm/rss","category":"podcast","language":"ja"},
+    {"id":"se-daily","name":"Software Engineering Daily","url":"https://softwareengineeringdaily.com/feed/podcast/","category":"podcast","language":"en"},
+    {"id":"se-radio","name":"Software Engineering Radio","url":"https://seradio.libsyn.com/rss","category":"podcast","language":"en"},
+    {"id":"kubernetes-podcast","name":"Kubernetes Podcast from Google","url":"https://kubernetespodcast.com/feeds/audio.xml","category":"podcast","language":"en"},
+    {"id":"screaming-in-the-cloud","name":"Screaming in the Cloud","url":"https://feeds.transistor.fm/screaming-in-the-cloud","category":"podcast","language":"en"},
+    {"id":"oxide-and-friends","name":"Oxide and Friends","url":"https://feeds.transistor.fm/oxide-and-friends","category":"podcast","language":"en"},
+    {"id":"changelog","name":"The Changelog","url":"https://changelog.com/podcast/feed","category":"podcast","language":"en"},
+    {"id":"latent-space","name":"Latent Space","url":"https://api.substack.com/feed/podcast/1084089.rss","category":"podcast","language":"en"},
+    {"id":"syntax","name":"Syntax","url":"https://feed.syntax.fm/rss","category":"podcast","language":"en"},
+    {"id":"hard-fork","name":"Hard Fork","url":"https://feeds.simplecast.com/l2i9YnTd","category":"podcast","language":"en","link":"enclosure"}
   ]
 }
