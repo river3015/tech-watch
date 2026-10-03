@@ -1671,11 +1671,6 @@
         "id": "hatena-it",
         "name": "はてな：テクノロジー",
         "category": "community"
-      },
-      {
-        "id": "hatena-all",
-        "name": "はてな：総合",
-        "category": "community"
       }
     ]
   },
@@ -2505,21 +2500,6 @@
       {
         "id": "hatena-it",
         "name": "はてな：テクノロジー",
-        "category": "community"
-      }
-    ]
-  },
-  {
-    "id": "eac7871a53e1da0704308e469fd6e80a06acee1b4644d6cf7cc628fb204356d0",
-    "url": "https://www.linternaute.com/livre/mangas/11301667-shihei-lin-mixgreen-doit-devenir-le-lieu-ou-naitront-les-grands-mangakas-de-demain/",
-    "title": "Shihei Lin : \"MIXGREEN doit devenir le lieu où naîtront les grands mangakas de demain\"",
-    "summary": "Shihei Lin : \"MIXGREEN doit devenir le lieu où naîtront les grands mangakas de demain\" Il accompagnait certains des mangas les plus populaires de ces dix dernières années. Puis, au faîte d'une carrière que tout le monde lui enviait chez Shu",
-    "published_at": "2026-10-02T19:26:53+00:00",
-    "collected_at": "2026-10-03T21:53:22.422426+09:00",
-    "sources": [
-      {
-        "id": "hatena-all",
-        "name": "はてな：総合",
         "category": "community"
       }
     ]

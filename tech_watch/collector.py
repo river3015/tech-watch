@@ -43,6 +43,16 @@ def parse_date(value):
     return (dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)).isoformat()
 
 
+def matches_keywords(value, words):
+    for word in words:
+        if word.isascii() and word.isalnum():
+            if re.search(r'(?<![a-zA-Z0-9])' + re.escape(word) + r'(?![a-zA-Z0-9])', value, re.IGNORECASE):
+                return True
+        elif word.casefold() in value.casefold():
+            return True
+    return not words
+
+
 def parse_feed(payload):
     if b'<!DOCTYPE' in payload.upper() or b'<!ENTITY' in payload.upper():
         raise ValueError('DTD is not supported')
@@ -133,7 +143,7 @@ def collect(config_path, data_dir, now=None, fetcher=fetch):
                     if published < now - timedelta(days=config.get('lookback_days', 7)) or published > now + timedelta(days=1):
                         continue
                 words = source.get('keywords', [])
-                if words and not any(word.casefold() in (article['title'] + ' ' + article['summary']).casefold() for word in words):
+                if not matches_keywords(article['title'] + ' ' + article['summary'], words):
                     continue
                 attribution = {'id': source['id'], 'name': source['name'], 'category': source['category']}
                 if article['id'] in seen:

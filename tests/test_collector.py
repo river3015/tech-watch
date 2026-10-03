@@ -3,11 +3,16 @@ import tempfile
 import unittest
 from datetime import datetime
 from pathlib import Path
-from tech_watch.collector import JST, canonical_url, collect, parse_feed
+from tech_watch.collector import JST, canonical_url, collect, parse_feed, matches_keywords
 
 RSS = b'''<rss><channel><item><title>AI &amp; tools</title><link>https://example.com/a?utm_source=x</link><description>&lt;b&gt;hello&lt;/b&gt;</description><pubDate>Sat, 03 Oct 2026 10:00:00 +0900</pubDate></item></channel></rss>'''
 
 class CollectorTests(unittest.TestCase):
+    def test_keywords_do_not_match_inside_english_words(self):
+        self.assertFalse(matches_keywords('doit devenir demain', ['IT', 'AI']))
+        self.assertTrue(matches_keywords('AIを使った個人開発', ['AI']))
+        self.assertTrue(matches_keywords('働き方の話', ['働き方']))
+
     def test_formats_and_unsafe_links(self):
         self.assertEqual(parse_feed(RSS)[0]['summary'], 'hello')
         atom = b'''<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>release</title><link href="https://example.com/v1"/><updated>2026-10-03T01:00:00Z</updated></entry><entry><title>bad</title><link href="javascript:alert(1)"/></entry></feed>'''
