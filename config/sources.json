@@ -1,0 +1,17 @@
+{
+  "lookback_days": 7,
+  "max_items_per_source": 30,
+  "sources": [
+    {"id":"aws-news","name":"AWS What's New","url":"https://aws.amazon.com/about-aws/whats-new/recent/feed/","category":"official"},
+    {"id":"aws-jp","name":"AWS 日本語ブログ","url":"https://aws.amazon.com/jp/blogs/news/feed/","category":"official"},
+    {"id":"cloudflare","name":"Cloudflare Blog","url":"https://blog.cloudflare.com/rss/","category":"engineering"},
+    {"id":"developersio","name":"DevelopersIO","url":"https://dev.classmethod.jp/feed/","category":"engineering"},
+    {"id":"zenn","name":"Zenn","url":"https://zenn.dev/feed","category":"community"},
+    {"id":"qiita","name":"Qiita","url":"https://qiita.com/popular-items/feed","category":"community"},
+    {"id":"hatena-it","name":"はてな：テクノロジー","url":"https://b.hatena.ne.jp/hotentry/it.rss","category":"community"},
+    {"id":"hatena-all","name":"はてな：総合","url":"https://b.hatena.ne.jp/hotentry/all.rss","category":"community","keywords":["IT","AI","エンジニア","プログラ","開発","ガジェット","ネット","ソフトウェア","クラウド","技術","github","linux","仕事","働き方"]},
+    {"id":"hackernews","name":"Hacker News","url":"https://news.ycombinator.com/rss","category":"community"},
+    {"id":"publickey","name":"Publickey","url":"https://www.publickey1.jp/atom.xml","category":"news"},
+    {"id":"terragrunt","name":"Terragrunt Releases","url":"https://github.com/gruntwork-io/terragrunt/releases.atom","category":"official"}
+  ]
+}
