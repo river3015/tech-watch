@@ -3093,5 +3093,455 @@
         "category": "community"
       }
     ]
+  },
+  {
+    "id": "1c6b7742a18c8f6061b3d8ad6213bc1ae3d99c3fb20c912bdd40770c0c22f5fc",
+    "url": "https://dev.classmethod.jp/articles/202610-AnonymousPenguin-joined-classmethod/",
+    "title": "I've joined Classmethod Malaysia, I'm Kong Jun Sieng, Nice to meet you~",
+    "summary": "Hi everyone! I'm Kong-san, an Associate Software Engineer at Classmethod Malaysia. Before joining, I explored AI agents, built a personal portfolio with an AI-driven workflow, and played catch-up on games. Now I'm curious about how business",
+    "published_at": "2026-10-03T13:11:40+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "baf5bbfd6c21b7b93a91f4562db8c8531de0979097bb6f6e1c5c5001f26ceaa5",
+    "url": "https://dev.classmethod.jp/articles/aws-mcp-server-tokyo-region/",
+    "title": "AWS MCP Server が東京リージョンをサポートしたので試してみた",
+    "summary": "AWS MCP Server の東京リージョンを日本国内の実行環境から試し、STS GetCallerIdentity（aws___run_script）の応答時間をバージニアと比べました。東京のほうが3割以上短くなりました。",
+    "published_at": "2026-10-03T13:06:04+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "abeb92e914e1ba682314163afa93056f843e4210da7ddd73cae1051677104980",
+    "url": "https://dev.classmethod.jp/articles/devio2026-osaka-claude-code-orca-task-organization/",
+    "title": "【登壇資料】DevelopersIO 2026 Osakaで「Claude Code × 複数タスクで セッション乱⽴！「Orca」の意外な使い⽅で まるごと整理してみた」というタイトルで登壇しました！ #devio2026",
+    "summary": "DevelopersIO 2026 Osakaで登壇した「Claude Code × 複数タスク」についてのセッション内容をご紹介します。Claude Codeで複数タスクを並行推進する際の課題を、意外な使い方のツール「Orca」を活用して解決した経験をまとめました。",
+    "published_at": "2026-10-03T12:57:26+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "d13b932ee50ff42c763ae01c8eb238ad0fa3bed2b2537502ebda5e4a1bcfc0a4",
+    "url": "https://zenn.dev/tmtk/articles/edc992e6a24b65",
+    "title": "Windowsで再生中の音声をWhisperで文字起こしする：Meetilyの仕組みを100行未満のRustで再現する",
+    "summary": "はじめに Meetily（会議の録音、文字起こし、要約をすべてPCの中で行うオープンソースの会議アシスタント）のコードを読みました。Windows版のMeetilyは、会議アプリやブラウザが再生している音を「WASAPIのループバック」（PCが再生している音を、そのまま録音するWindowsの仕組み）で取り込み、Whisper（OpenAIが公開している音声認識モデル）などで文字にしています。 ただ、Meetilyは製品なので、マイクとのミックス、ノイズ除去、デバイスの抜き差",
+    "published_at": "2026-10-03T08:03:54+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0794561a1f18197f90ce5f532a1ef19119a53f8ff6c5a6c1b6154518edc7bdc1",
+    "url": "https://zenn.dev/s4k1/articles/ba87c0ff3c1d47",
+    "title": "UnityでなぜC# 10以降を使うライブラリが動くのか",
+    "summary": "1. Unity対応ライブラリと「C# 9対応」の食い違い UnityでZLogger、R3、MemoryPackなどのライブラリを使っていると、Unity向けのパッケージと.NET向けの実装が同じリポジトリに並んでいるのを見かけます。そのコードには、C# 10以降で追加された機能も使われています。 わかりやすい例がZLoggerです。ログを書き込む次のAPIは、C# 10のカスタム文字列補間ハンドラーを利用しています。 logger.ZLogInformation($\"Us",
+    "published_at": "2026-10-03T06:05:15+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "060fcdee96ef9af5b8f13c6875d162b154252814e5dc7e9a75534c6b9405d310",
+    "url": "https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions",
+    "title": "Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事",
+    "summary": "こんにちは、TOKIUMの花房です。 Claude CodeやCodexをサブスクリプションで使っていて、以下のように感じることはないでしょうか。 週の半ばで週間上限が尽きる。作業量は先週と変わらないはずなのに Slack botやcron/launchdからエージェントを動かしていて、体感よりもリミット消費が多い プロンプトキャッシュにヒットしているはずなのに、やはり減りが多い気がする Codexの週間上限が急速に減った原因として、私は/goalで一晩動かして自動compa",
+    "published_at": "2026-09-29T03:00:09+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "59307b66b870522f62bd1028515ec6ca15cecf643d8c23b484d6f8a45bd8b62a",
+    "url": "https://zenn.dev/spookies/articles/e70b80a510f5e2",
+    "title": "目を醒ませ 僕らの信頼が生成AIに侵略されてるぞ",
+    "summary": "想定読者 2025年度以降にIT業界に参入したエンジニア システム開発プロジェクトで上流〜中流工程を任されている人 自分の仕事がAIに奪われていると感じているエンジニア tl;dr Meat Proxyで起きる破綻は、AIのせいではなく「己に対して当然求められている責任を己が放棄した結果」である。 生成AIは責任を持てないので、原理的に副操縦士の域をでない。 人間の介在価値は意思と責任を持つことにある。エンジニアよ、意思と責任を持て。 はじめに。 こんにちは。スプーキーズでO",
+    "published_at": "2026-09-29T01:00:08+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8ddfba98cc7795c06ee1b56db952a3d848842aad8b67ec64e173fdbb27179e9f",
+    "url": "https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/",
+    "title": "AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける",
+    "summary": "現地時間の2026年10月2日、AppleはAIエージェントがもたらすリスクに対応するため、macOSにおけるフルディスクアクセスに新たな制限を導入すると発表しました。 Updates to Full Disk Access in macOS - Latest News - Apple Developer https://developer.apple.com/news/?id=p6zjojqw Apple says it's tightening macOS...",
+    "published_at": "2026-10-03T02:17:15+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ec2a146cd8f86f9ff0f4371b41adf660c8938150d3b2cec6fab2c751ad73ec81",
+    "url": "https://iphone-mania.jp/mac-606895/",
+    "title": "MacBook Pro（OLED）や新型iPad miniなど複数の新製品を今月発表？ - iPhone Mania",
+    "summary": "Appleが現在、macOS 27.2 Golden Gateをインストールした有機EL（OLED）ディスプレイ搭載MacBook Proの社内テストを行っており、早ければ10月中にも発表される可能性があると、Bloombergのマーク・ガーマン記者が予想しています。 その場合、Appleは10月中にスマートホームハブ、新型iPad mini、OLEDディスプレイ搭載Mac...",
+    "published_at": "2026-10-02T23:43:13+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "09f51697b9f58d8275c3fdce57ee930102fed1c54567f47abb334d8c7842bb72",
+    "url": "https://cloud.google.com/blog/ja/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs",
+    "title": "バグの発見と修正を支援するオープンソースの AI ハーネス、Mantis のスタートガイド | Google Cloud 公式ブログ",
+    "summary": "Yulong ZhangSenior Staff Security Engineer, Google ※この投稿は米国時間 2026 年 9 月 3 日に、Google Cloud blog に投稿されたものの抄訳です。 AI モデルは、人間の手をほとんど、あるいはまったく介さずに脆弱性を発見して悪用する能力を持っていることが判明しています。防御側が AI を活用して優位性を確保でき...",
+    "published_at": "2026-10-02T09:33:46+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c2528172900f5112683372e08e1e51c934724c1808e2aa86a9044e58f79ab73b",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/03/news013.html",
+    "title": "ドコモがほぼ全ての料金プランを値上げ それよりも端末の値上げが気になるこの頃",
+    "summary": "ITmedia Mobileにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia Mobile Weekly Top10」。今回は2026年9月24日から9月30日までの7日間について集計し、まとめました。 今回のアクセス数の1位は、12月にNTTドコモが実施する“料金値上げ”に関する解説記事でした。 この記事にもある通り、NTTドコモ...",
+    "published_at": "2026-10-03T04:46:04+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d0b3ed691cab7bf1ec7fe177d2b8aa77709dda8b24acbc8ee67213d94e04f4d1",
+    "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+    "title": "The Escalation of War in Ethiopia",
+    "summary": "Comments",
+    "published_at": "2026-10-03T11:54:24+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "dab27c54d8c92fb41f74bb9b85d7e28a7953289fe301460d4cc14b31f8aa295f",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+    "summary": "Comments",
+    "published_at": "2026-10-03T09:36:04+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "90e9e5853ac95b3cd5a6785185f8ed8a258c5b258414fb267e5d162dc68cb645",
+    "url": "https://www.youtube.com/watch?v=bam3uxilEJo",
+    "title": "French Bond Risk Hits Euro-Crisis Levels [video]",
+    "summary": "Comments",
+    "published_at": "2026-10-03T13:12:28+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "54956e18a72ca2066b046dcf07771038cece44536fc46382f1f9546d2d1108fd",
+    "url": "https://mozaic.fm/episodes/217/monthly-platform-202609.html",
+    "title": "ep217 Monthly Platform 202609",
+    "summary": "第 217 回のテーマは 2026 年 9 月の Monthly Platform です。 Show Note はこちら: https://mozaic.fm/episodes/217/monthly-platform-202609.html",
+    "published_at": "2026-09-30T00:00:00+09:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "mozaic",
+        "name": "mozaic.fm",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "0bcca3d1dc44904f472bd0ffced2283cf0628c05dd4d8d4649862ef3f006af11",
+    "url": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4d534ebd-5aed-43f8-89f2-13172061e27f.mp3",
+    "title": "141. アラーティングの過去・現在・未来 w/ yuuk1",
+    "summary": "yuuk1さんをゲストにモニタリングやアラーティングの歴史的変遷から、GPUクラスター運用のリアル、SLOベースのアラート設計、アラート品質の定量評価、さらにはAI/LLM時代におけるSREの未来像まで、アラーティングについて語っていただきました。 話したネタ 2015年Webサーバアーキテクチャ序論 SREのためのテレメトリー技術の探究 テレメトリとは？ Nagios、Zabbix、Prometheus、OpenTelemetryに至る歴史 Webサーバー監視とGPUクラス",
+    "published_at": "2026-09-30T20:30:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "fukabori",
+        "name": "fukabori.fm",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "b131b9e44a5ae54c2fae45b8dd8e8d7a7cd8b38f575d1cbf79dc512131be47e2",
+    "url": "https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/b7e51b40-5fbf-46ce-b8d7-7f8ad4407f33.mp3",
+    "title": "#120 生成AIには書けない「失敗と試行錯誤」の価値。エンジニアの思考プロセスを言語化するメリット／ゲスト：川崎 雄太さん③",
+    "summary": "今回は、株式会社サイバーセキュリティクラウド セキュリティインテリジェンス本部 本部長 / VP of Engineering Operations 川崎 雄太さんをゲストにお迎えしてお届けします。全3回の対話、お楽しみください。 <今回のトーク内容> リクルートで始まったアウトプットは備忘録から／広まったのは「会社名」より「自分の名前」／続かなかったテックブログが月21本に。セカンドペンギンの作り方／アウトプットが生む、つながりとビジネス力／書いたらLTへ。フィードバックが",
+    "published_at": "2026-09-28T21:00:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "qiita-fm",
+        "name": "Qiita FM",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "a38db8b4624c408f67937c0433ae894db9da5c6d2eaa52c25c8754b453e54cd0",
+    "url": "https://podcasters.spotify.com/pod/show/yurucom/episodes/100AI-247-e3pbbf5",
+    "title": "100時間かけて動画編集AIを作ったら、気が狂いそうになった。 #247",
+    "summary": "【PR：Surfshark】 プロモリンク ⁠https://surfshark.com/yurucom⁠ にアクセスするか、チェックアウト時にプロモコード yurucom を使用すると、Surfshark VPN が4か月分追加されます！ 30日間の返金保証付き！ぜひご利用ください！ 動画編集AIを作ったら、狂いそうになった話です。AIのキモい認知特性に振り回されまくったよ！ 【目次】 0:00 動画編集AIを作ってみた 0:37 AI 「勝ち筋が見えた」 2:50 動画を",
+    "published_at": "2026-09-27T09:45:00+09:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "yurucom",
+        "name": "ゆるコンピュータ科学ラジオ",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "d9aa963de94b6109cbb58ab1057affa8824d02c30ae88ed7acabaeebcfd8bfb6",
+    "url": "https://podcasters.spotify.com/pod/show/yurucom/episodes/100AI-e3pbbf5",
+    "title": "100時間かけて動画編集AIを作ったら、気が狂いそうになった。",
+    "summary": "【PR：Surfshark】 プロモリンク ⁠https://surfshark.com/yurucom⁠ にアクセスするか、チェックアウト時にプロモコード yurucom を使用すると、Surfshark VPN が4か月分追加されます！ 30日間の返金保証付き！ぜひご利用ください！ 動画編集AIを作ったら、狂いそうになった話です。AIのキモい認知特性に振り回されまくったよ！ 【目次】 0:00 動画編集AIを作ってみた 0:37 AI 「勝ち筋が見えた」 2:50 動画を",
+    "published_at": "2026-09-27T09:45:00+09:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "yurucom",
+        "name": "ゆるコンピュータ科学ラジオ",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "aaaee9e3c71e34ef5967e343bedc25106d5510021b09ce8317386c75c909011b",
+    "url": "https://backspace.fm/avengers-endgame-encore/",
+    "title": "【ネタバレあり】アベンジャーズ／エンドゲーム：アンコール 感想会【コンテンツ部】",
+    "summary": "",
+    "published_at": "2026-10-01T07:30:42+09:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "backspace",
+        "name": "backspace.fm",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "3449fd7bb44fe60f9d26d8a793425947c7c63b1aa378d5c3b4db5db6c4399426",
+    "url": "https://softwareengineeringdaily.com/podcasts/the-state-of-browser-testing/",
+    "title": "The State of Browser Testing",
+    "summary": "Automated browser testing is a foundational technology that many web developers rely on. Modern tooling lets a single test drive Chrome, Firefox, and Safari the same way, a triumph of software engineering built on years of standardization w",
+    "published_at": "2026-10-01T09:00:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "se-daily",
+        "name": "Software Engineering Daily",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "d63a044febf53d78f0e17ad377a9aa61f61c0f3c78ff5743b8318c6f4a9f4ac4",
+    "url": "https://softwareengineeringdaily.com/podcasts/cory-doctorow-on-ai-work-and-power/",
+    "title": "Cory Doctorow on AI, Work, and Power",
+    "summary": "Cory Doctorow is a science fiction author, journalist, and technology activist, and a special advisor to the Electronic Frontier Foundation. He is the author of dozens of books, including the nonfiction Enshittification: Why Everything Sudd",
+    "published_at": "2026-09-29T09:00:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "se-daily",
+        "name": "Software Engineering Daily",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "6ca57ae23d106004561682c4638110883ca385e30701b180d06a614e719c194f",
+    "url": "https://se-radio.net/2026/09/se-radio-740-raju-dandigam-on-building-production-ai-agents/",
+    "title": "SE Radio 740: Raju Dandigam on Building Production AI Agents",
+    "summary": "Raju Dandigam speaks with host Amey Ambade about building robust AI agents for production. Raju recommends treating an agent as a software subsystem rather than a standalone model call. That means designing decision contracts and tool bound",
+    "published_at": "2026-09-30T23:51:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "se-radio",
+        "name": "Software Engineering Radio",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "da0034913ac66df228385b133114e12c9ee9d349b34b8e225bbc9cf3482efd7e",
+    "url": "https://www.latent.space/p/rlm",
+    "title": "Academia is for Ambition — Alex Zhang, MIT",
+    "summary": "Last call for regular tickets for AI Engineer NYC ! As an exclusive for Latent Space subscribers, the first 30 of you can take a 30% off code if it helps - for new tickets only, no refunds! See you in 2 weeks! While we tend to cover industr",
+    "published_at": "2026-10-02T00:28:04+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "latent-space",
+        "name": "Latent Space",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "cfe32cdb08fcc91ab019a4753d80f9cb52d195340914158089043086cb626d65",
+    "url": "https://www.latent.space/p/devday-2026",
+    "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+    "summary": "Three months ago Dwarkesh, who has been posting incredible blogs and episodes about RL, posted a framing question for his video essay on RLVR which upset a lot of Computer Use folks: We are no strangers to learning in public and are no stra",
+    "published_at": "2026-09-30T22:23:40+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "latent-space",
+        "name": "Latent Space",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "b4c0eaf0034db9d3d987ed692de2ea30171a35eaa0e6da4eca771985f9b5eed4",
+    "url": "https://www.latent.space/p/thariq",
+    "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+    "summary": "We are excited to have Anthropic share their latest AI x Finance work at AI Engineer New York , coming up in 2 weeks! In case you’ve been under a rock, here’s a non-exhaustive list of what Anthropic has been shipping since closing the large",
+    "published_at": "2026-09-29T01:48:18+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "latent-space",
+        "name": "Latent Space",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "72c64fb3c871a3beea67e1b51c2b74828c924f90dcaf67ba5f4bad3fc0ba64e8",
+    "url": "https://syntax.fm/1043",
+    "title": "1043: I’m Using GPUI For Everything",
+    "summary": "Scott and Wes ditch Electron and Tauri for GPUI, the GPU accelerated Rust UI framework from the Zed team. They get into its React-like API, styling that feels a lot like Tailwind, GPUI Kit components, the community fork drama, and the tiny ",
+    "published_at": "2026-09-30T11:00:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "syntax",
+        "name": "Syntax",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "78fa6fc6f26e7ddfb43ec269a5e0a099207e09e879ed75e45d9b8b7cfbeae6f7",
+    "url": "https://syntax.fm/1042",
+    "title": "1042: Is the Jev Hype Overblown?",
+    "summary": "Is Jev actually a leap forward for classification or just hype and fake demos? We dig in, plus Claude Code’s new AGENTS.md support, TinyCast (the free, open-source Raycast alternative), an iPhone Fold simulator in Xcode, and a stack of dev ",
+    "published_at": "2026-09-28T11:00:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "syntax",
+        "name": "Syntax",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "cf3d64509e31509cb66038149b656a5688905cf6986e506fc415359050b1bb8f",
+    "url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/1c77ec0f-2352-472f-8b35-975ceb4a7da4/audio/128/default.mp3",
+    "title": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
+    "summary": "This week, after months in which rogue agents have caused havoc across the internet, tech’s most powerful leaders joined President Trump at the White House to rebrand A.I. At the same time, two of the biggest companies in the field — OpenAI",
+    "published_at": "2026-10-02T11:00:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hard-fork",
+        "name": "Hard Fork",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "9edea9788132f67d42505fae06fa922f5dd65e538eb14c30eddc6fac652caaac",
+    "url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/85367f1d-43e7-485e-a6d4-c57d43d2aea8/audio/128/default.mp3",
+    "title": "What’s Next for ‘Hard Fork’?",
+    "summary": "For the next few months on “Hard Fork,” join the guest host Max Read and an array of Times reporters and experts as we zoom out, catch up and try to understand both what’s happening inside the tech industry and what tech is doing to all of ",
+    "published_at": "2026-10-01T11:00:00+00:00",
+    "collected_at": "2026-10-03T22:55:38.177737+09:00",
+    "sources": [
+      {
+        "id": "hard-fork",
+        "name": "Hard Fork",
+        "category": "podcast"
+      }
+    ]
   }
 ]

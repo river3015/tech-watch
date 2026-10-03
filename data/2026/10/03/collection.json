@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-03T22:00:20.237922+09:00",
+  "collected_at": "2026-10-03T22:55:38.177737+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -25,14 +25,14 @@
     {
       "source_id": "developersio",
       "name": "DevelopersIO",
-      "new": 0,
+      "new": 3,
       "status": "ok",
       "fetched": 30
     },
     {
       "source_id": "zenn",
       "name": "Zenn",
-      "new": 0,
+      "new": 4,
       "status": "ok",
       "fetched": 20
     },
@@ -46,7 +46,7 @@
     {
       "source_id": "hatena-it",
       "name": "はてな：テクノロジー",
-      "new": 0,
+      "new": 4,
       "status": "ok",
       "fetched": 30
     },
@@ -60,7 +60,7 @@
     {
       "source_id": "hackernews",
       "name": "Hacker News",
-      "new": 1,
+      "new": 3,
       "status": "ok",
       "fetched": 30
     },
@@ -77,8 +77,120 @@
       "new": 0,
       "status": "ok",
       "fetched": 10
+    },
+    {
+      "source_id": "rebuild",
+      "name": "Rebuild",
+      "new": 0,
+      "status": "ok",
+      "fetched": 557
+    },
+    {
+      "source_id": "mozaic",
+      "name": "mozaic.fm",
+      "new": 1,
+      "status": "ok",
+      "fetched": 225
+    },
+    {
+      "source_id": "fukabori",
+      "name": "fukabori.fm",
+      "new": 1,
+      "status": "ok",
+      "fetched": 142
+    },
+    {
+      "source_id": "qiita-fm",
+      "name": "Qiita FM",
+      "new": 1,
+      "status": "ok",
+      "fetched": 166
+    },
+    {
+      "source_id": "london-tech-talk",
+      "name": "London Tech Talk",
+      "new": 0,
+      "status": "ok",
+      "fetched": 226
+    },
+    {
+      "source_id": "yurucom",
+      "name": "ゆるコンピュータ科学ラジオ",
+      "new": 2,
+      "status": "ok",
+      "fetched": 249
+    },
+    {
+      "source_id": "backspace",
+      "name": "backspace.fm",
+      "new": 1,
+      "status": "ok",
+      "fetched": 15
+    },
+    {
+      "source_id": "se-daily",
+      "name": "Software Engineering Daily",
+      "new": 2,
+      "status": "ok",
+      "fetched": 100
+    },
+    {
+      "source_id": "se-radio",
+      "name": "Software Engineering Radio",
+      "new": 1,
+      "status": "ok",
+      "fetched": 745
+    },
+    {
+      "source_id": "kubernetes-podcast",
+      "name": "Kubernetes Podcast from Google",
+      "new": 0,
+      "status": "ok",
+      "fetched": 272
+    },
+    {
+      "source_id": "screaming-in-the-cloud",
+      "name": "Screaming in the Cloud",
+      "new": 0,
+      "status": "ok",
+      "fetched": 680
+    },
+    {
+      "source_id": "oxide-and-friends",
+      "name": "Oxide and Friends",
+      "new": 0,
+      "status": "ok",
+      "fetched": 188
+    },
+    {
+      "source_id": "changelog",
+      "name": "The Changelog",
+      "new": 0,
+      "status": "ok",
+      "fetched": 1014
+    },
+    {
+      "source_id": "latent-space",
+      "name": "Latent Space",
+      "new": 3,
+      "status": "ok",
+      "fetched": 231
+    },
+    {
+      "source_id": "syntax",
+      "name": "Syntax",
+      "new": 2,
+      "status": "ok",
+      "fetched": 1043
+    },
+    {
+      "source_id": "hard-fork",
+      "name": "Hard Fork",
+      "new": 2,
+      "status": "ok",
+      "fetched": 218
     }
   ],
-  "successes": 11,
+  "successes": 27,
   "failures": 0
 }
