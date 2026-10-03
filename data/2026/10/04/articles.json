@@ -193,5 +193,455 @@
         "category": "podcast"
       }
     ]
+  },
+  {
+    "id": "e2fccb2960653f4207559a948354bfdf69d44e4edaf34f46c630afbf0368e017",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/",
+    "title": "AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer",
+    "summary": "Editor’s note : AI21 Labs is a leading global AI lab with a long track record of building foundation models, most notably the Jamba family, and today focuses on specialized LLMs and agent optimization technology. By adopting Google Cloud AI",
+    "published_at": "2026-10-02T19:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "2b5c84b0751fea5c554e7a7e45f2debd434e9f5360968c4f3174d44266ed2fd4",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "title": "What’s new with Google Cloud",
+    "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking",
+    "published_at": "2026-10-02T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "5f3f4eec6ac419284468432138ca08ede3e5f5299d5697f124665b3ebcc5f263",
+    "url": "https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/",
+    "title": "Announcing Spanner queues: Transactional messaging for agentic workloads and beyond",
+    "summary": "AI agents don't just answer queries — they can autonomously issue refunds, manage inventory, execute multi-step handoffs, and orchestrate sub-agents, to name but a few complex agentic workflows. That frequently requires the agents to mainta",
+    "published_at": "2026-10-02T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "f8f1ea2fdecb2688ba2407a263448354a5f5cf3a69af88adfc335e6175c8f74d",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-cpu-startup-boost-faster-pod-starts-lower-costs/",
+    "title": "GKE CPU startup boost: Accelerate app starts without over-provisioning",
+    "summary": "Whether you’re launching microservices in response to sudden traffic spikes, deploying new software releases, or scaling up application replicas, pod startup time is critical to maintaining a fast, responsive user experience for application",
+    "published_at": "2026-10-02T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "042fb74fded9612e583621bc15d7897062fdfa5bbdf9e6307b85471f80a58348",
+    "url": "https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/",
+    "title": "How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey",
+    "summary": "Enterprise AI agents need persistent memory to execute complex, multi-day workflows and long-horizon tasks. In this blog, we examine how a 2-tier memory architecture using Memorystore for Valkey for short-term buffer memory and AlloyDB AI f",
+    "published_at": "2026-10-02T07:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "6af54b44e49006509bc743429a140115d49003f8d2a3d42da0963ca1309fd494",
+    "url": "https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/",
+    "title": "Enabling Cloud Storage end-to-end checksums for improved data integrity and durability",
+    "summary": "At Google Cloud, we know that you count on us to maintain the durability and integrity of your data at all times, both at rest and in transit. And now we’re making it easier for developers to take advantage of native data integrity features",
+    "published_at": "2026-10-01T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "60e993943dc5f983350fb2a32d8ab7ef7743abae839fc011913affe06b2c67b6",
+    "url": "https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/",
+    "title": "Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark",
+    "summary": "In a data-driven world, PayPal’s ability to deliver timely and actionable insights is central to staying ahead. At PayPal, data powers everything from fraud detection to user experience enhancements. Data is also central to unleashing the p",
+    "published_at": "2026-10-01T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "b42196f4e9235bfc32a5bb2f08bde07b8d32c57b35b5054ef4b150e456bce470",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/",
+    "title": "Democratizing Managed Lustre with lower cost and frictionless development",
+    "summary": "This is the first of a two-part series exploring how Google Cloud is bringing the foundational values of a high-performance parallel filesystem–TB/s throughput, sub-ms latency at high client scale, and POSIX support–to a broader set of use ",
+    "published_at": "2026-10-01T13:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "279b8adba69fabff6ae710e38f2bf5ec9808f105337447f75307a2a6b72f37fe",
+    "url": "https://cloud.google.com/blog/products/chrome-enterprise/the-future-of-browser-based-security-leveraging-browser-data-for-proactive-defense/",
+    "title": "The future of browser-based security: Leveraging browser data for proactive defense",
+    "summary": "The browser has changed significantly. Rather than just a window to the web, it serves as an AI workspace and central operating environment for the modern enterprise. With knowledge workers spending over 56% of their workday in the browser,",
+    "published_at": "2026-10-01T09:02:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "28bdd2eb13579fd49aaf2ccd3d4764eb0bf0f228a2befb4076e02377803c2100",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/",
+    "title": "Introducing the Server Side Cloud Swift SDK",
+    "summary": "For years, Swift was perceived mainly as a UI language tied to Apple client devices. With Swift 6 and strict concurrency checking, it has matured into a viable systems and cloud language, pairing Rust-like data-race safety with predictable,",
+    "published_at": "2026-10-01T04:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "5cf89091d808cff20fcf4fb9a319892ac05bfcbe7e8db5c28c5476c1264aa66d",
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+    "title": "What’s new in AI infrastructure and orchestration in September",
+    "summary": "We hereby declare September to be scalability month! As the world prepares for a surge of agentic fleets, we are shoring up our AI infrastructure and orchestration offerings to gracefully — and quickly — respond to that demand, all while ma",
+    "published_at": "2026-09-30T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "b177000b26d072d35aa7e7c1f708f6deabafdfd200c7493b373c7508d7312481",
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/",
+    "title": "Cloud CISO Perspectives: How cybersecurity startups can win CISOs",
+    "summary": "Welcome to the second Cloud CISO Perspectives for September 2026. Today, Alicja Cade and Nick Godfrey, senior directors, Office of the CISO, share their guidance for cybersecurity startups on how to win over the CISOs who will become crucia",
+    "published_at": "2026-09-30T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "57a736be887f089984e7ab80c8a0d63a15a9587192443d2cd7f9a843aab8e325",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/",
+    "title": "Empower your agents with the Google Cloud CLI remote MCP server",
+    "summary": "Today, we’re expanding our ecosystem of managed remote MCP servers by introducing the Google Cloud CLI remote MCP server in preview. Powered by the popular gcloud and bq (BigQuery) command-line tools, this new server gives AI agents immedia",
+    "published_at": "2026-09-30T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "7f3b14aaade426f9be3cf3e6eb53ea62bfa560b608ed3bcc9a22a152519cbd6f",
+    "url": "https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/",
+    "title": "Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere",
+    "summary": "Spanner Omni , the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. With Spanner, Google pioneered the distributed SQ",
+    "published_at": "2026-09-30T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "ab41583e705d2644fe05cccecdf570166ea171249caab2a79338a50f977ec1a2",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+    "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+    "summary": "Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the ",
+    "published_at": "2026-09-30T14:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "3a3e4fdf67fdd3db4660b40606ba6637080820ec536434cb4cce1e59fa58e890",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/",
+    "title": "Data Agent Kit is now GA: Bring Google Data Cloud to any coding agent",
+    "summary": "Today, Google Cloud Data Agent Kit is generally available. Data Agent Kit is a free set of Model Context Protocol (MCP) tools and agent skills that lets the coding agent you already use work directly with your Google Cloud data products, wh",
+    "published_at": "2026-09-30T13:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "bf858dc0343629a35e4d856560ddaa71b0213681c30ec0d65b0c5511f409aa5c",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/",
+    "title": "Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox",
+    "summary": "When scaling up agentic reinforcement learning (RL) and evaluation across massive parallel rollouts, frontier AI labs inevitably hit a bottleneck: Expensive GPU clusters sit idle, waiting minutes for CPU sandbox cold-starts, plus thousands ",
+    "published_at": "2026-09-29T17:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "81965947e86ef04d9bc4d9acb3f2c4df9c7ccb3c8249be0def347f98f371890e",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/",
+    "title": "Graph Workflows in ADK: Everything You Need to Know",
+    "summary": "Graph engineering is the design work: breaking a task into nodes, connecting them with edges, and deciding where code, models, or people control the next step. The Agent Development Kit (ADK) 's Workflow turns that design into an executable",
+    "published_at": "2026-09-29T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "27d563ac597927eb60b00d5c39f4e2fa9cb2d51c16f9da851c830ba5510e1c0f",
+    "url": "https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/",
+    "title": "Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise",
+    "summary": "As threat actors increasingly use AI to accelerate and develop cyberattacks, enterprise defenders need to rely on both AI and a critical defender’s advantage: Business context that only you possess. Enterprise cyber defense spans identity, ",
+    "published_at": "2026-09-29T16:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "ccf57174172b76e0ed33d458766dffd813b9a4ba7a85b049a7335b6af4c48b04",
+    "url": "https://cloud.google.com/blog/topics/public-sector/defending-at-machine-speed-securing-the-public-sector-in-the-agentic-era/",
+    "title": "Defending at machine speed: Securing the public sector in the agentic era",
+    "summary": "Over the last three decades in cybersecurity, I’ve witnessed major paradigm shifts — yet none match the velocity and complexity of today’s landscape. Attackers are now using AI to move at machine speed: accelerating intrusions, exploiting z",
+    "published_at": "2026-09-29T14:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "d98f139f177996550126c3d2910646e9ca449a6f810677ea0e73c3edd6c21daa",
+    "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
+    "title": "Build with Azure Canvases: a shared workspace for agents",
+    "summary": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microsoft ",
+    "published_at": "2026-09-29T18:30:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "microsoft-devblogs",
+        "name": "Microsoft Dev Blogs",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "583ce8f789fb325b92de30e8c7d69b545b9fbd1dec10108cae267dccaa7076e0",
+    "url": "https://devblogs.microsoft.com/blog/enabling-consistent-ai-assisted-engineering-with-github-copilot-plugins/",
+    "title": "Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins",
+    "summary": "When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Shari",
+    "published_at": "2026-09-29T16:30:35+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "microsoft-devblogs",
+        "name": "Microsoft Dev Blogs",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "876839af842c953e7e8faac1523bc2bfd4c8ca4c0a082557aed78fd3de849a25",
+    "url": "https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/",
+    "title": "Get started with the GitHub Copilot app: a free, hands-on course",
+    "summary": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft fo",
+    "published_at": "2026-09-28T18:05:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "microsoft-devblogs",
+        "name": "Microsoft Dev Blogs",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "e9858f0599b3d2a2f24ef16aa5a0a5c8c33d02b71451108c9017d26f68010e4f",
+    "url": "https://www.hashicorp.com/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules",
+    "title": "Terraform 1.16 completes Actions lifecycles and brings imports into child modules",
+    "summary": "Terraform 1.16 adds destroy-time Actions and reusable imports in child modules, keeping more infrastructure lifecycle operations in Terraform.",
+    "published_at": "2026-09-28T07:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "hashicorp",
+        "name": "HashiCorp Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "6a17476a3914bc10f6292f9945d5bb09bc3e6ab1fd40a83e1fe87457832162a3",
+    "url": "https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/",
+    "title": "DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent",
+    "summary": "",
+    "published_at": "2026-10-02T00:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "gitlab",
+        "name": "GitLab Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "321e4aac0f13602a3a4a753492d9828bca799ab82afb744e8a002d0936fafc06",
+    "url": "https://about.gitlab.com/blog/gitlab-and-claude-code-fast-compliant-ai/",
+    "title": "GitLab and Claude Code: Fast, compliant AI",
+    "summary": "",
+    "published_at": "2026-09-29T00:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "gitlab",
+        "name": "GitLab Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "51b939f68260d67ab8cf28d3869ba88c2598f642ee6d18cdb91a710ab9cb3536",
+    "url": "https://about.gitlab.com/blog/whats-new-in-git-2-56-0/",
+    "title": "What's new in Git 2.56.0?",
+    "summary": "",
+    "published_at": "2026-09-28T00:00:00+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "gitlab",
+        "name": "GitLab Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "fa52767c4594f11298ddb7bb034440322d3b8654b904b535468e2f07375e6e37",
+    "url": "https://sreweekly.com/sre-weekly-issue-536/",
+    "title": "SRE Weekly Issue #536",
+    "summary": "View on sreweekly.com A message from our sponsor, Planetscale: PlanetScale is headed to SREcon26 in Dublin this October. Swing by our booth to grab some merch, catch a live demo, and chat with the team behind the world’s fastest databases. ",
+    "published_at": "2026-09-28T03:02:53+00:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "sre-weekly",
+        "name": "SRE Weekly",
+        "category": "news"
+      }
+    ]
+  },
+  {
+    "id": "9a4378c5a003753a8693e84b57c8768a816afd94c05696f9921ac9c273d5ef61",
+    "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+    "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起 (更新)",
+    "summary": "",
+    "published_at": "2026-10-02T14:15:00+09:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "jpcert",
+        "name": "JPCERT/CC 注意喚起",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "a74e582f73aca8d373f264b233fced74b010d6fa10990f6c9436983213ce978d",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html",
+    "title": "Weekly Report: ServiceNow AI Platformに複数の脆弱性",
+    "summary": "ServiceNow AI Platformに複数の脆弱性",
+    "published_at": "2026-09-30T09:07:00+09:00",
+    "collected_at": "2026-10-04T02:02:41.110310+09:00",
+    "sources": [
+      {
+        "id": "jpcert",
+        "name": "JPCERT/CC 注意喚起",
+        "category": "official"
+      }
+    ]
   }
 ]

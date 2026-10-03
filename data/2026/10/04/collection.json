@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T02:00:39.242772+09:00",
+  "collected_at": "2026-10-04T02:02:41.110310+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -16,6 +16,34 @@
       "fetched": 10
     },
     {
+      "source_id": "google-cloud",
+      "name": "Google Cloud Blog",
+      "new": 20,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
+      "source_id": "microsoft-devblogs",
+      "name": "Microsoft Dev Blogs",
+      "new": 3,
+      "status": "ok",
+      "fetched": 10
+    },
+    {
+      "source_id": "hashicorp",
+      "name": "HashiCorp Blog",
+      "new": 1,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
+      "source_id": "gitlab",
+      "name": "GitLab Blog",
+      "new": 3,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
       "source_id": "cloudflare",
       "name": "Cloudflare Blog",
       "new": 0,
@@ -25,7 +53,7 @@
     {
       "source_id": "developersio",
       "name": "DevelopersIO",
-      "new": 2,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -46,7 +74,7 @@
     {
       "source_id": "hatena-it",
       "name": "はてな：テクノロジー",
-      "new": 4,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -60,7 +88,7 @@
     {
       "source_id": "hackernews",
       "name": "Hacker News",
-      "new": 6,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -70,6 +98,20 @@
       "new": 0,
       "status": "ok",
       "fetched": 15
+    },
+    {
+      "source_id": "sre-weekly",
+      "name": "SRE Weekly",
+      "new": 1,
+      "status": "ok",
+      "fetched": 5
+    },
+    {
+      "source_id": "jpcert",
+      "name": "JPCERT/CC 注意喚起",
+      "new": 2,
+      "status": "ok",
+      "fetched": 36
     },
     {
       "source_id": "terragrunt",
@@ -123,7 +165,7 @@
     {
       "source_id": "backspace",
       "name": "backspace.fm",
-      "new": 1,
+      "new": 0,
       "status": "ok",
       "fetched": 15
     },
@@ -191,6 +233,6 @@
       "fetched": 218
     }
   ],
-  "successes": 27,
+  "successes": 33,
   "failures": 0
 }
