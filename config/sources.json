@@ -32,7 +32,7 @@
     {"id":"screaming-in-the-cloud","name":"Screaming in the Cloud","url":"https://feeds.transistor.fm/screaming-in-the-cloud","category":"podcast","language":"en"},
     {"id":"oxide-and-friends","name":"Oxide and Friends","url":"https://feeds.transistor.fm/oxide-and-friends","category":"podcast","language":"en"},
     {"id":"changelog","name":"The Changelog","url":"https://changelog.com/podcast/feed","category":"podcast","language":"en"},
-    {"id":"latent-space","name":"Latent Space","url":"https://api.substack.com/feed/podcast/1084089.rss","category":"podcast","language":"en"},
+    {"id":"latent-space","name":"Latent Space","url":"https://api.substack.com/feed/podcast/1084089.rss","category":"podcast","language":"en","enabled":false},
     {"id":"syntax","name":"Syntax","url":"https://feed.syntax.fm/rss","category":"podcast","language":"en"},
     {"id":"hard-fork","name":"Hard Fork","url":"https://feeds.simplecast.com/l2i9YnTd","category":"podcast","language":"en","link":"enclosure"}
   ]
