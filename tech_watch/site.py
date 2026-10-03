@@ -1,8 +1,9 @@
 import html
 import json
 from collections import defaultdict
+from datetime import datetime
 from pathlib import Path
-from .collector import canonical_url
+from .collector import JST, canonical_url
 
 CATEGORIES = {'community': 'IT界隈の話題・読みもの', 'engineering': '企業の実践・技術ブログ',
               'official': '公式の更新情報', 'news': '技術ニュース'}
@@ -64,51 +65,70 @@ def card(article, picked):
         return ''
     label = CATEGORIES[category(article)]
     sources = ' / '.join(s['name'] for s in article['sources'])
-    date = (article.get('published_at') or '')[:10] or '公開日不明'
+    date = article_day(article) if article.get('published_at') else '公開日不明（収集日で表示）'
     return f'''<article class="card" data-category="{category(article)}" data-picked="{str(picked).lower()}">
 <div class="meta">{escape(label)} <span>{escape(date)}</span></div>
 <h2><a href="{escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">{escape(article['title'])}</a></h2>
 <p>{escape(article.get('summary', ''))}</p><footer>{escape(sources)}</footer></article>'''
 
 
-def build(data_dir, output_dir):
+def article_day(article):
+    timestamp = article.get('published_at') or article['collected_at']
+    dt = datetime.fromisoformat(timestamp.replace('Z', '+00:00'))
+    return (dt if dt.tzinfo else dt.replace(tzinfo=JST)).astimezone(JST).strftime('%Y-%m-%d')
+
+
+def build(data_dir, output_dir, now=None):
     output = Path(output_dir)
     output.mkdir(parents=True, exist_ok=True)
-    days = []
-    for path in sorted(Path(data_dir).glob('*/*/*/articles.json'), reverse=True):
-        day = '-'.join(path.parent.parts[-3:])
+    today = (now or datetime.now(JST)).astimezone(JST).strftime('%Y-%m-%d')
+    groups = defaultdict(list)
+    reports = []
+    has_data = False
+    for path in sorted(Path(data_dir).glob('*/*/*/articles.json')):
+        has_data = True
+        collection_day = '-'.join(path.parent.parts[-3:])
         articles = json.loads(path.read_text(encoding='utf-8'))
+        for article in articles:
+            groups[article_day(article)].append(article)
         report_path = path.parent / 'collection.json'
-        report = json.loads(report_path.read_text(encoding='utf-8')) if report_path.exists() else None
-        days.append((day, articles, report))
-        (path.parent / 'digest.md').write_text(digest(day, articles), encoding='utf-8')
+        if report_path.exists():
+            reports.append(json.loads(report_path.read_text(encoding='utf-8')))
+        # The persisted digest remains a record of that collection day's new items.
+        (path.parent / 'digest.md').write_text(digest(collection_day, articles), encoding='utf-8')
     (output / 'style.css').write_text(CSS, encoding='utf-8')
     (output / 'app.js').write_text(JS, encoding='utf-8')
-    archive = ''.join(f'<a href="{day}.html">{day}<span>{len(rows)}件</span></a>' for day, rows, _ in days)
-    for index, (day, articles, report) in enumerate(days):
+    if not has_data:
+        (output / 'index.html').write_text(shell('<h1>tech-watch</h1><p>まだ収集データがありません。先に収集処理を実行してください。</p>', ''), encoding='utf-8')
+        return 0
+    groups.setdefault(today, [])
+    days = sorted(groups, reverse=True)
+    report = max(reports, key=lambda r: r['collected_at']) if reports else None
+    failures = [s for s in report['sources'] if s['status'] == 'error'] if report else []
+    status = '収集結果の記録なし'
+    if report:
+        status = f'最終収集 {html.escape(report["collected_at"][:19].replace("T", " "))} JST · 成功 {report["successes"]} / 失敗 {report["failures"]}'
+    errors = ''.join(f'<li>{html.escape(s["name"])}：{html.escape(s["error"])}</li>' for s in failures)
+    archive = ''.join(f'<a href="{day}.html">{day}<span>{len(groups[day])}件</span></a>' for day in days)
+    for day in days:
+        articles = sorted(groups[day], key=lambda a: (a.get('published_at') or a['collected_at'], a['id']), reverse=True)
         selected = curate(articles)
         ids = {a['id'] for a in selected}
-        ordered = selected + [a for a in articles if a['id'] not in ids]
-        failures = [s for s in report['sources'] if s['status'] == 'error'] if report else []
-        status = '収集結果の記録なし'
-        if report:
-            status = f'最終収集 {html.escape(report["collected_at"][:19].replace("T", " "))} JST · 成功 {report["successes"]} / 失敗 {report["failures"]}'
-        errors = ''.join(f'<li>{html.escape(s["name"])}：{html.escape(s["error"])}</li>' for s in failures)
-        body = f'''<div class="eyebrow">DAILY TECH JOURNAL</div><h1>{day}<small>今日の技術と、界隈の話題。</small></h1>
-<p class="intro">公式の更新から個人の発見まで。気になる記事を、少しずつ。</p>
-<div class="stats"><strong>{len(articles)}</strong> 収集記事 <strong>{len(selected)}</strong> ピックアップ</div>
-<details class="health" {'open' if failures else ''}><summary>{status}</summary><ul>{errors}</ul><p>概要はフィードの抜粋です。掲載日は収集日を基準にしています。</p></details>
+        tabs = ''.join(f'<a href="{date}.html" {"aria-current=page" if date == day else ""}>{date}{"（今日）" if date == today else ""}<span>{len(groups[date])}件</span></a>' for date in days)
+        body = f'''<div class="eyebrow">DAILY TECH JOURNAL</div><h1>{day}<small>日々の技術と、界隈の話題。</small></h1>
+<p class="intro">日本時間の公開日ごとに、その日の全記事を読めます。公開日不明の記事は収集日に表示します。</p>
+<nav class="day-tabs" aria-label="公開日を選択">{tabs}</nav>
+<div class="stats"><strong>{len(articles)}</strong> この日の記事 <strong>{len(selected)}</strong> ピックアップ</div>
+<details class="health" {'open' if failures else ''}><summary>{status}</summary><ul>{errors}</ul><p>概要はフィードの抜粋です。収集済みの記事を表示しています。</p></details>
 <div class="controls"><label>記事を検索<input id="search" type="search" placeholder="キーワード・情報源で検索"></label>
 <label>カテゴリ<select id="category"><option value="all">すべて</option>{''.join(f'<option value="{key}">{label}</option>' for key, label in CATEGORIES.items())}</select></label>
-<label>表示<select id="mode"><option value="picked">ピックアップ</option><option value="all">収集した全記事</option></select></label></div>
-<p id="count" aria-live="polite"></p><div class="cards">{''.join(card(a, a['id'] in ids) for a in ordered)}</div>
-<p id="empty" hidden>条件に合う記事がありません。表示条件や収集結果を確認してください。</p>'''
+<label>表示<select id="mode"><option value="all">この日の全記事</option><option value="picked">ピックアップ（最大20件）</option></select></label></div>
+<p id="count" aria-live="polite"></p><div class="cards">{''.join(card(a, a['id'] in ids) for a in articles)}</div>
+<p id="empty" hidden>この日、または選択した条件に合う記事がありません。別の日付や収集結果を確認してください。</p>'''
         page = shell(body, archive)
         (output / f'{day}.html').write_text(page, encoding='utf-8')
-        if index == 0:
+        if day == today:
             (output / 'index.html').write_text(page, encoding='utf-8')
-    if not days:
-        (output / 'index.html').write_text(shell('<h1>tech-watch</h1><p>まだ収集データがありません。先に収集処理を実行してください。</p>', ''), encoding='utf-8')
     return len(days)
 
 
@@ -141,3 +161,7 @@ if (search) {
   filter();
 }
 '''
+
+CSS += """
+.day-tabs{display:flex;gap:8px;overflow-x:auto;padding:8px 0 16px}.day-tabs a{flex:0 0 auto;text-decoration:none;color:var(--ink);border:1px solid var(--line);background:#fff;border-radius:8px;padding:10px 14px;font-size:13px}.day-tabs a span{display:block;font-size:11px;color:var(--muted)}.day-tabs a[aria-current=page]{background:var(--accent);color:#fff;border-color:var(--accent)}.day-tabs a[aria-current=page] span{color:#fff}.day-tabs a:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+"""
