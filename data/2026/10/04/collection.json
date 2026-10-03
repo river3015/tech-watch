@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T02:02:41.110310+09:00",
+  "collected_at": "2026-10-04T02:10:06.770067+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -18,28 +18,28 @@
     {
       "source_id": "google-cloud",
       "name": "Google Cloud Blog",
-      "new": 20,
+      "new": 0,
       "status": "ok",
       "fetched": 20
     },
     {
       "source_id": "microsoft-devblogs",
       "name": "Microsoft Dev Blogs",
-      "new": 3,
+      "new": 0,
       "status": "ok",
       "fetched": 10
     },
     {
       "source_id": "hashicorp",
       "name": "HashiCorp Blog",
-      "new": 1,
+      "new": 0,
       "status": "ok",
       "fetched": 20
     },
     {
       "source_id": "gitlab",
       "name": "GitLab Blog",
-      "new": 3,
+      "new": 0,
       "status": "ok",
       "fetched": 20
     },
@@ -53,7 +53,7 @@
     {
       "source_id": "developersio",
       "name": "DevelopersIO",
-      "new": 0,
+      "new": 1,
       "status": "ok",
       "fetched": 30
     },
@@ -88,7 +88,7 @@
     {
       "source_id": "hackernews",
       "name": "Hacker News",
-      "new": 0,
+      "new": 1,
       "status": "ok",
       "fetched": 30
     },
@@ -102,14 +102,14 @@
     {
       "source_id": "sre-weekly",
       "name": "SRE Weekly",
-      "new": 1,
+      "new": 0,
       "status": "ok",
       "fetched": 5
     },
     {
       "source_id": "jpcert",
       "name": "JPCERT/CC 注意喚起",
-      "new": 2,
+      "new": 0,
       "status": "ok",
       "fetched": 36
     },
@@ -215,8 +215,8 @@
       "source_id": "latent-space",
       "name": "Latent Space",
       "new": 0,
-      "status": "ok",
-      "fetched": 231
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "source_id": "syntax",
@@ -233,6 +233,6 @@
       "fetched": 218
     }
   ],
-  "successes": 33,
-  "failures": 0
+  "successes": 32,
+  "failures": 1
 }

@@ -643,5 +643,35 @@
         "category": "official"
       }
     ]
+  },
+  {
+    "id": "6b7e8088f60732e823899d38e46f3cc576795e88e81292df60521b5b0413ac2e",
+    "url": "https://dev.classmethod.jp/articles/dynamodb-filtered-export-s3/",
+    "title": "DynamoDBのS3エクスポートにフィルタ指定が追加。FullとIncrementalで試してみた",
+    "summary": "DynamoDBのExport to S3に追加されたフィルタ指定を、FullとIncrementalで試しました。更新の多いテーブルのスナップショットなどで、必要な項目だけを出力できるかを確認しています。",
+    "published_at": "2026-10-03T17:05:42+00:00",
+    "collected_at": "2026-10-04T02:10:06.770067+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "e0c902dcef68e9836fe0c348bd3fb46ff5004726c7f794accec1ef3751a1fcfb",
+    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+    "title": "RetailReady (YC W24) Is Hiring",
+    "summary": "Comments",
+    "published_at": "2026-10-03T17:00:12+00:00",
+    "collected_at": "2026-10-04T02:10:06.770067+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
   }
 ]
