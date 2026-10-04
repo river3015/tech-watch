@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T11:24:04.205398+09:00",
+  "collected_at": "2026-10-04T11:27:06.900810+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -53,7 +53,7 @@
     {
       "source_id": "developersio",
       "name": "DevelopersIO",
-      "new": 3,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -74,7 +74,7 @@
     {
       "source_id": "hatena-it",
       "name": "はてな：テクノロジー",
-      "new": 4,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -88,7 +88,7 @@
     {
       "source_id": "hackernews",
       "name": "Hacker News",
-      "new": 4,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -158,7 +158,7 @@
     {
       "source_id": "yurucom",
       "name": "ゆるコンピュータ科学ラジオ",
-      "new": 1,
+      "new": 0,
       "status": "ok",
       "fetched": 248
     },
