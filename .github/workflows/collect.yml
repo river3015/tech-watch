@@ -1,5 +1,11 @@
 name: Collect daily feeds
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/collect.yml'
+      - 'config/**'
+      - 'tech_watch/**'
   schedule:
     - cron: '17 22 * * *' # 07:17 JST (timing may be delayed by GitHub)
   workflow_dispatch:
@@ -12,8 +18,8 @@ concurrency:
   cancel-in-progress: false
 jobs:
   collect:
-    # Scheduling is opt-in; manual runs are also limited to the default branch.
-    if: github.ref_name == github.event.repository.default_branch && (github.event_name == 'workflow_dispatch' || vars.TECH_WATCH_ENABLED == 'true')
+    # Scheduling is opt-in; manual and relevant main pushes run immediately.
+    if: github.ref_name == github.event.repository.default_branch && (github.event_name != 'schedule' || vars.TECH_WATCH_ENABLED == 'true')
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
