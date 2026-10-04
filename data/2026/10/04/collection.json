@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T02:13:05.112562+09:00",
+  "collected_at": "2026-10-04T09:36:05.113303+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -53,28 +53,28 @@
     {
       "source_id": "developersio",
       "name": "DevelopersIO",
-      "new": 0,
+      "new": 5,
       "status": "ok",
       "fetched": 30
     },
     {
       "source_id": "zenn",
       "name": "Zenn",
-      "new": 0,
+      "new": 2,
       "status": "ok",
       "fetched": 20
     },
     {
       "source_id": "qiita",
       "name": "Qiita",
-      "new": 0,
+      "new": 10,
       "status": "ok",
       "fetched": 30
     },
     {
       "source_id": "hatena-it",
       "name": "はてな：テクノロジー",
-      "new": 0,
+      "new": 4,
       "status": "ok",
       "fetched": 30
     },
@@ -88,7 +88,7 @@
     {
       "source_id": "hackernews",
       "name": "Hacker News",
-      "new": 0,
+      "new": 24,
       "status": "ok",
       "fetched": 30
     },

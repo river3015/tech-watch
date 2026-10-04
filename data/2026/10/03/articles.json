@@ -841,6 +841,11 @@
         "id": "cloudflare",
         "name": "Cloudflare Blog",
         "category": "engineering"
+      },
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
       }
     ]
   },

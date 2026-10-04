@@ -673,5 +673,690 @@
         "category": "community"
       }
     ]
+  },
+  {
+    "id": "83459de2b246de34a877080fde8b42131394ab26dc0d125191f55f1163ddc005",
+    "url": "https://dev.classmethod.jp/articles/bedrock-troubleshooting-assistant-search-both-sources/",
+    "title": "[Amazon Bedrock] 設備が止まった。マニュアルと過去トラブル履歴を組み合わせたトラブル対応アシスタントを、50 問で評価しながら作ってみました",
+    "summary": "設備トラブル対応を支援するAIアシスタントを、Amazon Bedrockで構築しました。マニュアルと過去の対応履歴という2種類の情報源をどう組み合わせるかで、回答精度がどう変わるか、5段階で検証してみました。",
+    "published_at": "2026-10-04T00:32:02+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "b41faf9a361c9e74538766753a00a3297d4d81e16b5b0a9de85be958d37c9f4e",
+    "url": "https://dev.classmethod.jp/articles/amazon-corretto-september-2026-patch-tzdata/",
+    "title": "Amazon Corretto 2026年9月版の内容とバージョンの見分け方を確認してみた",
+    "summary": "Amazon Corretto 2026年9月版が8月版に続きリリースされました。CHANGELOG に CVE の記載はなく、タイムゾーンデータの更新と、一部バージョンのバグ修正が中心でした。ビルド番号で8月版と9月版を判別できます。",
+    "published_at": "2026-10-03T23:39:11+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "8252a576b50cc06c4c3862bc1d7cca784b422d1d0358620e2887144581a72e41",
+    "url": "https://dev.classmethod.jp/articles/aws-lambda-web-functions-source-analysis/",
+    "title": "リリース前のAWS Lambda Web Functions（lambda-web）の仕組みを公開ソースから読み解いてみた",
+    "summary": "AWS Lambda Web Functions（lambda-web）を botocore と AWS CLI v2 のソースから読み解きました。Node.js アプリの載せ方、deploy の流れ、CloudFront 対応を整理しています。API はリリース前のため、実際に動かした結果ではなく、ソースを読んだ内容です。",
+    "published_at": "2026-10-03T21:28:37+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "dee81214f0d676cbfb2868ebda9b697259352057c34ceda12ac933483a1d7312",
+    "url": "https://dev.classmethod.jp/articles/ecs-vpc-lattice-blue-green-deployment/",
+    "title": "ECS が VPC Lattice 経由で公開されているサービスの blue/green デプロイに対応したので試してみた",
+    "summary": "Amazon ECS の VPC Lattice 対応がアップデートされ、ALB を省いた構成でも blue/green デプロイが可能になりました。その動作を確認しました。",
+    "published_at": "2026-10-03T21:06:12+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "e8fae00eebd8e76ff696ccbe94351b6c12365fe7e4ea5f0e48d3c05d8aa415a8",
+    "url": "https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-internet-egress/",
+    "title": "AWS PrivateLink トンネルエンドポイントで閉域 VPC からインターネットへ出られるか試してみた",
+    "summary": "AWS PrivateLink のトンネルエンドポイントで、IGW も NAT Gateway もない VPC からインターネットへ出られるか試しました。HTTP/1.1・HTTP/2 の Web サイトと STS には到達でき、QUIC（HTTP/3）は通りませんでした。送信元 IP も確認しています。",
+    "published_at": "2026-10-03T20:51:05+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "17f7b703efd9c627a250eb100c1edc045e991d0cc8ba0c4abda7481f300fb059",
+    "url": "https://zenn.dev/339/articles/56ef43afde8bd2",
+    "title": "大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる",
+    "summary": "以下の記事を読んで、ボトルネックについての考えが私とだいぶ違うなあと思ったので、未来の大きなボトルネックを簡単にたくさん見つける方法について書きます。 https://www.pospome.work/entry/2026/09/28/152221 ボトルネックは爆弾ではない そもそもですが、緊急性のない重要な課題やボトルネックの発現の仕方について、私は 爆弾ではない と思います。というのは、緊急性のない重要な課題というのは、期日にいきなり爆発するというよりは、（もし期日があ",
+    "published_at": "2026-09-28T23:46:04+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ea54fe462fc3f61b7105d665125fdc3b4434d310f9153d021b838dca3556ce44",
+    "url": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
+    "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
+    "summary": "2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニアは Git を使うことを求められました。Git / GitHub を本格的に使い始めたのはそのときからです。 しかし Subversion と比",
+    "published_at": "2026-09-28T23:30:05+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "43d555d02e144e88c698551bd032a6e263f8d4448b93ed3f8275412c258253d3",
+    "url": "https://qiita.com/yosshi_/items/7ed4f99fbe9b96e360e3",
+    "title": "Kubernetesノードが物理障害でNotReadyになってからPodが再スケジュールされるまで",
+    "summary": "",
+    "published_at": "2026-10-03T18:32:45+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4d94492875738d0433dd9df4fc6355a9f31a76026039334fa515ab540020877e",
+    "url": "https://qiita.com/DwarfM42/items/b4a78fdbf38129ee2fcd",
+    "title": "Rust 1.99が来たので、実務で使えそうな変更と気をつけたいところを拾ってみる",
+    "summary": "",
+    "published_at": "2026-10-03T15:49:34+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d0d94afe5b0097982e43db1f52f978690f70b85b7cf111e8d0a38ec9eff072cd",
+    "url": "https://qiita.com/ryu0947/items/301d87399d61d79dcd51",
+    "title": "【Supabase】Supabase.jsでレコードにデータを追加&削除する",
+    "summary": "",
+    "published_at": "2026-10-03T05:59:26+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e709d7133211fe8b1a9e57440cf1624de1f6302b506ce432f30b33fb0dcde414",
+    "url": "https://qiita.com/o68606007/items/3d6261ea6c480f16042c",
+    "title": "Prisma/Drizzleをセットアップしschema.prismaが作成されなかった件",
+    "summary": "",
+    "published_at": "2026-10-03T14:38:23+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d5ff33ee958412aceb944e9a3a009e47058e05e3fdf35dd9c6b154a74818f2cc",
+    "url": "https://qiita.com/nogizakapython/items/bbac61e1e3061e3a31c4",
+    "title": "【Go】累乗の計算",
+    "summary": "",
+    "published_at": "2026-10-03T13:39:15+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0ae523dc71fc1a839cf392f3bc26119209470a5d3279e6c29dfdd86cd96d7918",
+    "url": "https://qiita.com/j45delight/items/59c989d4d9413660badc",
+    "title": "【ServiceNow】Build Agent に\"設計書\"を渡したら、ホロスコープ占いアプリが本気の仕上がりになった🔮(前編)",
+    "summary": "",
+    "published_at": "2026-10-03T18:23:25+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "50872de7edd3181d952686ccc1b650f8d73925cfddd008c5a6e818b3ae3dd01e",
+    "url": "https://qiita.com/skwt20/items/8260394163e6f1014f38",
+    "title": "OpenShift Local で Ansible Automation Platform (AAP) Operator を動かすまで",
+    "summary": "",
+    "published_at": "2026-10-01T20:21:32+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "52290395116cefcdf234ecd89587cd7c70fa0479508eca70721e4036523be281",
+    "url": "https://qiita.com/kanaamin/items/9c5e38ed5c47050bc538",
+    "title": "学び続けるためのちょっとしたコツ 〜仕事と同じ状況を個人で作る〜",
+    "summary": "",
+    "published_at": "2026-10-02T23:20:11+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "dff79210167ba1c67aa7096d5b11bc9ac5e4bb5e29a8c5a2a36ec46666f985b5",
+    "url": "https://qiita.com/torifukukaiou/items/2a5a53094b05488e9f66",
+    "title": "Qiita 15周年の隠しメッセージを、Elixir で取りに行った",
+    "summary": "",
+    "published_at": "2026-10-03T17:04:15+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9c64bcf533682839e1aab6fd78fceaefbc598a85b25a449e4f96522cb5c965c7",
+    "url": "https://qiita.com/J-T_ky2g/items/64b3c1b139bc5948e83b",
+    "title": "ReferenceError: document is not defined",
+    "summary": "",
+    "published_at": "2026-10-03T14:44:23+09:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "fc24051f86c08edad481776f48270f625fc8a9e948eee6115a5fc0a3a145f3a0",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/03/news015.html",
+    "title": "高市首相がAppleに要請――「自殺防止機能の搭載を」 生成AIへの相談増加を受け",
+    "summary": "「Appleティム・クック前CEOからお手紙をいただきました」――10月2日、高市早苗首相はXを通じて、Appleとの間で交わされた子どもの安全対策や自殺防止に向けた取り組みに関するやりとりについて公開した。 高市氏は若者の間で生成AIへの相談が増加している現状や海外での深刻な事例を挙げ、デバイスに自殺防止機能などの...",
+    "published_at": "2026-10-03T09:12:10+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f928a8786c8cdbfa1e71b50eecb6dd3d1f187eaac526003ce5150df4cdaff8fc",
+    "url": "https://togetter.com/li/2753759",
+    "title": "地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる",
+    "summary": "Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。 あわせて...",
+    "published_at": "2026-10-03T21:01:32+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "294a270419db07f1af0ed76ef156d16a32b7f3319fe64835eb661a0a3e47ca85",
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/",
+    "title": "Microsoft Digital Defense Report 2026 | Microsoft",
+    "summary": "In an era of interconnected risk, attackers are increasingly exploiting the trusted identities, systems, relationships, and services organizations rely on most. The 2026 Microsoft Digital Defense Report reveals a fundamental shift in cybers",
+    "published_at": "2026-10-03T08:35:42+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9bd8fd0c54bc359b9dbd01964ecf89eb05498ec89c317947d14c94440622c4fe",
+    "url": "https://anond.hatelabo.jp/20261003152005",
+    "title": "AI増田判定、便利すぎて本文を読まなくて済むようになってる",
+    "summary": "AI増田判定、便利すぎて本文を読まなくて済むようになってる 9月30日、はてな匿名ダイアリーがChatGPTから検索、閲覧、投稿できるようになった。10月2日にはClaudeからも使えるようになった。 はてな匿名ダイアリーがChatGPTから使えるようになりました はてな匿名ダイアリーがClaudeからも使えるようになりました 案の...",
+    "published_at": "2026-10-03T06:30:05+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "345f1755705d282a19e9b6b2dfd3b058484aab81833d520923e34990833223b2",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "summary": "Comments",
+    "published_at": "2026-10-04T00:20:16+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d3e5e8c1a81ab330ba5d779e811842b35dcb022b4b7efc84563501034773613b",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "summary": "Comments",
+    "published_at": "2026-10-03T22:07:13+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9b604f7e8ae2a435307a20a635e16c6bd25b2337cee15a0247788b807a75c763",
+    "url": "https://notoriousbfg.com/hole-punch/",
+    "title": "Hole Punch: Sling your spaceship around gravitational fields",
+    "summary": "Comments",
+    "published_at": "2026-10-03T18:06:45+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cbf695e19904fa49c8f52c8e16bb7a802bb564168890c291781a11251217e58b",
+    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+    "title": "Treachery in the Rodin Museum 3D scan verdict",
+    "summary": "Comments",
+    "published_at": "2026-10-03T18:01:27+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "737811d7489dff4e5738d935581842db430a51252ad79f2dc93964d670e0f29a",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "summary": "Comments",
+    "published_at": "2026-10-03T19:14:48+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "99805f8d7d27e661b7c20d52b5a9132e8bd8f96ed99ab835bda320dd3d1b7ecb",
+    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "title": "Reasons I didn't become an EMT, ranked",
+    "summary": "Comments",
+    "published_at": "2026-10-03T20:49:15+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f36703a9f261e3319ac4ab0d865536704ddeaadf691e65e5e993d2272587c73d",
+    "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+    "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+    "summary": "Comments",
+    "published_at": "2026-10-01T16:32:40+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "902a8fe9863c843c0c2009d21e8a71f5e8109d355be351f0a21eb78bc757a11c",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "summary": "Comments",
+    "published_at": "2026-10-03T22:18:13+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4a0091830ab0ebd58f10afdb6a69e99aeb64413408ee86fbfa7f833a2a90ee5e",
+    "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+    "title": "New York City should carefully measure a new tree",
+    "summary": "Comments",
+    "published_at": "2026-10-03T02:28:03+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6923b5b640af2dc781345f361a723f1686ea7cba8ac027926ce1461f00a1fe83",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "title": "Agents don't need memory, they need documentation",
+    "summary": "Comments",
+    "published_at": "2026-10-03T17:03:37+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "780f6b820b886ddd05fad071b52325e56c58c41feb1dbd7c829e81afc2fed2d4",
+    "url": "https://thoreaubasic.com/",
+    "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+    "summary": "Comments",
+    "published_at": "2026-10-03T07:28:54+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "337e3f19ed608da6ed2eaa074c37824d2448ce12e803e9adc25e2252dae088aa",
+    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "summary": "Comments",
+    "published_at": "2026-10-03T18:29:30+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4dea5cab34ef9b947d31cdcf26880bde77c09981f156d9b0019a206d4ed23157",
+    "url": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+    "title": "Your body of work thinks back at you",
+    "summary": "Comments",
+    "published_at": "2026-09-30T13:20:03+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ef692f37b42539e104245c3da1bf1d3eb9fc533a406bce1bc261eb5829fb3bc1",
+    "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
+    "title": "Gboard Conveyor Belt Version",
+    "summary": "Comments",
+    "published_at": "2026-10-01T21:54:26+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "dd3b271db0f1d6370ecd961e025929fdb670097588906db53acb778d5ed41573",
+    "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
+    "title": "Watson Jr. memo about CDC 6600 (1963)",
+    "summary": "Comments",
+    "published_at": "2026-10-03T12:27:31+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "13d13608380ca28e5a2a28bb199865c675da34b942dfdeeef3dc887f843e06bd",
+    "url": "https://pipod.dev/",
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "summary": "Comments",
+    "published_at": "2026-10-02T19:10:38+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "53185a3fc7ba8234a14ffd268c19a9dbb7146f4449afff8f7d898493701cdd35",
+    "url": "https://halide.cx/blog/wpd/",
+    "title": "Memory-Safe WebP Decoding",
+    "summary": "Comments",
+    "published_at": "2026-10-03T05:45:30+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d55eb8582836ddbd05e737d3a3095391d799ff3085e32ff92510987972271c81",
+    "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+    "title": "Surely you have ultra-wideband radios on your bins too?",
+    "summary": "Comments",
+    "published_at": "2026-10-03T20:27:44+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9baa27e59b041ecae4274e79983eb97a18e41a441cb57132943a4db9f18659ba",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "title": "How to hack time, with C2PA",
+    "summary": "Comments",
+    "published_at": "2026-10-03T18:52:06+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c4bf1755ad7c4f61ce624a0164392013a93b6885ecd89e3e5e1b43ae0ed057b2",
+    "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+    "title": "RSS Feed Best Practices (2022)",
+    "summary": "Comments",
+    "published_at": "2026-10-03T19:09:25+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "80a736548c4121cc63d31f0c5b539eaee049c7ae81681f5e64368d2d44e75a05",
+    "url": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
+    "title": "The Softmax function and its derivative",
+    "summary": "Comments",
+    "published_at": "2026-10-01T23:24:21+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d43566dfb726f16d246aa1819d6a21154ff1784be6e9eab38dcf1943f9851879",
+    "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+    "title": "Docker has always used microVMs (well since 2016)",
+    "summary": "Comments",
+    "published_at": "2026-10-03T15:55:31+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6c262f02f825c76352c380373eb3aacaad436c994d9c3f70adf49457ea89a600",
+    "url": "https://shannadige.com/blog/darkroom/",
+    "title": "Automating my 35mm film scanning pipeline",
+    "summary": "Comments",
+    "published_at": "2026-10-03T17:35:42+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "698e9e5b3d33b64b291a524d205837f374ce051a89d69eec097d1980ebcc3d43",
+    "url": "https://vxlang.org/",
+    "title": "Vx – One Language, Every Chip",
+    "summary": "Comments",
+    "published_at": "2026-10-03T17:23:20+00:00",
+    "collected_at": "2026-10-04T09:36:05.113303+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
   }
 ]

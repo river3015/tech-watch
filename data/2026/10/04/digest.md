@@ -1,22 +1,24 @@
 # 2026-10-04 のまとめ
 
-収集 45 件 / ピックアップ 15 件
+収集 90 件 / ピックアップ 17 件
 
 各カテゴリから最大5件を、情報源が偏らないように選んでいます。概要は配信フィードの抜粋です。
 
 ## IT界隈の話題・読みもの
 
-- [RetailReady (YC W24) Is Hiring](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations) — Hacker News
-- [東京が3億円で電気をかき集めた夏、カリフォルニアは家の蓄電池を束ねて乗り切った | ギズモード・ジャパン](https://www.gizmodo.jp/article/sunrun-tesla-home-battery-power-plant/) — はてな：テクノロジー
-- [City building games have a Soul Problem pt.2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2) — Hacker News
-- [CSS の margin-trim でコンテナーの端の余白を取り除く](https://azukiazusa.dev/blog/css-margin-trim/) — はてな：テクノロジー
-- [FTL: A new operating system for clouds](https://ftl-os.org/) — Hacker News
+- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — Hacker News
+- [地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる](https://togetter.com/li/2753759) — はてな：テクノロジー
+- [Kubernetesノードが物理障害でNotReadyになってからPodが再スケジュールされるまで](https://qiita.com/yosshi_/items/7ed4f99fbe9b96e360e3) — Qiita
+- [大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる](https://zenn.dev/339/articles/56ef43afde8bd2) — Zenn
+- [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) — Hacker News
 
 ## 企業の実践・技術ブログ
 
-- [DynamoDBのS3エクスポートにフィルタ指定が追加。FullとIncrementalで試してみた](https://dev.classmethod.jp/articles/dynamodb-filtered-export-s3/) — DevelopersIO
-- [Decision 2.0 を Strands Decider と同じ 20 問で M4 Mac の MPS で試してみた](https://dev.classmethod.jp/articles/decision2-strands-decider-20q-m4-mps/) — DevelopersIO
-- [2026年9月にリリースされたSnowflakeの新機能・変更点のまとめ #SnowflakeDB](https://dev.classmethod.jp/articles/snowflake-latest-info-202609/) — DevelopersIO
+- [\[Amazon Bedrock\] 設備が止まった。マニュアルと過去トラブル履歴を組み合わせたトラブル対応アシスタントを、50 問で評価しながら作ってみました](https://dev.classmethod.jp/articles/bedrock-troubleshooting-assistant-search-both-sources/) — DevelopersIO
+- [Amazon Corretto 2026年9月版の内容とバージョンの見分け方を確認してみた](https://dev.classmethod.jp/articles/amazon-corretto-september-2026-patch-tzdata/) — DevelopersIO
+- [リリース前のAWS Lambda Web Functions（lambda-web）の仕組みを公開ソースから読み解いてみた](https://dev.classmethod.jp/articles/aws-lambda-web-functions-source-analysis/) — DevelopersIO
+- [ECS が VPC Lattice 経由で公開されているサービスの blue/green デプロイに対応したので試してみた](https://dev.classmethod.jp/articles/ecs-vpc-lattice-blue-green-deployment/) — DevelopersIO
+- [AWS PrivateLink トンネルエンドポイントで閉域 VPC からインターネットへ出られるか試してみた](https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-internet-egress/) — DevelopersIO
 
 ## 公式の更新情報
 
