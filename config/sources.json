@@ -14,6 +14,8 @@
     {"id":"qiita","name":"Qiita","url":"https://qiita.com/popular-items/feed","category":"community"},
     {"id":"hatena-it","name":"はてな：テクノロジー","url":"https://b.hatena.ne.jp/hotentry/it.rss","category":"community"},
     {"id":"hatena-all","name":"はてな：総合","url":"https://b.hatena.ne.jp/hotentry/all.rss","category":"community","keywords":["IT","AI","エンジニア","プログラ","開発","ガジェット","ネット","ソフトウェア","クラウド","技術","github","linux","仕事","働き方"]},
+    {"id":"findy-engineer-lab","name":"Findy Engineer Lab","url":"https://api.findy-code.io/rss/media/recent","category":"career","keywords":["キャリア","転職","働き方","採用","面接","評価","報酬","年収","マネジメント","マネージャー","スタッフエンジニア","Staff Engineer","学び","勉強","登壇","組織","キャリアラダー"]},
+    {"id":"hatena-career","name":"はてな：学び（キャリア）","url":"https://b.hatena.ne.jp/hotentry/knowledge.rss","category":"career","keywords":["キャリア","転職","技術面接","キャリアラダー","スタッフエンジニア","Staff Engineer","エンジニアリングマネージャー","開発組織","働き方","採用"]},
     {"id":"hackernews","name":"Hacker News","url":"https://news.ycombinator.com/rss","category":"community"},
     {"id":"publickey","name":"Publickey","url":"https://www.publickey1.jp/atom.xml","category":"news"},
     {"id":"sre-weekly","name":"SRE Weekly","url":"https://sreweekly.com/feed/","category":"news"},

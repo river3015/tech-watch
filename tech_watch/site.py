@@ -5,7 +5,8 @@ from datetime import datetime
 from pathlib import Path
 from .collector import JST, canonical_url
 
-CATEGORIES = {'community': 'IT界隈の話題・読みもの', 'engineering': '企業の実践・技術ブログ',
+CATEGORIES = {'career': 'エンジニアのキャリア・働き方',
+              'community': 'IT界隈の話題・読みもの', 'engineering': '企業の実践・技術ブログ',
               'official': '公式の更新情報', 'news': '技術ニュース',
               'podcast': 'ポッドキャスト'}
 
@@ -123,7 +124,7 @@ def build(data_dir, output_dir, now=None):
 <details class="health" {'open' if failures else ''}><summary>{status}</summary><ul>{errors}</ul><p>概要はフィードの抜粋です。収集済みの記事を表示しています。</p></details>
 <div class="controls"><label>記事を検索<input id="search" type="search" placeholder="キーワード・情報源で検索"></label>
 <label>カテゴリ<select id="category"><option value="all">すべて</option>{''.join(f'<option value="{key}">{label}</option>' for key, label in CATEGORIES.items())}</select></label>
-<label>表示<select id="mode"><option value="all">この日の全記事</option><option value="picked">ピックアップ（最大20件）</option></select></label></div>
+<label>表示<select id="mode"><option value="all">この日の全記事</option><option value="picked">ピックアップ（最大{len(CATEGORIES) * 5}件）</option></select></label></div>
 <p id="count" aria-live="polite"></p><div class="cards">{''.join(card(a, a['id'] in ids) for a in articles)}</div>
 <p id="empty" hidden>この日、または選択した条件に合う記事がありません。別の日付や収集結果を確認してください。</p>'''
         page = shell(body, archive)

@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from datetime import datetime
 from tech_watch.collector import JST
-from tech_watch.site import build, curate
+from tech_watch.site import build, category, curate
 
 
 def article(i, source='one', cat='community'):
@@ -17,6 +17,11 @@ class SiteTests(unittest.TestCase):
         self.assertEqual(len(picked), 6)
         self.assertIn('two', [a['sources'][0]['id'] for a in picked])
         self.assertIn('official', [a['sources'][0]['id'] for a in picked])
+
+    def test_career_category_takes_priority_for_merged_sources(self):
+        row = article(1)
+        row['sources'].append({'id': 'career', 'name': 'Career', 'category': 'career'})
+        self.assertEqual(category(row), 'career')
 
     def test_build_escape_archive_empty_and_failures(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -59,6 +64,7 @@ class SiteTests(unittest.TestCase):
             self.assertNotIn('Today only', yesterday)
             self.assertIn('aria-current=page', today)
             self.assertIn('<option value="all">この日の全記事</option>', today)
+            self.assertIn('<option value="career">エンジニアのキャリア・働き方</option>', today)
             css = (root/'public/style.css').read_text()
             self.assertIn('@media(max-width:600px)', css)
             self.assertIn('grid-template-columns:repeat(2,minmax(0,1fr))', css)
