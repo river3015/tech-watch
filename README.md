@@ -65,7 +65,7 @@ GitHub Actionsで実行する場合、次回実行にも履歴を残せる保存
 
 ## 現在の状態
 
-RSS / Atom収集、日付別保存、重複排除、日次まとめ、静的サイト、localhostでの閲覧を実装済み。GitHub Actionsのワークフローは用意済みで、実環境での実行は未検証。通知・外部デプロイは未実装。
+RSS / Atom収集、日付別保存、重複排除、日次まとめ、静的サイト、localhostでの閲覧を実装済み。GitHub Actionsで毎日収集し、生成したサイトをGitHub Pagesへデプロイする。通知は未実装。
 
 ## ローカルで使う
 
@@ -114,10 +114,10 @@ python3 -m unittest discover -s tests -v
 
 [collect.yml](.github/workflows/collect.yml)に手動実行と毎日07:17 JSTの定期収集を用意した。定期実行を有効にするには、デフォルトブランチに配置したうえで、リポジトリのActions変数`TECH_WATCH_ENABLED`を`true`に設定する。手動実行はこの変数なしでも可能。今回の作業では変数設定や手動実行は行っていない。
 
-実行時はテスト → 収集・生成 → `data/`をデフォルトブランチへコミット・プッシュ → サイトとデータをArtifactとして7日間保存する。部分失敗の場合も成功データを保存し、最後にジョブを失敗として知らせる。全件失敗の場合はデータのプッシュを行わず、診断用Artifactを残す。
+実行時はテスト → 収集・生成 → `data/`をデフォルトブランチへコミット・プッシュ → サイトとデータをArtifactとして7日間保存 → GitHub Pagesへデプロイする。部分失敗の場合も成功データを保存し、最後にジョブを失敗として知らせる。この場合は直前の正常なPagesを維持する。全件失敗の場合はデータのプッシュやPagesデプロイを行わず、診断用Artifactを残す。
 
 `GITHUB_TOKEN`でデータを保存するため`contents: write`を指定している。ブランチ保護などで直接プッシュできない場合はジョブが失敗する。権限の拡大や保護の解除は行わず、必要に応じてデータ専用ブランチやPR方式に変更する。
 
 GitHubの定期実行は遅延することがあり、指定時刻の厳密な実行は保証されない。公開リポジトリでは非活動期間によりスケジュールが停止することもある。[GitHub公式のschedule仕様](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)を参照。
 
-[check.yml](.github/workflows/check.yml)はpush・PR時にテストとサイト生成を確認する。サイトの外部デプロイは含めていない。GitHub Pages・Cloudflare・MacBook上のローカル運用のどれにするかは引き続き未決定。
+[check.yml](.github/workflows/check.yml)はpush・PR時にテストとサイト生成を確認する。公開サイトは `https://river3015.github.io/tech-watch/` で、GitHub Pagesの仕様によりインターネットへ一般公開する。

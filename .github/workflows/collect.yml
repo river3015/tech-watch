@@ -5,6 +5,8 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: tech-watch-collect
   cancel-in-progress: false
@@ -45,6 +47,14 @@ jobs:
             data/
           retention-days: 7
           if-no-files-found: error
+      - name: Configure GitHub Pages
+        if: steps.collect.outcome == 'success'
+        uses: actions/configure-pages@v5
+      - name: Upload GitHub Pages artifact
+        if: steps.collect.outcome == 'success'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
       - name: Report partial collection failures
         if: steps.collect.outcome == 'success'
         run: |
@@ -58,3 +68,14 @@ jobs:
           if report['failures']:
               raise SystemExit('Some feeds failed; successful results were saved. Check collection.json.')
           PY
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
