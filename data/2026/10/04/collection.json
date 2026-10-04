@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T09:36:05.113303+09:00",
+  "collected_at": "2026-10-04T11:24:04.205398+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -53,21 +53,21 @@
     {
       "source_id": "developersio",
       "name": "DevelopersIO",
-      "new": 5,
+      "new": 3,
       "status": "ok",
       "fetched": 30
     },
     {
       "source_id": "zenn",
       "name": "Zenn",
-      "new": 2,
+      "new": 0,
       "status": "ok",
       "fetched": 20
     },
     {
       "source_id": "qiita",
       "name": "Qiita",
-      "new": 10,
+      "new": 0,
       "status": "ok",
       "fetched": 30
     },
@@ -88,7 +88,7 @@
     {
       "source_id": "hackernews",
       "name": "Hacker News",
-      "new": 24,
+      "new": 4,
       "status": "ok",
       "fetched": 30
     },
@@ -158,9 +158,9 @@
     {
       "source_id": "yurucom",
       "name": "ゆるコンピュータ科学ラジオ",
-      "new": 0,
+      "new": 1,
       "status": "ok",
-      "fetched": 249
+      "fetched": 248
     },
     {
       "source_id": "backspace",

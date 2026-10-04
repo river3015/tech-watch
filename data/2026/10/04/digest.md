@@ -1,24 +1,24 @@
 # 2026-10-04 のまとめ
 
-収集 90 件 / ピックアップ 17 件
+収集 102 件 / ピックアップ 18 件
 
 各カテゴリから最大5件を、情報源が偏らないように選んでいます。概要は配信フィードの抜粋です。
 
 ## IT界隈の話題・読みもの
 
-- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — Hacker News
-- [地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる](https://togetter.com/li/2753759) — はてな：テクノロジー
+- [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) — Hacker News
+- [「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿](https://www.itmedia.co.jp/news/article/2610/04/2000001986/) — はてな：テクノロジー
 - [Kubernetesノードが物理障害でNotReadyになってからPodが再スケジュールされるまで](https://qiita.com/yosshi_/items/7ed4f99fbe9b96e360e3) — Qiita
 - [大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる](https://zenn.dev/339/articles/56ef43afde8bd2) — Zenn
-- [OpenAI safety leader quits, warning AI company's culture is 'broken'](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) — Hacker News
+- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — Hacker News
 
 ## 企業の実践・技術ブログ
 
+- [Snowflakeアカウントのアカウント予算にカスタムアクションによる通知を追加する](https://dev.classmethod.jp/articles/snowflake-set-notification-custom-actions-to-root-account-budget/) — DevelopersIO
+- [Cloudflare の Clef に書類の種類を分類させてみた](https://dev.classmethod.jp/articles/cloudflare-clef-doc-classification/) — DevelopersIO
+- [Cloudflare の Clef とは？Jev との違いをまとめてみた](https://dev.classmethod.jp/articles/cloudflare-clef-overview/) — DevelopersIO
 - [\[Amazon Bedrock\] 設備が止まった。マニュアルと過去トラブル履歴を組み合わせたトラブル対応アシスタントを、50 問で評価しながら作ってみました](https://dev.classmethod.jp/articles/bedrock-troubleshooting-assistant-search-both-sources/) — DevelopersIO
 - [Amazon Corretto 2026年9月版の内容とバージョンの見分け方を確認してみた](https://dev.classmethod.jp/articles/amazon-corretto-september-2026-patch-tzdata/) — DevelopersIO
-- [リリース前のAWS Lambda Web Functions（lambda-web）の仕組みを公開ソースから読み解いてみた](https://dev.classmethod.jp/articles/aws-lambda-web-functions-source-analysis/) — DevelopersIO
-- [ECS が VPC Lattice 経由で公開されているサービスの blue/green デプロイに対応したので試してみた](https://dev.classmethod.jp/articles/ecs-vpc-lattice-blue-green-deployment/) — DevelopersIO
-- [AWS PrivateLink トンネルエンドポイントで閉域 VPC からインターネットへ出られるか試してみた](https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-internet-egress/) — DevelopersIO
 
 ## 公式の更新情報
 
@@ -34,5 +34,6 @@
 
 ## ポッドキャスト
 
+- [なぜスマホの料金プランは複雑なのか？ #248](https://podcasters.spotify.com/pod/show/yurucom/episodes/248-e3pmn3l) — ゆるコンピュータ科学ラジオ
 - [PlayStationのディスク生産終了とAMD Ryzen AI Max vs DGX Spark ep663](https://backspace.fm/ep663/) — backspace.fm
 

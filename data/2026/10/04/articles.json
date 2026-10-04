@@ -1358,5 +1358,195 @@
         "category": "community"
       }
     ]
+  },
+  {
+    "id": "4036869e1ff8ae99e7b434996f4f895511d5c9051bd02704ae09e5afcef5b078",
+    "url": "https://dev.classmethod.jp/articles/snowflake-set-notification-custom-actions-to-root-account-budget/",
+    "title": "Snowflakeアカウントのアカウント予算にカスタムアクションによる通知を追加する",
+    "summary": "Snowflakeのアカウント予算で複数の閾値での通知を実現したい場合、SQLを使ってカスタムアクションを追加することが可能です。この記事では、実際にカスタムアクションを設定して、通知閾値を設定した具体例をご紹介します。",
+    "published_at": "2026-10-04T02:03:49+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "46a97e850d74bddab0cd7e65c95e58a6b7c519f6c7b137f47c25db8b1efbf977",
+    "url": "https://dev.classmethod.jp/articles/cloudflare-clef-doc-classification/",
+    "title": "Cloudflare の Clef に書類の種類を分類させてみた",
+    "summary": "Cloudflare Workers AI の新しいマルチモーダルモデル「Clef」を使って、画像だけで請求書や見積書などの書類を自動分類できるか検証してみました。OCR を挟まずに28枚の架空書類を7種類に分けた結果と、確信度を使った誤分類の見分け方について紹介します。",
+    "published_at": "2026-10-04T01:07:26+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "670124803a6cb392b76d98b8792de04f193ea5e2c199e2342bfabec80ec5dc86",
+    "url": "https://dev.classmethod.jp/articles/cloudflare-clef-overview/",
+    "title": "Cloudflare の Clef とは？Jev との違いをまとめてみた",
+    "summary": "Cloudflare Workers AIで新しくリリースされた「Clef」というdecision modelについて、既存のJevとの違いや実際の動作比較をまとめました。",
+    "published_at": "2026-10-04T00:42:56+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "3c91eaa54ae801f1c8f7df405b32d6deae0e9e8093ca79f3b250360233bc89a1",
+    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+    "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+    "summary": "米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業...",
+    "published_at": "2026-10-03T23:32:18+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4b9ee57d39f1ba88a347ac09980c589007f27f15c57f363b88f5561b896df46c",
+    "url": "https://azukiazusa.dev/blog/e2e-ai-testing/",
+    "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
+    "summary": "e2e は自然言語による操作と、要素を指定した操作・アサーションを組み合わせられるテストフレームワークです。この記事では Todo アプリを対象に、AI に操作を任せて結果をコードで検証するテストを作成します。 E2E（End-to-End）テストでは、ユーザーがアプリケーションを操作する一連の流れを検証します。Playwright...",
+    "published_at": "2026-10-03T14:23:54+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "24f958d7d5df344977c20ebcd0863ee3e2abf4d4ee63e201dc9f4ecf8040d225",
+    "url": "https://gigazine.net/news/20261004-photon-matrix/",
+    "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+    "summary": "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer enters mass production - ...",
+    "published_at": "2026-10-03T23:12:52+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5b1bcce4b9ae20d08af830e667cc1268d5c5b74cb8754b1ee1210feb5fbe835b",
+    "url": "https://zenn.dev/uehaj/articles/claude-code-pstack-structure-memo",
+    "title": "【メモ】pstack (Claude Code 移植版pstack-claude) のスタック構成とオーケストレーションを読む",
+    "summary": "本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで扱う pstack はコミュニティによる移植版のプラグインで、更新が頻繁です。本文の記述は執筆時点(2026年10月, pstack-claude v0.9.63 / Claude Code v2.1.288 で確認)のものなので、最新の構成はリポジトリをご確認ください。 はじめ...",
+    "published_at": "2026-10-03T06:50:04+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b722d5fe788efcd8b4fa02c279ca36b51f890fa8488654cbd5cf966843a94fb7",
+    "url": "https://news.ycombinator.com/item?id=49949438",
+    "title": "Bob Cringely Has Died",
+    "summary": "Comments",
+    "published_at": "2026-10-04T00:50:52+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d8bc0a251d73e05508850cd05954dc8a4d258b6c4568b555f9128f5eada65bac",
+    "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+    "title": "Math's pedagogical curse – Grant Sanderson [video]",
+    "summary": "Comments",
+    "published_at": "2026-10-03T01:11:15+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a14dc90036f4ae6e98c86f479796cb3c553dd00d346fa26e5aee0446581c19e7",
+    "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+    "title": "So You Think You Could Be an Electrician?",
+    "summary": "Comments",
+    "published_at": "2026-09-30T15:43:27+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3fb28c80c17165869cdbd15e35e2c4474da3567dc9664c2b9cd3108417b9f771",
+    "url": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
+    "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
+    "summary": "Comments",
+    "published_at": "2026-10-04T00:09:21+00:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "39004695b78bdd9ad683f768fb47bcde13ea67bdc0565b87017f9429a0d6740c",
+    "url": "https://podcasters.spotify.com/pod/show/yurucom/episodes/248-e3pmn3l",
+    "title": "なぜスマホの料金プランは複雑なのか？ #248",
+    "summary": "【PR】：価格.com プロバイダ事業者38社から提供の料金プランを掲載！WiFi/インターネット回線の比較なら、価格.com プロバイダ https://kakaku.com/bb/?cid=bb_vcpj_y_nc_if_02 スマホの通信プランの比較なら、価格.com SIMカード比較 https://kakaku.com/mobile_data/sim/?cid=sim_vcpj_y_nc_if_02 【概要】 スマホの料金プランが複雑になる理由を話しました。答えを解",
+    "published_at": "2026-10-04T09:45:00+09:00",
+    "collected_at": "2026-10-04T11:24:04.205398+09:00",
+    "sources": [
+      {
+        "id": "yurucom",
+        "name": "ゆるコンピュータ科学ラジオ",
+        "category": "podcast"
+      }
+    ]
   }
 ]
