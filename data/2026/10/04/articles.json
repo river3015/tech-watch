@@ -1578,5 +1578,735 @@
         "category": "podcast"
       }
     ]
+  },
+  {
+    "id": "6dfcbc42185a572099fbffc7cd91fb33d461f275db62f0e9e950790eeb44aa4f",
+    "url": "https://dev.classmethod.jp/articles/obsidian-ai-second-brain-devio2026/",
+    "title": "「Obsidian × AIで始める「第二の脳」〜忘れても大丈夫なメモ環境を手軽につくる〜」というタイトルでDevelopersIO 2026 Okinawaに登壇しました #devio2026",
+    "summary": "DevelopersIO 2026 Okinawanで登壇した「Obsidian × AIで始める『第二の脳』」セッションの内容をお届けします。情報の整理に悩む方へ、Web Clipperを使った自動整理の仕組みと、AIに渡せる知識資産の作り方を紹介します。",
+    "published_at": "2026-10-04T08:00:10+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "857519ea27849697ab104cf232e5db7b46e52a509de316766df061c2cc16202f",
+    "url": "https://dev.classmethod.jp/articles/toyota-woven-city-visit-reservation-entry/",
+    "title": "トヨタ・ウーブン・シティを訪問してみた 予約・当日の入場編",
+    "summary": "2026 年 10 月 1 日に全国向けの受け入れが始まった Toyota Woven City を、One Day Weavers（ビジター）として訪問しました。予約・本人情報の登録から、岩波駅からのアクセス、岩波エントランスでの入場までの流れを紹介します。",
+    "published_at": "2026-10-04T05:17:47+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "06543e0d1cb9930d2d0db235318df6817f1741c4e964033fa5385f65f7f0dca1",
+    "url": "https://dev.classmethod.jp/articles/strengths-snowflake-cortex-ai-developersio-2026-osaka-day2-devio2026/",
+    "title": "【登壇資料】「LLM機能を自作して分かるSnowflake Cortex AIの強み」というタイトルで DevelopersIO 2026 Osaka Day 2に登壇しました #devio2026",
+    "summary": "DevelopersIO 2026 Osakaで「LLM機能を自作して分かるSnowflake Cortex AIの強み」というタイトルで登壇しました。AI関数、Cortex Agents、CoWorkなど、Snowflake Cortex AIの機能と今後期待している機能についてご紹介しました。",
+    "published_at": "2026-10-04T04:05:52+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "c6302d3634404935c528f8bde98a29bc5faeb8159de7f0163584f8ea187db236",
+    "url": "https://qiita.com/maskot1977/items/a7abc3c697d84e4b15a1",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 23",
+    "summary": "",
+    "published_at": "2026-10-03T00:56:42+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cdbca9b80e5a5b16e530612640c8098615c3984ec130c693e35a82d3d3314961",
+    "url": "https://qiita.com/maskot1977/items/bd208ba45c2e4fc44e59",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 24",
+    "summary": "",
+    "published_at": "2026-10-04T07:51:03+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8418178ded055ab877ee7ce2393363004e327bee9a3b0ae3b686ffb5de33b8b1",
+    "url": "https://qiita.com/nogataka/items/3bd4598ddf5c3e9c2b3e",
+    "title": "ゴールシークプロンプトとは ― AIに質問させて成果物を作る方法を、テンプレートと実例で解説",
+    "summary": "",
+    "published_at": "2026-10-04T14:53:21+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4dce5607263edf240c5ee8421e205b2e87818f0735e87b42fa4bd700b9742fe6",
+    "url": "https://qiita.com/tanekei/items/d3d322e2136a4d9659fc",
+    "title": "某星人が3年間戦った戦場へ、いざ参らん。.atcoder2",
+    "summary": "",
+    "published_at": "2026-10-04T10:20:33+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "79661b2e5f32d2c80688337f4203588210d066ddaa03f05b616350f9aa043101",
+    "url": "https://qiita.com/araom/items/83f8180524500f685416",
+    "title": "仕事が忙しいので、プライベートに AI 秘書を雇ってみた",
+    "summary": "",
+    "published_at": "2026-10-04T08:01:52+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f88dfe09ce7763e8644d1e31b29714785c6b3b24e52845c250a7ce0305e6204e",
+    "url": "https://qiita.com/ku_suke/items/73897fccd97f931deb09",
+    "title": "Claudeで日本語スキルを使うよりもGemini使ったほうが早いなって思った話",
+    "summary": "",
+    "published_at": "2026-10-04T11:10:11+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ad10d9e6e9b691d19def8646f33bee3f7aa4dcf1fa8eb7b12266848ed6caa5b9",
+    "url": "https://qiita.com/J-T_ky2g/items/c41b4066ad48b144afc3",
+    "title": "Vitestでどんなdomかをチェックする",
+    "summary": "",
+    "published_at": "2026-10-04T02:35:26+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cb0d4db626f3c41808b3b7a6f6341f6727a1f5f6692c5194cd7dd31022b18324",
+    "url": "https://qiita.com/ennagara128/items/25c2b4895ebcc875ca44",
+    "title": "文章を書かずに「選ぶだけ」のAI、Jevが続々登場？任せ方を整理｜10/4のQiitaトレンド20本をポッドキャストで",
+    "summary": "",
+    "published_at": "2026-10-04T12:02:46+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2b47e861b113a7a265632a720799a7ddf4032c47873001967c0646f0fa698759",
+    "url": "https://qiita.com/blinkgroup_jp/items/01a1126412b5b7b9b1c2",
+    "title": "AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例",
+    "summary": "",
+    "published_at": "2026-10-04T09:22:02+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b18f17174c545dbc6f621cdd960e221506bcaa6ddea757b34b220e8d251b69ec",
+    "url": "https://qiita.com/yakumo_09/items/106cc9768d5b1c78225e",
+    "title": "JAWS-UG 新潟支部にて 「AgentCoreで実践するハーネスエンジニアリング」というタイトルで登壇しました",
+    "summary": "",
+    "published_at": "2026-10-04T13:17:16+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "20942e8c22e7829e443a06b6ffe1d0e1c41f6207882dd9ec969b01a968ec18c6",
+    "url": "https://qiita.com/st_lab0934/items/c52f60898553b4c1b0d9",
+    "title": "ChatGPT Workで何が変わった？できることと、任せる前に知っておきたいリスク",
+    "summary": "",
+    "published_at": "2026-10-03T00:51:35+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a03653378279d299a3ad902653cab18ac52fa3fa1ecb841f71783a3e97337793",
+    "url": "https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb",
+    "title": "最近プロジェクトマネジメントで感じたこと",
+    "summary": "",
+    "published_at": "2026-10-04T13:05:42+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ba82233dc2624bcf32d72aa5739abd74636e0793a32b626739cd626026565bd0",
+    "url": "https://qiita.com/YushiYamamoto/items/a35a1878ab31e79b16ac",
+    "title": "Difyのアプリタイプを実行契約で選ぶ：会話状態・処理順序・副作用の境界",
+    "summary": "",
+    "published_at": "2026-10-03T07:17:09+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "771449b503799843930132314fac8c04e429a7e3750d47cbce5dad9974d91d69",
+    "url": "https://qiita.com/u-10bei/items/af9353098a15288bd5f7",
+    "title": "汎用の安全性ベンチマークのスコアをどう読むか──医療特化LLMでの評価から",
+    "summary": "",
+    "published_at": "2026-10-02T06:56:31+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "16683d2579b3ddec42e84d9f01945aa53f812f139b65b3a4dec6c8a4ec6a8e7a",
+    "url": "https://qiita.com/kougi/items/3660c6c137868d106597",
+    "title": "マルチエージェントを自律的に運用する -振る舞い劣化の隔離と回復-",
+    "summary": "",
+    "published_at": "2026-10-04T10:17:02+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d2263cc492e7fa4e3ac90def34dff926a6c562ba1d7aeebe074d0e37eda73d3e",
+    "url": "https://qiita.com/chooser/items/2458aa6c8c02e3b7e1c7",
+    "title": "Claude Code の cloud session に最大 $250 のクレジットが付きます ── 申請期限は日本時間 10月8日 15:59",
+    "summary": "",
+    "published_at": "2026-10-03T22:58:46+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a4c132372ee03fc606f79b7418ca1800701d163d1bce23878848ef8efb6f7c9f",
+    "url": "https://gigazine.net/news/20261004-cloudflare-quick-tunnels/",
+    "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
+    "summary": "PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 Cloudflare Quick ...",
+    "published_at": "2026-10-04T03:07:44+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "02b0cadf86df8eee15f44938fbde032fbb90edd0da5d8890a3ef1fc5b25c6f1b",
+    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
+    "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+    "summary": "米Googleは10月初旬に更新したGeminiのサポートページで、個人向け「Gemini」アプリで利用できるAIモデルを、加入しているGoogle AIの契約プランに応じて変更すると告知した。Google AIの有料プランを契約していない無料ユーザーについては10月9日から変更を適用し、利用できるモデルは「Flash-Lite」のみになる。 変更...",
+    "published_at": "2026-10-04T02:37:40+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "7e80ec10d5aa5d4245fb9e676e2f6759c8e871dd7232913205b77e7e40342ad6",
+    "url": "https://portalshit.net/2026/10/03/ai-is-eating-product-management",
+    "title": "AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった",
+    "summary": "生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先...",
+    "published_at": "2026-10-03T13:00:04+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "998fdaabd3af199599e6c60957eb5d3035b97ef58128c444743e9a8236fb8def",
+    "url": "https://note.com/takahiroanno/n/n3cd3c9a38e8e",
+    "title": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える｜安野貴博",
+    "summary": "AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における\"Mythos Moment\"を考える ソフトウェアにはリファクタリングという考え方がある。コードは開発が続くにつれ、どうやっても散らかってしまい、読みにくくなってゆく。部屋に物が増えると絶対に散らかるのと同じである。 すると、少しの変更を行...",
+    "published_at": "2026-10-04T03:50:38+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cc172ec8b69641597bb5d21b8360c21bb309c1ec2d06cda4c79b1d1cdc9067f7",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2145336.html",
+    "title": "ノートPC作業領域の限界突破！18.5インチモニター×4の拡張モニターシステム",
+    "summary": "",
+    "published_at": "2026-10-04T00:16:26+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4356fc44f76b5f4946457d5e2fe2d954eb95db9577a6ac012bf7aa42920605b0",
+    "url": "https://euglena1215.hatenablog.jp/entry/2026/09/27/113320",
+    "title": "理解をどこまで手放すかは、リスク許容度と仕組みで決まる - カレーの恩返し",
+    "summary": "最近「理解負債」とか「認知的負債」みたいな言葉をよく見かける。AI にコードを書かせても理解は手放すな、という記事もよく流れてくる。かと思えば、DHH が AI に Rust でコードを書かせているが1行も読んでないと楽しげに話していたりする。 色々目にして自分も何か書きたくなったので、今どう考えているかを書いてお...",
+    "published_at": "2026-10-04T03:59:51+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "69e1b2090d26d01e687d69ba568e3f2ae7aec3c208b6933f8046e97fc3729e64",
+    "url": "https://togetter.com/li/2753906",
+    "title": "「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった",
+    "summary": "日本経済新聞 電子版（日経電子版） @nikkei 三井住友銀行、Oliveの電話問い合わせの72%をAIだけで解決 nikkei.com/article/DGXZQO… AIオペレーターは24時間365日稼働。夜間や年末年始も対応可能です。有人対応と同様の応答品質を確保しているといいます。人とAIの役割分担をどう進めてきたのでしょうか。 2026-10-01 16...",
+    "published_at": "2026-10-04T06:58:01+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8aaba086af5c25708a088bb23e0556125b653af58e957197b1ab69cf37ace97d",
+    "url": "https://www.nikkei.com/article/DGXZQOUD144QC0U6A910C2000000/",
+    "title": "毒キノコ、食用信じて食中毒 「AIで判定」に潜むリスク - 日本経済新聞",
+    "summary": "秋の行楽シーズンに増えるのが毒キノコによる食中毒だ。最近は道端に生えているキノコをスマートフォンで撮影し、画像検索アプリや生成AI（人工知能）などで調べ、食用と信じて誤食するケースも発生している。農林水産省は「少しでも迷ったら食べるのはやめて」と注意を呼びかける。和歌山市の70代男性は2025年11月、山...",
+    "published_at": "2026-10-03T00:21:37+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "66a6d55e4e86beb2a83c172b381fbe13c1565086cec04e113f69356499819b9f",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/03/news010.html",
+    "title": "KDDIのローミング終了で楽天モバイルはどう変わる？ 心もとない700MHz帯、独り立ちのカギは5Gにあり",
+    "summary": "KDDIのローミング終了で楽天モバイルはどう変わる？ 心もとない700MHz帯、独り立ちのカギは5Gにあり：石野純也のMobile Eye（1/2 ページ） 楽天モバイルとKDDIのローミング協定が、9月30日でその期限を迎えた。10月1日から、KDDIはローミングの提供を順次終了させており、更新されたエリアマップでは、その範囲が大きく...",
+    "published_at": "2026-10-02T22:55:54+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "04446be34a2a72227f787a2a3ce9151d6597e738b097aaf23ba4666b708d8f52",
+    "url": "https://note.com/npaka/n/nc6ace5304805",
+    "title": "AIエージェントハーネス「Pi 1.0」のクイックスタート｜npaka",
+    "summary": "AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。 1. Pi 1.02026年10月1日、EarendilはAIエージェントハーネス「Pi 1.0」を公開しました。Piは、ターミナル上で動作する軽量で拡張可能なAIエージェントハーネスで、自然言語の指示に従ってファイル操作やコマンド実行を行います。 OpenAI、Anthropic...",
+    "published_at": "2026-10-03T14:16:15+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2a7bb5a4239a06ea63178cdfb6574b8f8dc8b4b483b0b179a1314830a76073fb",
+    "url": "https://mainichi.jp/articles/20261003/k00/00m/040/110000c",
+    "title": "タイムズカー漏えい補償は? ユーザーに届いた「おわび」メール | 毎日新聞",
+    "summary": "お客様の個人情報漏えいが判明しました――。 会社員の男性（41）は1通のメールを開き「まさか」と思った。 送り主は「タイムズカー」。定期的に利用しているカーシェアリングの会社だ。 「犯罪に悪用されるかもしれない」「補償はあるの？」 確認したいことが次々と浮かんだ。 運転免許情報を含んだ大規模な個人情報流出...",
+    "published_at": "2026-10-03T09:31:36+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9509edd846a643075f737cec12df7b71ab2206b1b99f1accf2292630f39b2818",
+    "url": "https://findy-code.io/media/articles/interview-dak2",
+    "title": "「エンジニアに向いていない」と悩んだ日々から、RubyKaigi登壇へ。小さな積み重ねが自分を遠くへ連れていく",
+    "summary": "OSSの世界で活躍するエンジニアも、最初から突出した技術を持っていたわけではありません。RubyKaigi 2026への登壇やRuby本体へのコントリビューションなど、精力的に活動する神山 大智さんも、かつては伸び悩み、「自分はエンジニアに向いていない」とすら感じていたといいます。何をきっかけに、エンジニアとして飛躍できたのでしょうか。これまでの歩みを伺いました。「仕事で伸び悩んでいる」「OSS開発をしてみたいが、一歩を踏み出せない」という方にこそ、読んでいただきたいストーリ",
+    "published_at": "2026-10-01T08:30:00+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "findy-engineer-lab",
+        "name": "Findy Engineer Lab",
+        "category": "career"
+      }
+    ]
+  },
+  {
+    "id": "bb9eb24207a594a58faeac027854dcf9d4a9e7fbd9da960d85f259c495a37434",
+    "url": "https://findy-code.io/media/articles/list-24motz",
+    "title": "気づいたら、20年。出くわすために余白をつくる、“やらない”という選択",
+    "summary": "今回の「エンジニアたちの\"やらないこと\"リスト」は、視覚障害者向けスクリーンリーダー「NVDA」の日本語版に長く関わり、PyCon JP 2025では座長を務めた西本卓也（にしもつ）さん。多彩な経歴に見えますが、ご本人は「キャリアを構築してきたという実感はまったくない」といいます。にしもつさんが、結果として\"やらないまま\"にしてきたこととは。",
+    "published_at": "2026-09-30T08:30:00+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "findy-engineer-lab",
+        "name": "Findy Engineer Lab",
+        "category": "career"
+      }
+    ]
+  },
+  {
+    "id": "d475a5f28def3fd6212ceec2097c9db37eb1d179bd48d94dda3ceed6261e2e26",
+    "url": "https://findy-code.io/media/articles/shibu_jp-career-04",
+    "title": "業務外の勉強、何を・どう学ぶべき？「自分の可能性」を広げる学びの設計図",
+    "summary": "フューチャーアーキテクトでシニアアーキテクトを務める渋川よしきさんに、SIer・ITコンサルが直面しやすいキャリアの悩みについてご解説いただく本企画。学校の勉強と違い、業務外での技術習得にはカリキュラムがなく、何を、いつ、どう学ぶかはすべて自分で決めることになります。渋川さんは、自主的な勉強のメリットを「自分の可能性を広げること」だと語ります。本記事では、続けられるテーマの選び方や時間のつくり方、学んだことの残し方まで、正解のない学びを自分で設計するための考え方を解説します。",
+    "published_at": "2026-09-28T08:30:00+09:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "findy-engineer-lab",
+        "name": "Findy Engineer Lab",
+        "category": "career"
+      }
+    ]
+  },
+  {
+    "id": "5b5c92fb112ab8ece3da5a3abf0eae5743ef63359d17ccbaeeab007320c75899",
+    "url": "https://justylifememo.hatenablog.com/entry/2026/09/17/200408",
+    "title": "僕が仕事の節目で呼んでいるブログ記事 - ふくしま",
+    "summary": "転職とか昇進とかそういう仕事の節目でいつも読んでいる記事があるので、ここに列挙する。随時更新していく。 抽象度の高い仕事の進め方 - Konifar's ZATSU 仕事が来た時、一つの指針として思い出すようにしている。この中で「腹落ちする」っていうのが一番大事だと思ってる。 仕事を前に進めるためのコツ - 判断と決断...",
+    "published_at": "2026-10-01T22:35:25+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hatena-career",
+        "name": "はてな：学び（キャリア）",
+        "category": "career"
+      }
+    ]
+  },
+  {
+    "id": "a473e06b4f69feb35db5308cd3f40101937c36f897ed635c18d117bd3bd1f849",
+    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+    "title": "Why don't more developers “use the platform”?",
+    "summary": "Comments",
+    "published_at": "2026-10-04T04:10:47+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d2fe5bb2334a2046cf75fb3fcd1ba3159cb6f60b4bedee9e343be4d3d135198e",
+    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+    "title": "In Ukraine, distributed renewables foil Russia's assaults",
+    "summary": "Comments",
+    "published_at": "2026-10-04T08:39:58+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "00e9664d450541012bcf14d388bf8e74218b607395be643170ad0c03c49c2390",
+    "url": "https://play.runescape.com/4",
+    "title": "We're working on a new RuneScape MMO",
+    "summary": "Comments",
+    "published_at": "2026-10-04T01:12:22+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9fa458ab690042ccd759c3e39437540079205e665fb1e0704f1ccfc34ad584b8",
+    "url": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns",
+    "title": "OpenBSD Developers Reject Uutils Coreutils",
+    "summary": "Comments",
+    "published_at": "2026-10-04T07:55:24+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "16d7d1f33ea5355f76336af778119c6ad2414fb13bb44810644074a05b660f25",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "title": "Religious scholars met with Anthropic",
+    "summary": "Comments",
+    "published_at": "2026-10-04T02:34:22+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f0287c92448162787e962af74458489fa145f6ecd0cdfbb5260b88526b8ee314",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "summary": "Comments",
+    "published_at": "2026-10-03T17:44:29+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4ee6311bca1cced40bb7b22d8694d97b6c7cbe69b952718f5ccc2027c6e7d89a",
+    "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+    "title": "Dirty Optimization Secrets (C for Playdate)",
+    "summary": "Comments",
+    "published_at": "2026-10-02T17:16:28+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "7072294e1d1c48ece3053c4e5302785f9f144b747d2b353d382a533e0818990f",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "title": "I quit OpenAI because its culture is broken",
+    "summary": "Comments",
+    "published_at": "2026-10-03T13:46:34+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d39c5e2e4a5f7ccceeed0a4e5a043a5322ed84509983a164184d73174fb81f59",
+    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+    "summary": "Comments",
+    "published_at": "2026-10-04T08:02:33+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "459411dcb49571bc2f6a6990953df6a4f6b259a342c101d8d1a529c3e817af05",
+    "url": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
+    "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
+    "summary": "Comments",
+    "published_at": "2026-10-04T06:10:57+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4cb013b5954dcd9c76d9ddfd0877470d01af634d6fa987c93f5f0d14b342d564",
+    "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+    "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+    "summary": "Comments",
+    "published_at": "2026-10-03T07:32:47+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c513a3cfcdf988006d1d1f88e50efb4d8fdb7db5629fea105e6bd2f1ac0d9a0f",
+    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "summary": "Comments",
+    "published_at": "2026-10-02T20:39:05+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "993113989136dc2ce8f73d67ea4ce8c42bf7b76bd47597df95ffc81b8164c025",
+    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+    "title": "What Meta got right with Muse",
+    "summary": "Comments",
+    "published_at": "2026-10-03T18:23:48+00:00",
+    "collected_at": "2026-10-04T18:51:35.835089+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
   }
 ]

@@ -1,24 +1,31 @@
 # 2026-10-04 のまとめ
 
-収集 104 件 / ピックアップ 19 件
+収集 151 件 / ピックアップ 23 件
 
 各カテゴリから最大5件を、情報源が偏らないように選んでいます。概要は配信フィードの抜粋です。
 
+## エンジニアのキャリア・働き方
+
+- [僕が仕事の節目で呼んでいるブログ記事 - ふくしま](https://justylifememo.hatenablog.com/entry/2026/09/17/200408) — はてな：学び（キャリア）
+- [「エンジニアに向いていない」と悩んだ日々から、RubyKaigi登壇へ。小さな積み重ねが自分を遠くへ連れていく](https://findy-code.io/media/articles/interview-dak2) — Findy Engineer Lab
+- [気づいたら、20年。出くわすために余白をつくる、“やらない”という選択](https://findy-code.io/media/articles/list-24motz) — Findy Engineer Lab
+- [業務外の勉強、何を・どう学ぶべき？「自分の可能性」を広げる学びの設計図](https://findy-code.io/media/articles/shibu_jp-career-04) — Findy Engineer Lab
+
 ## IT界隈の話題・読みもの
 
-- [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) — Hacker News
-- [最近は商業誌の仕事でも普通にAIを使って効率化することが増えたので、どんどん触っておいた方がいいと推奨する→AI画像が問題になるが、叩き台など作業効率化はありでは？](https://togetter.com/li/2753802) — はてな：テクノロジー
-- [Kubernetesノードが物理障害でNotReadyになってからPodが再スケジュールされるまで](https://qiita.com/yosshi_/items/7ed4f99fbe9b96e360e3) — Qiita
+- [ゴールシークプロンプトとは ― AIに質問させて成果物を作る方法を、テンプレートと実例で解説](https://qiita.com/nogataka/items/3bd4598ddf5c3e9c2b3e) — Qiita
+- [In Ukraine, distributed renewables foil Russia's assaults](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/) — Hacker News
+- [「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった](https://togetter.com/li/2753906) — はてな：テクノロジー
 - [大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる](https://zenn.dev/339/articles/56ef43afde8bd2) — Zenn
-- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — Hacker News
+- [JAWS-UG 新潟支部にて 「AgentCoreで実践するハーネスエンジニアリング」というタイトルで登壇しました](https://qiita.com/yakumo_09/items/106cc9768d5b1c78225e) — Qiita
 
 ## 企業の実践・技術ブログ
 
+- [「Obsidian × AIで始める「第二の脳」〜忘れても大丈夫なメモ環境を手軽につくる〜」というタイトルでDevelopersIO 2026 Okinawaに登壇しました #devio2026](https://dev.classmethod.jp/articles/obsidian-ai-second-brain-devio2026/) — DevelopersIO
+- [トヨタ・ウーブン・シティを訪問してみた 予約・当日の入場編](https://dev.classmethod.jp/articles/toyota-woven-city-visit-reservation-entry/) — DevelopersIO
+- [【登壇資料】「LLM機能を自作して分かるSnowflake Cortex AIの強み」というタイトルで DevelopersIO 2026 Osaka Day 2に登壇しました #devio2026](https://dev.classmethod.jp/articles/strengths-snowflake-cortex-ai-developersio-2026-osaka-day2-devio2026/) — DevelopersIO
 - [Snowflakeアカウントのアカウント予算にカスタムアクションによる通知を追加する](https://dev.classmethod.jp/articles/snowflake-set-notification-custom-actions-to-root-account-budget/) — DevelopersIO
 - [Cloudflare の Clef に書類の種類を分類させてみた](https://dev.classmethod.jp/articles/cloudflare-clef-doc-classification/) — DevelopersIO
-- [Cloudflare の Clef とは？Jev との違いをまとめてみた](https://dev.classmethod.jp/articles/cloudflare-clef-overview/) — DevelopersIO
-- [\[Amazon Bedrock\] 設備が止まった。マニュアルと過去トラブル履歴を組み合わせたトラブル対応アシスタントを、50 問で評価しながら作ってみました](https://dev.classmethod.jp/articles/bedrock-troubleshooting-assistant-search-both-sources/) — DevelopersIO
-- [Amazon Corretto 2026年9月版の内容とバージョンの見分け方を確認してみた](https://dev.classmethod.jp/articles/amazon-corretto-september-2026-patch-tzdata/) — DevelopersIO
 
 ## 公式の更新情報
 

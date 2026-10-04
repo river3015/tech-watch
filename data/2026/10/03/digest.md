@@ -10,7 +10,7 @@
 - [French Bond Risk Hits Euro-Crisis Levels \[video\]](https://www.youtube.com/watch?v=bam3uxilEJo) — Hacker News
 - [2026 年 10 月前半の LLM 利用状況](https://voluntas.ghost.io/2026-10-first-half-llm/) — はてな：テクノロジー
 - [Windowsで再生中の音声をWhisperで文字起こしする：Meetilyの仕組みを100行未満のRustで再現する](https://zenn.dev/tmtk/articles/edc992e6a24b65) — Zenn
-- [Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/) — Cloudflare Blog
+- [AWS DevOps Agent Skills を作成するためのベストプラクティス](https://aws.amazon.com/jp/blogs/news/best-practices-for-writing-aws-devops-agent-skills/) — AWS 日本語ブログ
 
 ## 企業の実践・技術ブログ
 
@@ -22,11 +22,11 @@
 
 ## 公式の更新情報
 
-- [AWS DevOps Agent Skills を作成するためのベストプラクティス](https://aws.amazon.com/jp/blogs/news/best-practices-for-writing-aws-devops-agent-skills/) — AWS 日本語ブログ
 - [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments) — AWS What's New
 - [今月の AWS オブザーバビリティ: 2026 年 8 月と 9 月](https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-august-september-2026/) — AWS 日本語ブログ
 - [AWS Health introduces the version catalog for software lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management) — AWS What's New
 - [Amazon S3 Tables では、Apache Iceberg V3 のすべてのデータ型がサポートされるようになりました](https://aws.amazon.com/jp/blogs/news/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/) — AWS 日本語ブログ
+- [Amazon Aurora DSQL now supports partial indexes](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/) — AWS What's New
 
 ## 技術ニュース
 
