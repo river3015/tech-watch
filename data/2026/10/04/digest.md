@@ -1,13 +1,13 @@
 # 2026-10-04 のまとめ
 
-収集 102 件 / ピックアップ 18 件
+収集 104 件 / ピックアップ 19 件
 
 各カテゴリから最大5件を、情報源が偏らないように選んでいます。概要は配信フィードの抜粋です。
 
 ## IT界隈の話題・読みもの
 
 - [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) — Hacker News
-- [「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿](https://www.itmedia.co.jp/news/article/2610/04/2000001986/) — はてな：テクノロジー
+- [最近は商業誌の仕事でも普通にAIを使って効率化することが増えたので、どんどん触っておいた方がいいと推奨する→AI画像が問題になるが、叩き台など作業効率化はありでは？](https://togetter.com/li/2753802) — はてな：テクノロジー
 - [Kubernetesノードが物理障害でNotReadyになってからPodが再スケジュールされるまで](https://qiita.com/yosshi_/items/7ed4f99fbe9b96e360e3) — Qiita
 - [大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる](https://zenn.dev/339/articles/56ef43afde8bd2) — Zenn
 - [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — Hacker News
@@ -34,6 +34,7 @@
 
 ## ポッドキャスト
 
+- [新配信システムでレギュラー配信成功なるか？？！ ep675](https://backspace.fm/live675/) — backspace.fm
 - [なぜスマホの料金プランは複雑なのか？ #248](https://podcasters.spotify.com/pod/show/yurucom/episodes/248-e3pmn3l) — ゆるコンピュータ科学ラジオ
 - [PlayStationのディスク生産終了とAMD Ryzen AI Max vs DGX Spark ep663](https://backspace.fm/ep663/) — backspace.fm
 

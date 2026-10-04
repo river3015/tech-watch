@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-04T11:27:06.900810+09:00",
+  "collected_at": "2026-10-04T11:58:27.511866+09:00",
   "sources": [
     {
       "source_id": "aws-news",
@@ -74,7 +74,7 @@
     {
       "source_id": "hatena-it",
       "name": "はてな：テクノロジー",
-      "new": 0,
+      "new": 1,
       "status": "ok",
       "fetched": 30
     },
@@ -165,7 +165,7 @@
     {
       "source_id": "backspace",
       "name": "backspace.fm",
-      "new": 0,
+      "new": 1,
       "status": "ok",
       "fetched": 15
     },
