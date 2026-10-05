@@ -1,0 +1,245 @@
+{
+  "collected_at": "2026-10-05T09:54:29.735503+09:00",
+  "sources": [
+    {
+      "source_id": "aws-news",
+      "name": "AWS What's New",
+      "new": 0,
+      "status": "ok",
+      "fetched": 100
+    },
+    {
+      "source_id": "aws-jp",
+      "name": "AWS 日本語ブログ",
+      "new": 1,
+      "status": "ok",
+      "fetched": 10
+    },
+    {
+      "source_id": "google-cloud",
+      "name": "Google Cloud Blog",
+      "new": 0,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
+      "source_id": "microsoft-devblogs",
+      "name": "Microsoft Dev Blogs",
+      "new": 0,
+      "status": "ok",
+      "fetched": 10
+    },
+    {
+      "source_id": "hashicorp",
+      "name": "HashiCorp Blog",
+      "new": 0,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
+      "source_id": "gitlab",
+      "name": "GitLab Blog",
+      "new": 0,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
+      "source_id": "cloudflare",
+      "name": "Cloudflare Blog",
+      "new": 0,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
+      "source_id": "developersio",
+      "name": "DevelopersIO",
+      "new": 6,
+      "status": "ok",
+      "fetched": 30
+    },
+    {
+      "source_id": "zenn",
+      "name": "Zenn",
+      "new": 10,
+      "status": "ok",
+      "fetched": 20
+    },
+    {
+      "source_id": "qiita",
+      "name": "Qiita",
+      "new": 11,
+      "status": "ok",
+      "fetched": 30
+    },
+    {
+      "source_id": "hatena-it",
+      "name": "はてな：テクノロジー",
+      "new": 24,
+      "status": "ok",
+      "fetched": 30
+    },
+    {
+      "source_id": "hatena-all",
+      "name": "はてな：総合",
+      "new": 4,
+      "status": "ok",
+      "fetched": 40
+    },
+    {
+      "source_id": "findy-engineer-lab",
+      "name": "Findy Engineer Lab",
+      "new": 0,
+      "status": "ok",
+      "fetched": 30
+    },
+    {
+      "source_id": "hatena-career",
+      "name": "はてな：学び（キャリア）",
+      "new": 0,
+      "status": "ok",
+      "fetched": 30
+    },
+    {
+      "source_id": "hackernews",
+      "name": "Hacker News",
+      "new": 24,
+      "status": "ok",
+      "fetched": 30
+    },
+    {
+      "source_id": "publickey",
+      "name": "Publickey",
+      "new": 0,
+      "status": "ok",
+      "fetched": 15
+    },
+    {
+      "source_id": "sre-weekly",
+      "name": "SRE Weekly",
+      "new": 0,
+      "status": "ok",
+      "fetched": 5
+    },
+    {
+      "source_id": "jpcert",
+      "name": "JPCERT/CC 注意喚起",
+      "new": 0,
+      "status": "ok",
+      "fetched": 36
+    },
+    {
+      "source_id": "terragrunt",
+      "name": "Terragrunt Releases",
+      "new": 0,
+      "status": "ok",
+      "fetched": 10
+    },
+    {
+      "source_id": "rebuild",
+      "name": "Rebuild",
+      "new": 0,
+      "status": "ok",
+      "fetched": 557
+    },
+    {
+      "source_id": "mozaic",
+      "name": "mozaic.fm",
+      "new": 0,
+      "status": "ok",
+      "fetched": 225
+    },
+    {
+      "source_id": "fukabori",
+      "name": "fukabori.fm",
+      "new": 0,
+      "status": "ok",
+      "fetched": 142
+    },
+    {
+      "source_id": "qiita-fm",
+      "name": "Qiita FM",
+      "new": 0,
+      "status": "ok",
+      "fetched": 166
+    },
+    {
+      "source_id": "london-tech-talk",
+      "name": "London Tech Talk",
+      "new": 0,
+      "status": "ok",
+      "fetched": 226
+    },
+    {
+      "source_id": "yurucom",
+      "name": "ゆるコンピュータ科学ラジオ",
+      "new": 0,
+      "status": "ok",
+      "fetched": 248
+    },
+    {
+      "source_id": "backspace",
+      "name": "backspace.fm",
+      "new": 3,
+      "status": "ok",
+      "fetched": 15
+    },
+    {
+      "source_id": "se-daily",
+      "name": "Software Engineering Daily",
+      "new": 0,
+      "status": "ok",
+      "fetched": 100
+    },
+    {
+      "source_id": "se-radio",
+      "name": "Software Engineering Radio",
+      "new": 0,
+      "status": "ok",
+      "fetched": 745
+    },
+    {
+      "source_id": "kubernetes-podcast",
+      "name": "Kubernetes Podcast from Google",
+      "new": 0,
+      "status": "ok",
+      "fetched": 272
+    },
+    {
+      "source_id": "screaming-in-the-cloud",
+      "name": "Screaming in the Cloud",
+      "new": 0,
+      "status": "ok",
+      "fetched": 680
+    },
+    {
+      "source_id": "oxide-and-friends",
+      "name": "Oxide and Friends",
+      "new": 0,
+      "status": "ok",
+      "fetched": 188
+    },
+    {
+      "source_id": "changelog",
+      "name": "The Changelog",
+      "new": 0,
+      "status": "ok",
+      "fetched": 1014
+    },
+    {
+      "source_id": "syntax",
+      "name": "Syntax",
+      "new": 0,
+      "status": "ok",
+      "fetched": 1043
+    },
+    {
+      "source_id": "hard-fork",
+      "name": "Hard Fork",
+      "new": 0,
+      "status": "ok",
+      "fetched": 218
+    }
+  ],
+  "successes": 34,
+  "failures": 0
+}
