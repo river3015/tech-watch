@@ -811,6 +811,16 @@
         "id": "qiita",
         "name": "Qiita",
         "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
       }
     ]
   },
