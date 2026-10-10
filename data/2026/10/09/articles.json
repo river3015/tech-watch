@@ -1096,6 +1096,11 @@
         "id": "hatena-it",
         "name": "はてな：テクノロジー",
         "category": "community"
+      },
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
       }
     ]
   },
