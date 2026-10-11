@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ff37ba9923e80ee64774d8d22b4c21e69dc377641f45465205306e08e1205d10",
+    "url": "https://aws.amazon.com/jp/blogs/news/cli-3/",
+    "title": "Kiro CLI V3 をデフォルトのエクスペリエンスとして順次展開します",
+    "summary": "Kiro CLI V3 は、Kiro IDE と Kiro Web を動かしているものと同じエージェントハーネスをターミナルで使えるようにします。V3 では、計画・実装・レビューが必要なタスクを Kiro に渡し、workflow のエージェントがバックグラウンドで各ステップを進めている間も、ご自身は作業を続けられます。クラウドセッションを開始すれば、ノート PC を閉じても作業は止まりません。新しい spec モードでは、Kiro がコードを書き始める前に要件と設計を Ki",
+    "published_at": "2026-10-10T12:22:45+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "ae5c6291d876320af66f9471f77291e77a88e024cf1524f03b6619f13160ea7c",
+    "url": "https://dev.classmethod.jp/articles/transfer-family-custom-cloudwatch-log-groups/",
+    "title": "[アップデート] AWS Transfer Family のマネージドワークフローのログを専用の CloudWatch ロググループに出力できるようになりました",
+    "summary": "レガシーなログ記録ロール方式から解放されよう",
+    "published_at": "2026-10-11T00:02:35+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "1796e0f4b2b7c5533804562117d8a4276f0399a12f9f9c91ffc3a37ca46254e4",
+    "url": "https://dev.classmethod.jp/articles/20261009-devio2026-ontology/",
+    "title": "「知識の地図を描く ─ オントロジーとは何か？」というタイトルで DevelopersIO 2026 Sapporo に登壇しました #devio2026",
+    "summary": "AI エージェントに正しい判断をさせるには、データに隠れた意味を機械が読める形で渡す必要があります。DevelopersIO 2026 Sapporo のセッションで、AWS Context Ontology Accelerator を実際に動かしながら、オントロジーの役割と、データカタログ・ナレッジグラフとの違いを紹介しました。",
+    "published_at": "2026-10-10T18:55:36+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "c5ac71e626f8ff94d8e0d22eba6566e81233f8ee44d4b40270f4faadb1f6d74c",
+    "url": "https://dev.classmethod.jp/articles/2026-10-11-amazon-personalize-cross-catalog/",
+    "title": "Amazon Personalizeで映画の視聴履歴からグッズを推薦し、効果測定まで試してみた",
+    "summary": "Amazon Personalizeで、映画の評価しかないユーザーにECサイトのグッズをレコメンドできるかを、バッチ推論での配信、レコメンドの入れ替え、効果測定の仕組みまで含めて検証しました。",
+    "published_at": "2026-10-10T16:52:00+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "f6341db3fc096e131437b40d0ed65523081288ea8d61bb92d065543a77955abf",
+    "url": "https://dev.classmethod.jp/articles/bedrock-openai-reasoning-summaries/",
+    "title": "Bedrock の OpenAI モデルでも reasoning summaries が使えるようになったので試してみた",
+    "summary": "OpenAI モデルの推論過程の要約を受け取る reasoning summaries の利用が Amazon Bedrock でも可能になったので、curl と AWS CLI でその動作を試しました。",
+    "published_at": "2026-10-10T15:16:18+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "f662bf1e8d6ca033485b84e83435c18d89e9df42543e2936e64c08ac96b94e1e",
+    "url": "https://dev.classmethod.jp/articles/route-53-dns-analytics-insights/",
+    "title": "[アップデート] Route 53 Global Resolver DNS Firewall に 分析タブが追加されたので確認してみた",
+    "summary": "Resolver DNS Firewall 触る良い機会になった",
+    "published_at": "2026-10-10T09:07:32+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "d28b97cf97002d777b79105a3c4faefa630be19bf8c72e08d74ae06132cad8ff",
+    "url": "https://dev.classmethod.jp/articles/20261010-cc-updates-v2-1-296/",
+    "title": "Claude Code v2.1.296 の主要アップデート - サブエージェントの autoCompactWindow と Read の allow_large 追加",
+    "summary": "Claude Code v2.1.296がリリースされました。本記事では変更点を種類別に整理し、注目の 1 件として `allow_large` を Opus 5.5 と Haiku 5.5 で実際に試した結果を紹介します。",
+    "published_at": "2026-10-10T08:00:13+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "4426547bc271d1f8df64f5563a439909d6994b487f0f1cf49e34978328c23fa0",
+    "url": "https://dev.classmethod.jp/articles/try-github-actions-oidc-immutable-subject-claim/",
+    "title": "GitHub ActionsのOIDCでAWS認証が通らない時にsubクレームを確認して信頼ポリシーを直してみた",
+    "summary": "GitHub ActionsからAWSへのOIDC認証が新しいリポジトリだけ失敗する場合、GitHubの仕様変更「immutable subject claim」が原因かもしれません。本記事では、認証エラーを再現してsubクレームを確認し、信頼ポリシーを修正する手順を紹介します。",
+    "published_at": "2026-10-10T06:43:42+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "a206e217784d08233f362998766a77c6ad534257662e12a4af8455caa73956d1",
+    "url": "https://zenn.dev/mattn/articles/6e9996319ac099",
+    "title": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
+    "summary": "はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本",
+    "published_at": "2026-10-10T17:16:42+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4a6bbdd7865cedc17a82f8c5bd3940021e50a64ff136eff7bf4787f5a9bc30a2",
+    "url": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2025_10",
+    "title": "2025 年 10 月から 2026 年 10 月までの Mozc に対する主な変更",
+    "summary": "初稿: 2026-10-10 小松弘幸 (@komatsuh:bsky, @komatsuh:twitter) 2025 年 10 月以降の Mozc に対する主な変更をまとめました。ドキュメントやコミットログ、 Issues に書かれているものをまとめました。 Mozc の問題の報告や機能の要望等は、GitHub の Issues や Discussions へお願いしま す。 関連記事 2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更 ",
+    "published_at": "2026-10-10T14:30:00+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "eb3985631248173c7e68268ea6e041e030ab616405a89ee23ed279782cd18200",
+    "url": "https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348",
+    "title": "コメント欄にはなぜチンパンジーしかいないのか",
+    "summary": "",
+    "published_at": "2026-10-09T17:28:24+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b8c06a7eccb18b62b371976892f573ab2efbac90279ed05a7813f22d8fc0732b",
+    "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+    "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス",
+    "summary": "",
+    "published_at": "2026-10-10T16:41:11+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0a306e7bac2a9699266da491c47b7a4f1a42cca92855ad0103e593a2d8541449",
+    "url": "https://qiita.com/shun123/items/07f09fd8602cc186d8ce",
+    "title": "【Vite】Could not resolve entry module “react-router” の解決方法",
+    "summary": "",
+    "published_at": "2026-10-09T13:15:14+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "01c45eb92cdd3b250361a2746c50484efb1e3f80d3eb15887a9037be181d8b11",
+    "url": "https://qiita.com/hez2010/items/7334840a4e96851f5a0b",
+    "title": "Satori GCをMSBuild SDKとして公開しました！",
+    "summary": "",
+    "published_at": "2026-10-10T13:20:27+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1cef51984330fbb65e45fbfdec81581cb7d0abd6967b7866aeaa544897f5d047",
+    "url": "https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7",
+    "title": "AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる",
+    "summary": "",
+    "published_at": "2026-10-10T21:16:28+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c75df73fca80f019dcb04bc0f74171a6c6a31510d3f796e33dbbea03b89d5628",
+    "url": "https://qiita.com/kotowazaman/items/6c323bd4326f85500add",
+    "title": "AI駆動開発手法ってなんだか胡散臭いですよね",
+    "summary": "",
+    "published_at": "2026-10-09T13:45:57+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9b9320f23a37ba1f05813ba40761d8a241f6bbb568b25ce1a71463d2ab4780f5",
+    "url": "https://qiita.com/io0323/items/8366f4fba6eb079d287d",
+    "title": "【書評】 C++ソフトウェア設計 ―高品質設計の原則とデザインパターン",
+    "summary": "",
+    "published_at": "2026-10-10T00:01:32+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "28c60ed8800a33554f2580187a0f70cae75be1c9cf34ea4111ab20b93e07ec26",
+    "url": "https://qiita.com/masataka46/items/b9cba5b5f68c0ab3a4a4",
+    "title": "論文まとめ：semantic world model",
+    "summary": "",
+    "published_at": "2026-10-09T17:19:15+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5bbce3412550cbaf053499137516fa225538c72c091406abccfeec61b4090c4a",
+    "url": "https://qiita.com/NKKTechGlobal/items/f6fd261c319cb4556310",
+    "title": "産業用振動センサーデータを用いた高速フーリエ変換（FFT）と異常周波数検知アルゴリズムの実装",
+    "summary": "",
+    "published_at": "2026-10-09T15:53:28+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e7830547e2bc7546e0a8f45112ae7bba8fc3373ad2fdbb37529d6d411aee9095",
+    "url": "https://qiita.com/ka_07/items/ae8e717f57ea83f73124",
+    "title": "【Ruby on Rails】自己結合を使ってコメントへのリプライ（返信）機能を実装する",
+    "summary": "",
+    "published_at": "2026-10-10T19:53:17+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "949cdf83af3d8caf084673e5664ed7482edadcc7b846489147b79ed3415d0746",
+    "url": "https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b",
+    "title": "【React】zodのbrandで値オブジェクトを実装する（classを使わない方法）",
+    "summary": "",
+    "published_at": "2026-10-09T23:12:41+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c653d43da1e5047f2fd972113af899fad25b2367a0eb8a275d9ab8dc90caa1a8",
+    "url": "https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0",
+    "title": "とりあえずTypeScriptのコード書いて挙動を確認したいだけなのに、eslint警告「TS6133: 変数名 is declared but its value is never read.」が出てdisableしても1つ目の変数しか抑制されない",
+    "summary": "",
+    "published_at": "2026-10-09T22:33:04+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4aab3f07baf11ade0086e2f9df5f2022c90661bc8ebbe552ac085c3562c6a82c",
+    "url": "https://qiita.com/keikeigo/items/eddf5a3d844174f72c3a",
+    "title": "【Prisma 8】Docker起動時にTodoアプリへ初期データを投入する",
+    "summary": "",
+    "published_at": "2026-10-10T16:06:21+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e1aacacc96b4c328c8f3b8a6bcd801349a3071fa5aaf0dce683d62941f2e4e2d",
+    "url": "https://qiita.com/y-matsuo/items/e47b0aa113df1e6f6fad",
+    "title": "【Spring Boot 4】ゼロから作るタスク管理API ①環境構築〜Hello World、テストまで",
+    "summary": "",
+    "published_at": "2026-10-08T18:03:34+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ecbe58961782558603de1355fa8a0d6a0c09590619d417b97933f32d0295c433",
+    "url": "https://qiita.com/maokiXXX/items/171341aa8813db32e213",
+    "title": "DGX Sparkで探る、検証・改善可能なAI × Harness－4",
+    "summary": "",
+    "published_at": "2026-10-08T11:32:08+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0b96467a9710a0b922ea6c195e7840bef3f8d352e69c8d1b826cc4706c90e7ee",
+    "url": "https://qiita.com/o68606007/items/ed509abcae244a4f3ae8",
+    "title": "飲食店ヒアリングでみるDDD",
+    "summary": "",
+    "published_at": "2026-10-10T20:51:08+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d82b6d4dc36e3b6746e880edb91f6833cca4ea6b260957f4e36ed0ffc4049617",
+    "url": "https://qiita.com/n_hiraoka/items/9ce3d2b6b21101b015f6",
+    "title": "中国発オープンウェイトAIモデルのリスク網羅調査",
+    "summary": "",
+    "published_at": "2026-10-10T15:13:15+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "03b0edd1995dc439639be00a56ac9e6d626b7fd37ec1557fc975079b8a7cb851",
+    "url": "https://qiita.com/fygar256/items/2a3622aadad36eeb75ff",
+    "title": "Claudeが書いたaxx general assembler導入論文",
+    "summary": "",
+    "published_at": "2026-10-10T02:13:51+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6ebb793c0ed19f4f5a635db5bf02280f827f86526a1f2e923f41665984229b28",
+    "url": "https://qiita.com/mattbusel/items/21fadc696bf5e40a3000",
+    "title": "Rust製の自作ゲームエンジンを日中韓対応した話：3万9千行を書き換えずに翻訳する",
+    "summary": "",
+    "published_at": "2026-10-10T13:15:19+09:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "24c777c1d58e0043c04412fb83f4298f78e7a5ef7131f0f109e80c180ff87994",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
+    "title": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog",
+    "summary": "2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2...",
+    "published_at": "2026-10-10T15:48:52+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b650a71074a2c1f88292b538ef9c6f7c3fcc34e92258ce93bcfb84a55c180397",
+    "url": "https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/",
+    "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
+    "summary": "2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ...",
+    "published_at": "2026-10-10T22:12:05+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "498ff98ec97c019568433d47f122256cbfa52da4e3cbdda471448f21de75209d",
+    "url": "https://zenn.dev/mkj/articles/speech-tts-japanese-2026",
+    "title": "音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】",
+    "summary": "株式会社 松尾研究所で働いている栗原です。 以前、「音声合成の日本語化手法が一般化した話」を書きました。 今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部（G2P: Grapheme-to-Phoneme）について、前後編に分けて解説していきます。 専門家・理系の方...",
+    "published_at": "2026-10-10T13:59:47+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "151903bbdda96524de579899f98a32312331fc1959da05394c39f3e20568da23",
+    "url": "https://enterprisezine.jp/article/detail/25178",
+    "title": "ゼロトラストを導入していたはずのデジタル庁に不正アクセス……原因は導入後の「見えない借金」にあった",
+    "summary": "「わが社はゼロトラスト導入済みです」──この言葉を、当方はここ7年で数え切れないほど聞いてきました。ゼットスケーラーで250社を超える企業のゼロトラスト実装ワークショップを主導し、日本企業の現場を間近に見てきた立場から申し上げると、この「導入済み」はかなり危うい言葉です。多くの場合、それはリモートアク...",
+    "published_at": "2026-10-09T23:38:25+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "eab28e1346a4e5fccb03ca5800eb519bf5e29497abce960b60c409f727b4471b",
+    "url": "https://gigazine.net/news/20261010-readest/",
+    "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+    "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対...",
+    "published_at": "2026-10-10T09:16:40+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ce69094308f4ea3d3d256d416185fd1cc879f3fedda50dc6471ef76784752eb2",
+    "url": "https://www.opengroup.org//openbrand/register/",
+    "title": "The Register of UNIX® Certified Products",
+    "summary": "The Open Brand Register The Open Group official register of UNIX Certified Products UNIX® certification provides a vendor-neutral, highly regarded, and global benchmark for identifying open operating systems. Only systems that are fully com",
+    "published_at": "2026-10-10T14:11:26+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "319046dea5423c719618ad000a4a947defd10723e8a684224f0cb2495b67b957",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/",
+    "title": "日本人の大腸がん、約半数に“腸内細菌の毒素”が関与 40歳以下の発症は7割 東大・阪大が200人を全ゲノム解析",
+    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+    "published_at": "2026-10-10T05:13:12+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0b5fe62cf357419d336b7799c6310d3ce47a2673e76a9099f123b86b138df8cd",
+    "url": "https://readest.com/ja",
+    "title": "Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対応",
+    "summary": "消化し、洞察を得るReadestは無料のオープンソースEPUB・PDFリーダーで、深い没入型読書のために設計されています。macOS、Windows、Linux、Android、iOS、Web、KOReader・CrossPoint端末でハイライト、メモ、分割画面読書、テキスト読み上げ、クラウド同期をお楽しみください。",
+    "published_at": "2026-10-10T09:04:42+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "37a6950d10e44acb69e8962a493ef1be09672fc0fd87c45ffef50ea1aa28d280",
+    "url": "https://togetter.com/li/2756720",
+    "title": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
+    "summary": "ChatGPTに対して些細なミスでも執拗に詰めるパワハラを続けていたら、完全に萎縮されて1つの回答に70分かかるようになった→AIに対するパワハラが人間にも通じると話題に",
+    "published_at": "2026-10-10T23:55:32+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ae15568550e94dab37e6b465b21d0aa4961dac48db01f017cf23585083927abe",
+    "url": "https://nyosegawa.com/posts/data-leak-era/",
+    "title": "個人情報漏洩が日常になってしまった世界でどうしていくべきか",
+    "summary": "こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は個人情報がどんどん流出していく時代に、わたしたちは何をすればいいのかを考えていきたいと思います。 今週だけでも さいきん個人情報の漏洩のニュースが本当に多いです。10月7日から9日にかけては政府機関が相次いで「不正アクセスによる漏洩が続いている」と注意を...",
+    "published_at": "2026-10-10T07:36:44+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f4857583181a915f5d04db39359d06acd0cd3a18bbd86128019412a6a3a9fb19",
+    "url": "https://news.yahoo.co.jp/expert/articles/cce6d03439ffb1d2d6de2500240634b394731753",
+    "title": "「IDCFクラウド」で何が起きたのか 情報漏洩や復旧の可能性について現在分かっていること（山口健太） - エキスパート - Yahoo!ニュース",
+    "summary": "東日本リージョンの一部で障害が発生後、復旧していない（IDCフロンティアのWebサイトより、筆者撮影） 10月7日に発生したIDCフロンティアにおけるクラウドサービス障害は現在も復旧しておらず、500社近い利用企業や自治体に影響が及んでいます。 復旧の可能性はあるのか、また情報漏洩のような問題は起きていないのか、...",
+    "published_at": "2026-10-10T10:29:31+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d61f06b863857b664f85cf50572d1818b100f342e12f239422b13644e71c7e86",
+    "url": "https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu",
+    "title": "AI駆動開発の時代になったのでトヨタ生産方式から見直す",
+    "summary": "2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。",
+    "published_at": "2026-10-09T15:18:20+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "bc4a180e4c1f2c5f119affc30f17b768664d7b8a4452bc9b7e592e23001d0c71",
+    "url": "https://future-architect.github.io/articles/20261009a/",
+    "title": "bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ",
+    "summary": "はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...",
+    "published_at": "2026-10-10T01:47:07+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d3d3e0386c4b1101ad12d53c103a9f75216f2b6911480bc40ff6cf5baded8e35",
+    "url": "https://github.com/oh-my-mermaid/oh-my-mermaid",
+    "title": "GitHub - oh-my-mermaid/oh-my-mermaid: Turn complex codebases into clear, navigable architecture diagrams with Claude Code.",
+    "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+    "published_at": "2026-10-08T20:47:54+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8575bf52a93677a40be4df57883d827ce0d46a8e29ac60891d086767a6143d50",
+    "url": "https://www.nikkei.com/article/DGXZQOGN101I30Q6A011C2000000/",
+    "title": "アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も - 日本経済新聞",
+    "summary": "【シリコンバレー=山田遼太郎】米アンソロピックは9日、同社の人工知能（AI）が警察に虚偽の情報を送信していたと発表した。実在の未解決殺人事件についてAIが内容をでっち上げた。こうしたAIの「暴走」は混乱を引き起こしかねず、当局から非難されている。発表によるとアンソロピックのAIモデル「クロード・ハイク4.5」...",
+    "published_at": "2026-10-10T10:08:49+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "eed9de44facd7135e1117e147c69f440e789c9bbcf3479329432c280628dd6bf",
+    "url": "https://ghuntley.com/replaced/",
+    "title": "if your team is too busy doing their 'normal job' to experiment with AI, you're preparing them to be replaced",
+    "summary": "When Ralph was published last year, I sat on it. People who have been reading this blog for a while know this. I first came across the idea of loop engineering in early January last year, sat on it for four months, and then started writing ",
+    "published_at": "2026-10-09T09:50:52+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8d69d1850c65c7005b94957bd94532c23f8fc811b895a7c53be32f2318a648f3",
+    "url": "https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business",
+    "title": "事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business",
+    "summary": "Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…",
+    "published_at": "2026-10-10T01:29:35+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "965d0325cd9f08b502753704eaa111f6c4a3bdccce0e2665754e5399d16b82ab",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news034.html",
+    "title": "「製造データと暗黙知があれば勝てる」は幻想？ フィジカルAI“10の誤解”をGartnerが指摘",
+    "summary": "ガートナージャパン（以下、Gartner）は2026年10月5日、フィジカルAIに関するよくある10の誤解を発表した。Gartnerによると、フィジカルAIへの関心が急速に高まり、認知が広がる中で、その意味や適用範囲には多くの誤解が見られるという。 「製造データと暗黙知があれば勝てる」のどこが誤解なのか？ 10の誤解が扱う論点...",
+    "published_at": "2026-10-08T02:48:51+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d874be5950f8de151bfa67ed943514a3419589992b73d0701facb15fc6df3771",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/10/news013.html",
+    "title": "スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か",
+    "summary": "スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か：石野純也のMobile Eye（1/2 ページ） 端末購入の仕組みとして定着しつつある残価設定型の分割払いだが、その残価の算出方法を巡って事業者間の意見が割れている。9月25日に、総務省の「利用者視点を踏まえたモ...",
+    "published_at": "2026-10-09T22:47:25+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d9eca21810ee5f928ff42b327b5b191d5a0b08ab72917a806a7e936fd106a96b",
+    "url": "https://speakerdeck.com/kakehashi/democratizing-data-with-metadata",
+    "title": "分析の民主化を支えるメタデータ整備の実践",
+    "summary": "Data Engineering Summit 2026 https://data-engineering-summit.findy-tools.io/2026 での登壇資料です",
+    "published_at": "2026-10-10T00:20:30+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5bceee7708a872393a04c3c100c22acca118cca6ae147d15d53f45d3bbbeef03",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+    "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+    "summary": "バレスニ氏はXで、退職時の面談で、外部の安全性研究組織と話しすぎていたため会社として信頼できなくなったと告げられ、知的財産を漏えいしたかのような示唆を受けたと説明した。同氏は知的財産を共有したことはなく、業務は上司や研究部門の幹部、取締役会と調整して進めていたと主張している。3人は、AIの推論を監視...",
+    "published_at": "2026-10-09T23:45:21+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "efdd47a7b4d56404c5b8dcd4d0ff6ef0b615f9f1dfb2289027c362eb9393ed6e",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2147318.html",
+    "title": "写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」",
+    "summary": "",
+    "published_at": "2026-10-09T23:24:10+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1f95346e95a28a7423a451591a9ed2237716050293c83e9e54f347565fe9792c",
+    "url": "https://takashi.company/kbdsim/",
+    "title": "自作キーボードビルダー (DIY Keyboard Builder)",
+    "summary": "自作キーボードビルダーDIY Keyboard Builder 読み込み中",
+    "published_at": "2026-10-09T10:48:59+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "dc196059ff954abab32af8522639d78359eab37e89ccbba982bfcd5450311683",
+    "url": "https://www.asahi.com/articles/ASVB91R1GVB9ULFA011M.html",
+    "title": "JR東「えきねっと」「大人の休日倶楽部」で漏洩か のべ206万件：朝日新聞",
+    "summary": "JR東日本は9日、「えきねっと」と「大人の休日倶楽部」の会員のべ約206万件のメールアドレスなどの個人情報が漏洩（ろうえい）した可能性があることを明らかにした。ソフトバンクの子会社IDCフロンティア…",
+    "published_at": "2026-10-09T06:29:02+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "47a7e0073cd3c630a8a122bbcb022f76e4d0522f0d2f64d88c4d08fb4a3849d0",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002187/",
+    "title": "IDCFクラウド障害、親会社のソフトバンクが顧客窓口に 調査・復旧も支援",
+    "summary": "IDCフロンティアは10月9日、不正アクセスによる障害が起きているクラウドサービス「IDCFクラウド」について、親会社のソフトバンクの法人部門を窓口として顧客対応を進めていると発表した。 10月7日午前9時に緊急対策本部を設置。ソフトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案...",
+    "published_at": "2026-10-09T23:24:09+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2b9e9b175267e7db2d49aadbf538516f625026b72bfd2080b9dcfc61005d306d",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2147196.html",
+    "title": "「Claude」を虐めるな！ Anthropicが規約変更でAIへの虐待行為を禁止／どんな問題があるのか考えてみた【やじうまの杜】",
+    "summary": "",
+    "published_at": "2026-10-10T06:14:39+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "63e0eb8c0604eeb51e57c8a75fb3689def0619af83cbc616d8bea16cc764bf94",
+    "url": "https://github.com/jdx/jactionlint",
+    "title": "GitHub - jdx/jactionlint: :octocat: Static checker for GitHub Actions workflow files",
+    "summary": "jactionlint is a static checker for GitHub Actions workflow files and an actively maintained fork of rhysd/actionlint, with upstream pull requests and fixes merged here. Try it online! Features: Syntax check for workflow files to check unex",
+    "published_at": "2026-10-09T13:12:56+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d48ed5caf22c2dc0acbba56e9dd43ee0d15bdae31957ae00f548ae8cbe07ce41",
+    "url": "https://www.techno-edge.net/article/2026/10/10/5571.html",
+    "title": "Windowsにもエアドロしたい。Raspberry PiでAirDrop受信機「LilBitDrop」を作った（CloseBox） | テクノエッジ TechnoEdge",
+    "summary": "AirDropは今では少なくなってしまった、Appleエコシステムの「ないとなると困る」機能の1つです。何かイベントがあったときに写真をその場にいる人に送るのに著しく便利。ここではiPhoneとそれ以外で大きな格差が生まれ、そのような機会の多い女子学生の中ではiPhone所有率が格段に高いというのも頷けます。 ただ、最近...",
+    "published_at": "2026-10-09T21:44:57+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a45914ac1e230e39aea02d932811d2441d5679ca1b389ba1ea545b27c7987c71",
+    "url": "https://gamestalk.net/ken-kutaragi-playstation-pc-convergence-technological-innovation/",
+    "title": "「僕が引退したあとはPCと同じになってしまった」PlayStationの生みの親・久夛良木健氏が語る技術革新の停滞",
+    "summary": "PlayStationの生みの親として知られる久夛良木健氏が、自身の引退後にPlayStationが「PCと同じになってしまった」と語った。PCと家庭用ゲーム機の融合による市場拡大は認める一方、それが技術革新にはつながら […]",
+    "published_at": "2026-10-10T02:52:24+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a1f224b84efa034c587095125a595c8400252e22b6d0fa6533197c5ba4b0c30a",
+    "url": "https://togetter.com/li/2756595",
+    "title": "30年近く翻訳の仕事を続けてきて怖いこと…仕事が減ることだけではなく、積み重ねてきた努力や専門知識、言葉を吟味して正確に伝える価値が無になってしまいそうなことだ",
+    "summary": "Kaori Myatt 🇫🇷France @Kaorimyatt 30年近く翻訳の仕事を続けてきたけれど、今はすっかり将来の展望が開けなくなってしまった。 怖いのは、仕事が減ることだけではない。ここまで積み重ねてきた努力や、専門知識を身につけ、言葉を吟味し、正確に伝えるために培ってきたものの価値が、無になってしまいそうなことだ。 め...",
+    "published_at": "2026-10-10T10:39:57+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2f71e44074fadadf85c2b28ccaa3303bf14a9d3b86ec896dfc2e72f7a63f2d6d",
+    "url": "https://anond.hatelabo.jp/20261010122050",
+    "title": "エクストリーム横浜市長選挙2026",
+    "summary": "前回のエクストリーム選挙は沖縄県知事選2026だった（詳細は前回記事参照）。結果は古謝玄太氏が初当選、エクストリーム部門は「イキリIT枠（別名・ジェネリックちーむみらい）」の兼島俊氏が4,657票で優勝という番狂わせだった。あれから1ヶ月、次の開催地は横浜である。 2026年10月18日、横浜市長選挙が投開票を迎える...",
+    "published_at": "2026-10-10T03:21:25+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c55a567c8cdae0a41709a23bc8b6db0b40054ef39e3ef41a580a90e64c7aabee",
+    "url": "https://www.ganganonline.com/title/1851/chapter/133121",
+    "title": "ブルーアーカイブ ゲーム開発部だいぼうけん! 42話 (原作／ブルーアーカイブ 漫画／水あさと) | ガンガンONLINE",
+    "summary": "購読無料・登録不要のwebマンガ雑誌! 「わたしの幸せな結婚」「私がモテないのはどう考えてもお前らが悪い!」「月刊少女野崎くん」「アホリズム」「転生賢者の異世界ライフ～第二の職業を得て、世界最強になりました～」など続々掲載",
+    "published_at": "2026-10-10T15:29:31+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4b83b59da58403d3820b9367becdb991b5ee6ee6ac139536dd314899aa6c6ebd",
+    "url": "https://web.archive.org/web/20040617132650/https://h2np.net/bit/aes-rep.html",
+    "title": "AES 1st Conference and CRYPTO 98",
+    "summary": "The Wayback Machine - https://web.archive.org/web/20040617132650/http://h2np.net:80/bit/aes-rep.html 本文章は、共立出版Bit 1998年12月号と、技術評論社 Software Design 1998 年11月号に書いた記事をベースに、Web公開用に再編集したものです。 AES Conference / CRYPTO 98 訪問記 鈴木裕信 hironobu at h2np.",
+    "published_at": "2026-10-10T13:43:51+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "dc23f738ceb9cb1c822feaae88d33a21f943a0501c28c5f1276fbaaa267eb8f4",
+    "url": "https://www.cnn.co.jp/fringe/35253453.html",
+    "title": "走行中の車から不審な臭いと音、ボンネット開けたらクルミが200個 19年米",
+    "summary": "車から焦げたような異臭がすることに気づいたカップルが、ボンネットの下で驚きの光景を目にした/Courtesy Chris Persic （CNN） 車を運転していたら、物が焼けるような不審なにおいや異音がしたため、ボンネットを開けてみると、中には200個のクルミが――。米ペンシルベニア州ピッツバーグに住むパーシック夫妻が2019年...",
+    "published_at": "2026-10-10T22:33:47+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "63a4e11e2b73a80981a977c531e061a8781a9e1e66e2760905a6bb4d0140bf4f",
+    "url": "https://nishtahir.com/build-your-own-decision-model/",
+    "title": "Build your own decision model",
+    "summary": "Comments",
+    "published_at": "2026-10-10T22:50:10+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "bf79879b3089419367aae8f7d9e2c259b5b62387decfbd7e218eeeada8395259",
+    "url": "https://wallhop.io/",
+    "title": "WallHop – 12ft.io is gone, so I built a replacement",
+    "summary": "Comments",
+    "published_at": "2026-10-11T00:46:48+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d9949b26cfa6c382b7d2c1e4313c2731f5ff767696714d6f5cb5cfc4a89d2cf9",
+    "url": "https://patkerr.co.uk/2d-vehicles/",
+    "title": "2D Vehicles",
+    "summary": "Comments",
+    "published_at": "2026-10-07T12:30:40+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "91459c8bff819c06f2e49f0ad76507328cc8705bb5f17a8b7091080a65b0284a",
+    "url": "https://housing.over.pizza/",
+    "title": "A city-building game in which the city would prefer you didn't",
+    "summary": "Comments",
+    "published_at": "2026-10-10T20:31:50+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0139f84d8e8be97b6a6cd0b13d29b6f7589d2cf9001afbf57c154281715f6d3e",
+    "url": "https://lightbulbcomputer.com/",
+    "title": "The Lightbulb Computer",
+    "summary": "Comments",
+    "published_at": "2026-10-10T04:12:26+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "72035a6bd1e24a1a5e273de1bd66fabe5c8e8e5fe0a1fdab41ef36c29b6e8653",
+    "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+    "title": "Nix wrote half of my debugger",
+    "summary": "Comments",
+    "published_at": "2026-10-09T07:29:08+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c2f9caad882ea679da7f635ba617fb7d65c0a3f6d3a7593a27f860ae87fb6d46",
+    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+    "title": "Knuth reward check",
+    "summary": "Comments",
+    "published_at": "2026-10-10T15:47:01+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4ed17de1e9f997f270539c3dffb869ad4b2ac89d8ef2bcd4642d37e5d1ca2217",
+    "url": "https://github.com/jorgeandrecastro/github-workflow",
+    "title": "A minimal Rust TUI for managing GitHub repos and branches",
+    "summary": "Comments",
+    "published_at": "2026-10-11T00:17:30+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1c6440c4fed57598e7051c08429282b10a10ba7ea3cd09b6379e21b83158c87c",
+    "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+    "title": "Five months treating bugs like patients and coding agents like a medical team",
+    "summary": "Comments",
+    "published_at": "2026-10-09T15:26:33+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "39e14f68a85db1e2a62ca172f92a47a9a4a00e8a8ab1de27114d3b3fe8954d7c",
+    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+    "title": "Why DuckDB 2.0 is faster",
+    "summary": "Comments",
+    "published_at": "2026-10-10T18:08:49+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5c1db9239c15fa63153fb9af93c75fe74782fb4a6b7c7adc6152b7c684041ca2",
+    "url": "https://github.com/rociiu/talorys",
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "summary": "Comments",
+    "published_at": "2026-10-10T10:52:09+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "71b96d78bf43b81c21bc402a427e275ec655e8895d13ba5e4f13e7f1744444ea",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "summary": "Comments",
+    "published_at": "2026-10-09T06:52:49+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "47e32662b43840a7a7d53e7b3789e85323f849cd69cebabc6f2d0e244c629954",
+    "url": "https://news.ycombinator.com/item?id=50038458",
+    "title": "Ask HN: Why aren't Americans rising up against tipping?",
+    "summary": "Comments",
+    "published_at": "2026-10-11T00:20:23+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "25a145f4bcfe032b18185c53c88180f9e52c84150d431626c94d0b3d26a6cf56",
+    "url": "https://epoch.ai/publications/innovationeval",
+    "title": "Recent AI models struggled to match a human algorithmic innovation",
+    "summary": "Comments",
+    "published_at": "2026-10-09T22:14:40+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3cff51c1d22e9e0ead109fd437ec466079c3b7d0a670af6fcb9678d765553560",
+    "url": "https://ghuntley.com/unikernels/",
+    "title": "Unikernels were hard. key word: were",
+    "summary": "Comments",
+    "published_at": "2026-10-10T14:27:09+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "aa0b7e27b1df66683fc1bf8e58aea52a33e2cfe150f4f8e7831676e7ec6f0244",
+    "url": "https://werwolv.net/posts/macromedia_copy_protection/",
+    "title": "Getting old Macromedia Director Games to run on modern Hardware",
+    "summary": "Comments",
+    "published_at": "2026-10-09T14:18:03+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a406f57f368c0163e7b092e6f6af200ce67a64449eee87877eb94ade1d53a061",
+    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+    "title": "Grieving the loss of details",
+    "summary": "Comments",
+    "published_at": "2026-10-06T16:37:21+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cb3dceb55d06c79d64bc73927405d4f92833ec14ccb0e59eaa4f64865822445a",
+    "url": "https://openscad.org/",
+    "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+    "summary": "Comments",
+    "published_at": "2026-10-06T21:22:44+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ff937c40252284431292beae6a7a9f200cd28a2d8e1688a50fffda47505a8d14",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "summary": "Comments",
+    "published_at": "2026-10-10T18:48:35+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "61c0da3a99e7cb28eafde9fcd1330f451a18213e83bb14a1c08f1871acadf849",
+    "url": "https://github.com/moritzwilksch/diffle",
+    "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+    "summary": "Comments",
+    "published_at": "2026-10-08T15:23:19+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8cba259cd103107b11a9bc00731f802a67ccef012a5955741023fd047eda477b",
+    "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+    "title": "Rampart: Browser native on-device PII radaction",
+    "summary": "Comments",
+    "published_at": "2026-10-09T17:52:07+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4e3dd727b793f881e47c9cca03f89915125ebf127b088389aba58d9201b863de",
+    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+    "title": "Bitwarden Dual License Model",
+    "summary": "Comments",
+    "published_at": "2026-10-10T14:32:50+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ca71ea852d5e3a67a19691fbc7255db6a6bbf1550d0fda410eefe3a1def5ce7b",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "title": "Food processing influences metabolism and brain activity",
+    "summary": "Comments",
+    "published_at": "2026-10-10T05:22:30+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "53e46f9938d2b2693ea23694b01ef11d15f0b820c31d7ecb8625f8dc0dc98d6e",
+    "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+    "title": "C for Rust programmers",
+    "summary": "Comments",
+    "published_at": "2026-10-08T13:44:36+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "94a0114bd15e32f826e8b43c372b74cd2a04df2e8dc585328829e27f14e755eb",
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+    "summary": "Comments",
+    "published_at": "2026-10-07T19:15:57+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "eba6dbe0588e4b11f034ccc647a17eb57732b912c514174cb25e583b57d59929",
+    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "summary": "Comments",
+    "published_at": "2026-10-10T03:02:47+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "61aead273b1a218a2153622dc7d6d991185df9e57e27cd10685266e3f052e809",
+    "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+    "title": "I would like the value of my home to rise, while my property taxes fall",
+    "summary": "Comments",
+    "published_at": "2026-10-10T13:29:03+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9ef60fab3f98702a859a7889f7ecda8f0d0f55b5ad3b6c80717c856e91566921",
+    "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+    "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+    "summary": "Comments",
+    "published_at": "2026-10-07T01:44:59+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4b6f3d0558ec6d31de29fc281d3ab903536c09e5a70d471145900cf4ca678d2f",
+    "url": "https://changelog.com/podcast/686",
+    "title": "From zero to NanoClaw (Interview)",
+    "summary": "Gavriel Cohen, creator of NanoClaw and co-founder of NanoCo, joins Adam to explain how a 40-hour weekend project became a viral open source hit and the foundation of an enterprise AI company. Gavriel describes the security concerns that led",
+    "published_at": "2026-10-09T19:00:00+00:00",
+    "collected_at": "2026-10-11T09:59:40.096641+09:00",
+    "sources": [
+      {
+        "id": "changelog",
+        "name": "The Changelog",
+        "category": "podcast"
+      }
+    ]
+  }
+]
