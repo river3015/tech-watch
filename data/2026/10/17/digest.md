@@ -9,8 +9,8 @@
 - [Kaigi on Rails 2026のDay1に参加しました](https://qiita.com/PDC-Kurashinak/items/19dc2a9b2909a3a79e22) — Qiita
 - [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/) — Hacker News
 - [Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める](https://www.4gamer.net/games/050/G105051/20261015021/) — はてな：テクノロジー
+- [AWS セキュリティ速報 2026-137-AWS（CVE-2026-99999）は通常の EC2 は対象外。影響範囲を確認してみた](https://dev.classmethod.jp/articles/aws-security-bulletin-2026-137-kvm-kernel/) — DevelopersIO
 - [【速報】りそな、ネット口座で免許写真の確認廃止へ](https://www.47news.jp/15092320.html) — はてな：総合
-- [HTTP 402は29年「予約済み」のまま — x402をNext.jsで動かす](https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs) — Zenn
 
 ## 企業の実践・技術ブログ
 
@@ -18,7 +18,7 @@
 - [Continuous accountability for Verified bots](https://blog.cloudflare.com/verified-bots-accountability/) — Cloudflare Blog
 - [Anthropicの蒸留攻撃対策レポートを読む：preserved thinkingでClaude APIの会話履歴の扱いがどう変わるか](https://dev.classmethod.jp/articles/anthropic-distillation-defenses-preserved-thinking/) — DevelopersIO
 - [Claude CodeのCVE-2026-86063を手元で確かめる。git checkoutはコミットSHAより同名ブランチを優先する](https://dev.classmethod.jp/articles/claude-code-plugin-sha-pin-bypass/) — DevelopersIO
-- [AWS セキュリティ速報 2026-137-AWS（CVE-2026-99999）は通常の EC2 は対象外。影響範囲を確認してみた](https://dev.classmethod.jp/articles/aws-security-bulletin-2026-137-kvm-kernel/) — DevelopersIO
+- [AWS Health に届いた Anthropic Usage Policy の更新（2026年11月12日施行）を確認してみた](https://dev.classmethod.jp/articles/anthropic-usage-policy-update-bedrock-health/) — DevelopersIO
 
 ## 公式の更新情報
 
