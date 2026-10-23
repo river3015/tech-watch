@@ -1416,6 +1416,11 @@
         "id": "hatena-it",
         "name": "はてな：テクノロジー",
         "category": "community"
+      },
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
       }
     ]
   },
