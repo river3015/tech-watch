@@ -1,0 +1,1917 @@
+[
+  {
+    "id": "5767ee5c982d745e124142d150e1f803c517a5a6a7f3c87515a96267ef7d754f",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+    "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+    "summary": "Web Search on AWS Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly on the web_search tool in your existing O",
+    "published_at": "2026-10-23T21:04:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "f8afc739c8009e277d2379dcb28b54c2df6a988888a27cdf48c83686d22ca588",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+    "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+    "summary": "Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions. With this capability, end users can resume previous conversations with full context, metada",
+    "published_at": "2026-10-23T17:00:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "45b518017fb4d467e4811b6287cac7864d3a430fc6da177f7ce7fb995b781b94",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+    "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+    "summary": "AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integration with Regional Private NAT Gateway. This enables customers to connect private networks ",
+    "published_at": "2026-10-23T15:43:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "723f7e9eaf9dadf7a459f5eb406dd1237473c040b6f59b6e0ddc5e651810cf70",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
+    "title": "Amazon Corretto October 2026 Quarterly Updates",
+    "summary": "On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Corretto 27.0.1.0.10, 25.0.5.0.9, 21.0.13.0.10, 17.0.21.0.10, 11.0.33.0.9, and 8u512 are now ava",
+    "published_at": "2026-10-23T14:00:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "a8e1a3d39593bd1ccd4241456a52b7d34fc07e69520b61d7d865a301dab1471e",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+    "title": "Amazon MWAA now available in Mexico (Central) Region",
+    "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Provisioned environments are now available in the Mexico (Central) Region (mx-central-1). Amazon MWAA Serverless was already available in this Region, and customers can now also use ",
+    "published_at": "2026-10-23T08:00:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "2311e6702e26573b3e9fffd9717a9d98d05066360e521d099e5a060945d32700",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
+    "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+    "summary": "Amazon EMR announces a reduction of 30 percent in the EMR charge added to EKS when running EMR on EKS. This price decrease applies to both the per-vCPU-hour charge and the per-GB-hour charge, while the underlying Amazon EKS charges remain u",
+    "published_at": "2026-10-23T08:00:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "a85aeda09785999f9a24553e35366a193b21653509e952b61732b02884f29bde",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
+    "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
+    "summary": "Amazon OpenSearch Serverless now offers intelligent ingestion, a fully managed feature that turns logs and documents stored in Amazon S3 into searchable content in Amazon OpenSearch Serverless (NextGen) collections . With intelligent ingest",
+    "published_at": "2026-10-22T20:54:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "dd435ca53f5cddb1beebc82c09b733e27352a905067908e1cbe7e480fc3e5bd1",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume",
+    "title": "Amazon MSK Connect now supports pausing and resuming connectors",
+    "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) now supports pausing and resuming connectors, letting you temporarily pause a connector from processing records and resume it later. This is useful when you need to stop",
+    "published_at": "2026-10-22T15:00:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "aa60d462b73d2109069fa8d2731a3e985078d5f03b414a184d2d9fc7c15c32cb",
+    "url": "https://aws.amazon.com/jp/blogs/news/awsopsfes2026autumn/",
+    "title": "【開催報告 & 資料公開】AWS 秋のクラウドオペレーション祭り 2026",
+    "summary": "みなさん、こんにちは。 シニアスペシャリストソリューションアーキテクトの加藤です。 2026 年 10 月 7 […]",
+    "published_at": "2026-10-23T04:45:18+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "60f970e1df3b48e38265db737abe11772a7c8930a9f8ad2515f54314527e2733",
+    "url": "https://blog.cloudflare.com/origin-range-requests/",
+    "title": "Origin Range Requests: Serving large files without range-request tuning",
+    "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
+    "published_at": "2026-10-23T18:22:59+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "cloudflare",
+        "name": "Cloudflare Blog",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "70bdd870b2ac82df6eafbba336af5e0c7c5acd04d9f0476168b76204a3125b8a",
+    "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+    "title": "Bringing post-quantum cryptography to geographically fenced key management",
+    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
+    "published_at": "2026-10-23T18:06:56+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "cloudflare",
+        "name": "Cloudflare Blog",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "633b9fe792f999ea77019a5b17ff7996b84fe4d225dd2ad69a5d939400732795",
+    "url": "https://dev.classmethod.jp/articles/kitesurf-vs-chrome/",
+    "title": "[Kitesurf] I let Claude drive Cloudflare's new Kitesurf browser: lighter browser, slower agent~",
+    "summary": "I tested Cloudflare's new Kitesurf browser with AI agents, and the results might surprise you~",
+    "published_at": "2026-10-23T21:00:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "4cd4f1b764f0e5ac3757c9ebfa66fb508c3cdfe987cb6ed2224a1bd211ae6a70",
+    "url": "https://dev.classmethod.jp/articles/gcp-billing-llmjacking-phishing-ads/",
+    "title": "Wiz CIRTのLLMjacking報告を読む：Google Cloudの請求先アカウントを乗っ取られ、他人のGemini API利用料を払わされるまでの流れと確かめること",
+    "summary": "Wiz CIRTが10月20日に公開したLLMjackingの報告を読み、検索広告のフィッシングからGoogle Cloudの請求先アカウントが乗っ取られ、攻撃者のプロジェクトのGemini API利用料を払わされた流れと、請求の権限・監査ログ・予算で確かめる点を整理します。",
+    "published_at": "2026-10-23T15:59:17+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "10ea0adb3322eb44953832a8c787b8fa337fe0823f94a497d1b63cd13d154b6e",
+    "url": "https://dev.classmethod.jp/articles/shuntaka-muse-gadget-sdk-m5stack-core2/",
+    "title": "Muse Gadget SDKをM5Stack Core2 for AWSで試す",
+    "summary": "2026年10月、Metaがパーソナルエージェント「Muse」を日本でも利用可能にしました。公開されたSDKを使って、昔のM5Stack本体をMuseに接続し、音声で質問できるようにしてみます。",
+    "published_at": "2026-10-23T15:16:30+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "c52d80854dae40e10b09a5f432574d77dc8a78dd2d6d9f4c739b5ce9cb92b58e",
+    "url": "https://dev.classmethod.jp/articles/pnpm-side-effects-cache-exclude/",
+    "title": "pnpmで特定パッケージだけビルドキャッシュの再利用を除外する",
+    "summary": "pnpm 12.14.0のsideEffectsCache.excludeを使うと、指定したパッケージだけビルド結果のキャッシュ再利用を除外できます。ローカルのサンプルで通常時と除外時の再インストールを比較し、設定方法と既存キャッシュが残る点を紹介します。",
+    "published_at": "2026-10-23T13:55:16+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "a53bcb5720c7022bcf00c144cd8619b6f4f714ed651a691d1ed7654c1bf12b25",
+    "url": "https://dev.classmethod.jp/articles/pnpm-registry-network-concurrency/",
+    "title": "pnpm 12.9で社内レジストリだけ並列リクエスト数を下げる",
+    "summary": "pnpm 12.9.0から、registriesのエントリごとにnetworkConcurrencyを設定できます。ローカルに立てた2つのレジストリで、制限した側だけ同時リクエスト数が1になり、もう一方は全体設定の4のままになることを12.9.1と12.12.0で確かめました。",
+    "published_at": "2026-10-23T13:50:48+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "ea1dd1e47539506225b70269451d5c552646a2cdeeb925315edee6d42c401ab6",
+    "url": "https://dev.classmethod.jp/articles/aws-batch-bulk-cancellation/",
+    "title": "AWS Batch がジョブの一括キャンセルと一括終了をサポートしたので試してみた",
+    "summary": "ジョブを50件まとめてキャンセルと停止ができるようになりました。",
+    "published_at": "2026-10-23T12:42:53+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "25c4154f0b4a8cacfac28f8e780ecbe3a9509e8cb5aa2acf2bc8bd143b21c141",
+    "url": "https://dev.classmethod.jp/articles/vercel-slow-function-region-iad1/",
+    "title": "TTFBは速いのに表示が遅いVercelのページ、関数リージョンが既定のままだった",
+    "summary": "TTFBは速いのに表示が遅いときは、Vercelの関数がどこで動いているかを確認してみてください。x-vercel-idヘッダの見方、ダッシュボードとvercel.jsonの2箇所にあるリージョン設定の関係、N+1の直し方を実測値つきで紹介します。",
+    "published_at": "2026-10-23T10:30:14+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "4acfff3c84c040f1fb991d93943f92736a296798198a5736c4ccd52136af0ccf",
+    "url": "https://dev.classmethod.jp/articles/lambda-unzip-s3-zip-larger-than-tmp/",
+    "title": "Lambdaの/tmpを使わずにS3上の数十GBのZIPを解凍してみた",
+    "summary": "Lambdaの/tmpを使わずに、S3上の数十GBのZIPを展開する方法を2つ試しました。無圧縮（STORED）ならUploadPartCopyでS3内コピーして10GiBが4.3秒、圧縮済み（DEFLATE）ならストリーミング展開で約70MiB/s。方式の選び方と実装をまとめています。",
+    "published_at": "2026-10-23T10:00:10+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "524e1b5900c9bc0310a769fb7f6a3477966c62bbdb860c7b621ee0935c6e31a8",
+    "url": "https://dev.classmethod.jp/articles/devio2026-nagoya-ai-agent-alert-response/",
+    "title": "「アラート対応をAIエージェントでどこまでできるか試してみた」というタイトルで DevelopersIO 2026 Nagoya に登壇しました #devio2026",
+    "summary": "アラート対応を AWS DevOps Agent と Claude Code でどこまで任せられるか。調べる・直す・決めるの線引きと料金を、DevelopersIO 2026 Nagoya の登壇内容からまとめました。",
+    "published_at": "2026-10-23T09:30:10+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "629ca5bfa87d82725a69f3214293bc8f40931816394d0b7df65298b6fcaee71f",
+    "url": "https://dev.classmethod.jp/articles/myan-gcp-scc-etd-20261022/",
+    "title": "【Google Cloud】 Security Command Center で原因を解消したのに検出結果が「 INACTIVE 」にならない事象を確認してみた",
+    "summary": "Google Cloud の Security Command Center で、検出結果を解消しても状態が変わらないと感じたことはありませんか？今回はEvent Threat Detection と Security Health Analytics では検出結果の自動更新の仕様を実際に検証してみました。",
+    "published_at": "2026-10-23T07:28:47+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "cae645414f58e93f783458bbcdb0106bef366bfc5740cbb395bc324ee3ffc15e",
+    "url": "https://dev.classmethod.jp/articles/aws-waf-php2shell-body-managed-rule/",
+    "title": "AWS WAF のマネージドルール PHP2Shell_BODY をカスタムルールと比べ、CloudFront の 64 KB ボディ検査で試してみた",
+    "summary": "AWS WAF のマネージドルール PHP2Shell_BODY は、カスタムルール PHP2Shell と同じリクエストを止めました。CloudFront でボディ検査上限を 64 KB にすると、ALB で検査できなかった 8 KB より後ろの文字列も、上限の位置までサイズルールなしで検出しました。",
+    "published_at": "2026-10-23T06:51:33+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "7b7cf1da3793133f91c61be99e6995cb76579471d2dd1fc1c51869936ced0224",
+    "url": "https://dev.classmethod.jp/articles/dynamodb-global-tables-disassociate/",
+    "title": "[アップデート] Amazon DynamoDB グローバルテーブルでレプリカの関連付けを解除できるようになりました",
+    "summary": "レプリカを削除じゃなくて対象リージョンで単独テーブルに移行できるようになった感じ",
+    "published_at": "2026-10-23T06:51:10+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "910fd67c641190494567d9b919192f655a620f469f717946e03738c8a1fd25fd",
+    "url": "https://dev.classmethod.jp/articles/dbt-world-tour-tokyo-2026-dbt-wizard-dbtwttokyo/",
+    "title": "[レポート]dbt Wizard：データ開発における AI チームメイト #dbtWTTokyo",
+    "summary": "dbt World Tour Tokyo 2026で発表された「dbt Wizard」について、AI がコード生成の先にある検証や文脈をどう扱うのか、そして3つの利用形態とDesktopデモを紹介するセッションレポートです。",
+    "published_at": "2026-10-23T06:41:05+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "f222aaf0b8d3dffdf2bdc66d52a1b4398b521fc305c6c3abcf8362ab691b6112",
+    "url": "https://dev.classmethod.jp/articles/figma-2fa-setup/",
+    "title": "Figmaで2FAを設定してみた",
+    "summary": "セキュリティ設定の見直しのため、Figmaの2FA（2要素認証）設定方法を認証アプリ・SMS両方の手順を含めてまとめました。公式ヘルプに画像がないので…",
+    "published_at": "2026-10-23T05:45:39+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "202a5a884253ed332c8f7f71f4993bfcdcc427e6aee599487df420de4d3abaf9",
+    "url": "https://dev.classmethod.jp/articles/tsnote-alteryx-designer-cloud-japanese-column-support-202610/",
+    "title": "Alteryx Designer Cloud で日本語の列名やデータ値はサポートされているか教えてください",
+    "summary": "Alteryx Designer Cloud で日本語の列名やデータ値がブログ執筆時点（2026/10/23）でサポートされているか紹介し、推奨案を提示しています。また、サポート外での挙動であることを念頭に、シンプルなワークフローをもとに検証した結果も併せて解説しています。",
+    "published_at": "2026-10-23T03:40:51+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "5f4fcfb5c72937e6c4ebb2807032e7d5f007592c4ce0b5dee4da6f0a1bc49a65",
+    "url": "https://dev.classmethod.jp/articles/tsnote-howto-tableau-security-notification-page/",
+    "title": "Tableau 製品のセキュリティ関連通知を確認する方法を教えてください",
+    "summary": "Tableau製品のセキュリティ関連通知を確認する方法をご紹介します。Salesforceの Trust Status ページを活用して、セキュリティアドバイザリを確認し、通知設定を行う手順をまとめました。",
+    "published_at": "2026-10-23T02:38:32+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "47142a551320f347fc6303f5e592fc7eaecaa8b4c5538f2d178232b2fb827082",
+    "url": "https://dev.classmethod.jp/articles/20261023-cc-updates-v2-1-309/",
+    "title": "Claude Code v2.1.308〜v2.1.309 の主要アップデート - ultrareview の信頼確認必須化と sed -i の挙動変更",
+    "summary": "Claude Code v2.1.309 がリリースされました。今回は `sed -i` の挙動変更や `claude ultrareview` のセキュリティ強化など、運用に影響する破壊的変更が含まれています。注目のアップデートと実機での確認結果をご紹介します。本日は、`sed -i` の挙動変更を試してみました。",
+    "published_at": "2026-10-23T02:09:43+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "0d8ec81f667bd727464da1f7703f421c985cdf1995a212a92c4e3d4a0b192774",
+    "url": "https://dev.classmethod.jp/articles/tsnote-service-quotas-rds-for-oracle-license-included-db-instance/",
+    "title": "アカウントに適用されている RDS for Oracle ライセンス込み (License Included) インスタンス数の上限値を確認したい",
+    "summary": "RDS for Oracle のライセンス込みインスタンス数の上限値を確認する方法について説明します。Service Quotas では確認できないため、AWS サポートへの問い合わせが必要です。デフォルトは最大 10 インスタンスまでの制限があります。",
+    "published_at": "2026-10-23T02:00:35+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "310d97aeeac2d426e2b5b17d709d351943bdbd0d9271bb8d83067605f8b0d13e",
+    "url": "https://dev.classmethod.jp/articles/tsnote-bedrock-console-sagemaker-listhubcontents-error-avoid/",
+    "title": "Amazon Bedrock コンソールの「sagemaker:ListHubContents」エラーを回避するには",
+    "summary": "AWS マネジメントコンソールで Bedrock を使用する際、bedrock:* だけでは不十分で、SageMaker のアクセス許可も必要な理由と、その対応方法をご紹介します。",
+    "published_at": "2026-10-23T01:45:15+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "76896c9668568ce1663f80fe204459995edc4ebfe27a56b0d7872ccdc95cbe89",
+    "url": "https://dev.classmethod.jp/articles/202610-mitsuguchi-kiro-fsi-reference-architecture/",
+    "title": "金融リファレンスアーキテクチャ日本版 v2のSkillsをKiroに読み込ませたら、回答はどう変わるのか試してみた",
+    "summary": "金融リファレンスアーキテクチャ日本版v2のAgent Skillsを Kiroで使用し、FISC対応の設計回答がどう変わるのか。同じ質問をスキルなし→ありで比べて、ID・番号の正確性や、実務での使い所を検証してみました。",
+    "published_at": "2026-10-23T01:00:05+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "c32b78c6d0b3045d028c370994f56af8ecd493548899a37a0621bda3667d1245",
+    "url": "https://dev.classmethod.jp/articles/stepfunctions-nat-ec2-rds-schedule-stop/",
+    "title": "Step Functions で開発環境の NAT Gateway・EC2・RDS を夜間停止して料金を削減する",
+    "summary": "Step Functionsを使ってNAT Gateway・EC2・RDSをまとめて制御し、開発環境を自動で起動・停止する方法を紹介します。特に予算が限られた環境で、夜間や休日の料金を削減したい方必見です。",
+    "published_at": "2026-10-23T00:42:06+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "63c42710702d741eeb81a1a02216a50c9be57feab2930220e04f248c07125b73",
+    "url": "https://zenn.dev/shun0530/articles/32946ce85a536d",
+    "title": "「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図",
+    "summary": "要件は書ける。でも「実現できるか」は自分たちでは判断できない 他チームとの受け渡しで、案件が止まっている。それは分かっている。会議で「分担を見直したい」と言うと、いつも「でも現実的には難しいよね」で終わる。 私も、同じところにいました。取り込んだデータを加工して集計指標にする側のチームのマネージャーとして、外部サービスとの連携機能の開発フローに関わっていたときです。このフローには、ずっと気持ち悪さがありました。 要件を定義するのは自分たちのチーム。実装するのは隣のチーム。 言",
+    "published_at": "2026-10-23T13:01:10+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "afb19a99b05d70ac6c7a58cfcbdeb911b794ea664efeb94f7491b6fce8fc0acd",
+    "url": "https://zenn.dev/actbe_tech/articles/8b4a9991d5365d",
+    "title": "「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響",
+    "summary": "はじめに Twitterで「mdやskillを整える以外にも、AIが読みやすいDB構成がある」という話を見かけました。 今後AIで開発していくと、開発スピードと同じくらいAIのコストが効いてくると思っています。そこで、読みやすいDBと読みにくいDBで、トークンとコストがどれくらい変わるのかを実験してみました。 先に言ってしまうと、AIにとって読みやすいDBは、人間にとって読みやすいDBとほとんど同じでした。わかりやすい命名、コメント、外部キー。昔から言われてきた「ちゃんとした",
+    "published_at": "2026-10-23T09:00:05+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "528e7ba6db8c37aee3d5ffe4c70187988e400f18422c670cfcac5dfc6f91c32d",
+    "url": "https://zenn.dev/sakagi/articles/8caa896e649005",
+    "title": "Better AuthをMCPの認可サーバーにして、AI Agent からOAuthでアプリを操作させる",
+    "summary": "はじめに WebアプリにMCPサーバーを追加し、Claudeから利用者本人としてデータを読み書きできるようにしました。アプリのログインは Microsoft Entra ID の SSO を使用し、AIに渡すトークンはBetter Authの@better-auth/mcpでアプリ自身が発行します。 プラグインを入れるだけで、認可サーバーに要るエンドポイントはひととおり揃います。 ただ、既定のままでは困る点がいくつかありました。 この記事では、認可の流れを追ったうえで、Bet",
+    "published_at": "2026-10-23T07:45:06+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "070e70f2f6d63f693534e5a6ba97352943d03ee220e371df809d272082801f7c",
+    "url": "https://zenn.dev/cutlet_of_pork/articles/calamine-excel-read-alias-package-import",
+    "title": "Excel読込をcalamineで19秒→5秒にしたら、別名パッケージ経由のimportだけ壊れた【Python】",
+    "summary": "import=FAIL ModuleNotFoundError No module named 'src.core' sys_path_changed True AI に任せた実装の受け入れ検査で、この 2 行が出た。実装した側の報告では、テストは 204 件全部通っていた。 何をしていたか 社内の生産管理システムから落とした進捗一覧の Excel を、pandas で読んで絞り込むスクリプトがある。22,267 行 × 88 列。この read_excel が 20 秒前後",
+    "published_at": "2026-10-23T06:59:26+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a316cc81fc7efd1fece2bd9be05dbf3f78ffd11d20df4be46970aaebd7c95701",
+    "url": "https://zenn.dev/reu/articles/f79a89bd44b541",
+    "title": "AlphaEngine : 最適化編①",
+    "summary": "はじめに 今回は、Static/Skeletalメッシュの分離による頂点処理およびAcceleration Structure更新処理の改善をどうしたかを書いていきたいと思います。 以前の実装と問題点 Static/Skeletalを区別せず、全頂点をCompute Shaderで処理してBLASを更新していました。 理由としては、AlphaEngineのレンダリングの設計思想としてあった 「全ての処理を一元化したい」 という部分を強く見すぎた結果でした。 その結果、本来処理",
+    "published_at": "2026-10-23T06:27:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cd863f4bf4aa398af66b2aeed4e30b88a618c98b0230620e63f57470eaf0b33f",
+    "url": "https://zenn.dev/herumi/articles/search_bad_emudhra_key",
+    "title": "eMudhraの中間CA証明書の秘密鍵を求めてみる",
+    "summary": "はじめに 2026年10月に認証局eMudhraの中間CA証明書の署名鍵（秘密鍵）が脆弱だったという報告がありました。 ここではそのCA証明書に記載された検証鍵（公開鍵）から署名鍵を実際に求めてみます。 Pythonを使って求める 脆弱だった秘密鍵は8ビット以下だったということで、洗練された高速なライブラリを使わずナイーブな方法を使います。 『Software Design 2022年3月号』で紹介した記事、楕円曲線暗号のPythonによる実装その1（有限体とECDH鍵共有）",
+    "published_at": "2026-10-23T05:50:11+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2d8d61d1958e2498cf2d4962ab3a130430b2579426721d213ea49e9134333f21",
+    "url": "https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install",
+    "title": "2年間放置していたPwnagotchiをクリーンインストールして使えるようにするまで",
+    "summary": "はじめに 2年ほど放置していたPwnagotchiを、久しぶりに動かすことにした。 古い環境をそのまま直すのではなく、microSDを焼き直してクリーンインストールする。画面を動かして、SSHで入れて、バッテリーで持ち運べる状態に戻すのが今回の目標。 イメージを書き込めばすぐ終わるかと思ったら、USB接続でかなりハマった。最終的にはディスプレイとPiSugarの認識、SSHの鍵認証、PCからのインターネット共有までできたので、その記録を残す。 ! Pwnagotchiは無線ネ",
+    "published_at": "2026-10-23T03:24:22+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1fe85c8111199d2931c716bbda6d40c9b912c27554c4c882d6be1e4f33afbc20",
+    "url": "https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0",
+    "title": "[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）",
+    "summary": "はじめに Flutterアプリの初期化はmain()に書いておけばOK……と思っていたら、実はmain()を通らない起動ルートがありました。 気づいたきっかけは、APIリクエストにUser-Agentを付与するという小さな改修で、Androidの着信機能が鳴らなくなった現象が発生してしまいました。 リリース前に気づけたので本番影響はありませんでしたが、見落としやすいポイントだったので今回記事にしてみました。 起きた問題 リリース予定のバージョンで、Androidのクリフォアコ",
+    "published_at": "2026-10-23T01:30:05+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b8981913834600a5ae87a18085a20acf26a832cc1ba3b87723629820d302a2d3",
+    "url": "https://qiita.com/Kaitou/items/9746c5c262f994c1548c",
+    "title": "canvas上の文字にプロポーショナルメトリクスを適用したい！",
+    "summary": "",
+    "published_at": "2026-10-23T10:05:08+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "119202589adf34b44d76a61acee1836d8854cb2e1dd1f02a05709379da4a9832",
+    "url": "https://qiita.com/shota_hirano/items/5aa037294434003db2db",
+    "title": "Codexに「承認待ちをDiscordに通知してほしい」と相談して、通知ツールを作ってみた",
+    "summary": "",
+    "published_at": "2026-10-23T14:03:31+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "08d5530aec8709da557286e72ed6bd462b154f09085dbd794f81e727c897d373",
+    "url": "https://qiita.com/dohwan_kim/items/21266e799ed4bb2993f3",
+    "title": "【ノーコード業務改善】棚卸を「QRコード×Googleフォーム×スプレッドシート」で劇的に効率化した話",
+    "summary": "",
+    "published_at": "2026-10-23T14:12:12+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "93e5fe1ded67f80615a11e82e8d5ddc80476bf9bc4df3192c2a176321cf9e08e",
+    "url": "https://qiita.com/kodai_kitahara/items/4cb3fbc7c7f081f34986",
+    "title": "【Workspace Studio × GAS】AIが生成した複数行データをスプレッドシートへ安全に一括展開＆承認フローを自動化するアーキテクチャ",
+    "summary": "",
+    "published_at": "2026-10-23T13:39:34+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4a467708802c91576a4855af29e2242f45d9a59b2cc0d1943daab99c601924ee",
+    "url": "https://qiita.com/Takashi_Masumori/items/c559b0291db39b2169c1",
+    "title": "Copilot の Agent Builder が凄く進化した。何ができるようになったか、Copilot Studio（GitHub Copilot ハーネス）との違いも整理してみる",
+    "summary": "",
+    "published_at": "2026-10-23T09:11:28+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cfab665d7d1808c21b54b3d6d576a1c303faed3f7fe74fe76c6d731a4208c666",
+    "url": "https://qiita.com/seamoooooo/items/db67af6b63029ba32eea",
+    "title": "Security RX Agentがパブリックプレビューになったので、試してみた。",
+    "summary": "",
+    "published_at": "2026-10-23T09:10:22+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b3557790706ddf5fe9edb315623b036d8a9122a809031b968abf874dde63d4b3",
+    "url": "https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed",
+    "title": "【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた",
+    "summary": "",
+    "published_at": "2026-10-23T15:50:22+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5d81951675e939e7a01fbd91a6ec3203577e3ac9f46f927e6a0852a84ebcec34",
+    "url": "https://qiita.com/ito-y/items/b3f19402b56a44141dd9",
+    "title": "Obsidian でタブが散らかる人へ：見落とされがちなコアプラグイン「ワークスペース」で複数案件を切り替える",
+    "summary": "",
+    "published_at": "2026-10-23T15:26:36+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "30710ce34ebef89405eca02b59d58d558942bc641c231a8693fc40b66fc072cc",
+    "url": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0",
+    "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介",
+    "summary": "",
+    "published_at": "2026-10-23T18:11:47+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "62c768ac027137dd5ab4bb9405c3a16bf6ddb2d1ffc5e521686a7af5ff9da602",
+    "url": "https://qiita.com/saito_next/items/dc22d3f447bec13e1dd5",
+    "title": "【合格体験記】🐍Python 3 エンジニア認定基礎試験_勉強法、注意点まとめ📝【Python】",
+    "summary": "",
+    "published_at": "2026-10-23T16:31:14+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d744305b18003e6d617b4fa622a2e44ca4a02afebfaf77459923e1cce8deadf1",
+    "url": "https://qiita.com/Oyu3m/items/b97655af29af852af300",
+    "title": "Microsoft Copilotの「Code」を設定して動かしてみるテスト",
+    "summary": "",
+    "published_at": "2026-10-22T23:55:20+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "bd935069d1dc67618457cd34e51ece9db2b02b54159ca453f4100621b95917c7",
+    "url": "https://qiita.com/maskot1977/items/3c68b2af16850b86253c",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 34",
+    "summary": "",
+    "published_at": "2026-10-24T02:06:19+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c43883072d9ed52f86eb74e9162b4647fe1e616dc73fe124ea38af0cc816bdfe",
+    "url": "https://qiita.com/maskot1977/items/ae94022fd23241fad2c1",
+    "title": "AIを低賃金ロックインの打破に使え ― 「奪う仕事」と「生む仕事」の両面設計 : システム設計視点の行動経済学 (47)",
+    "summary": "",
+    "published_at": "2026-10-23T11:47:31+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3befcd484e048ba52fbf89403e5a4208ced3530d0c76c01ed1bbc128227fba27",
+    "url": "https://qiita.com/nemui_zzz/items/f0e22400b628140f80cf",
+    "title": "PHPの重大な脆弱性、うちの会社は大丈夫？ Web担当者が確認すること",
+    "summary": "",
+    "published_at": "2026-10-23T07:08:41+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8b4303fc4593d411df8d82f9b0ee55556063fee2aa49f27240a24e8420b1cf69",
+    "url": "https://qiita.com/suginohara/items/c61bf348ea7156bdd0dc",
+    "title": "TROCCOのカスタムコネクタ実装を楽にするAI活用 〜実装と運用編〜",
+    "summary": "",
+    "published_at": "2026-10-23T15:09:31+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9e7f8fab6b821369a26f3e45a03a2410995cfb85d93982ee62b270f51bdcbb71",
+    "url": "https://qiita.com/ennagara128/items/b9d8253e6f8ee145426e",
+    "title": "2026年10月23日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "summary": "",
+    "published_at": "2026-10-23T10:08:05+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9eeb7f5438a6082c86e891ae819a9751c8b8568eb407a4e09167f32133ca66be",
+    "url": "https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed",
+    "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御",
+    "summary": "",
+    "published_at": "2026-10-23T16:44:20+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "189d3ce9f6d5892843ed53856b351c5bd36f1b898c07c2a2e1d8196397093f82",
+    "url": "https://qiita.com/shinkai_/items/a45455b514bf9d32275a",
+    "title": "顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応",
+    "summary": "",
+    "published_at": "2026-10-22T19:20:29+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "093af3a370c5b125895515a4743daa14b148a2d5ce12a3ee22393f603127cda7",
+    "url": "https://qiita.com/akiramur/items/ac16f1a58dd7e18516de",
+    "title": "フロア図の画像1枚とClaude Codeで、Mapboxの屋内地図を作ってみた",
+    "summary": "",
+    "published_at": "2026-10-22T12:09:18+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "80aaf0ae1674f8914473af20273e70c2ae9759c3235b55855303430119f3b6cc",
+    "url": "https://qiita.com/hiroshi_buildup/items/69aa3413dd90286d311d",
+    "title": "学習記録アプリをリニューアルしました",
+    "summary": "",
+    "published_at": "2026-10-22T23:54:01+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "484c350a759249d8528b0e28978afe2a04d015ba4638c9758b8c83094ef95066",
+    "url": "https://qiita.com/ryu0947/items/7b5e92ad89ac087f0b59",
+    "title": "【GitHub Actions】Firebaseにデプロイしたらdistディレクトリが存在しないと言われた",
+    "summary": "",
+    "published_at": "2026-10-23T01:37:48+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "bdd411b1299eec3f23678bd2449de09de4bfb5341b03a83ca3584c4204ffc8fb",
+    "url": "https://qiita.com/J-T_ky2g/items/cf96be5a2f807e0c17bf",
+    "title": "chakra-uiでloadingにloading用のステートを渡して動かない時のデバッグでやったこと",
+    "summary": "",
+    "published_at": "2026-10-22T23:55:38+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "39555801d4d75b1a2a1a229ef6671c83c947ebbc5f8309048f988bbd94967729",
+    "url": "https://qiita.com/taka_yayoi/items/f1002c32c8523def2217",
+    "title": "MLflow 3.17 で Jev を make_judge() のモデルに指定できるようになったので試した",
+    "summary": "",
+    "published_at": "2026-10-22T10:37:07+09:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "280e3cc5807dcb76bd17fdbe81652e9062073aa4c59090f47f17c4687d1a9ad5",
+    "url": "https://engineer-ninaritai.com/php2shell-attack-detection/",
+    "title": "PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」",
+    "summary": "こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...",
+    "published_at": "2026-10-23T12:23:05+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "276cadcd9839c74af3adb0ce4dd70d01db27c9e1c628711483eeab711c1f8420",
+    "url": "https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/",
+    "title": "PHP脆弱性、利用サイトの半分が修正困難 バージョン古くサポート終了 - 日本経済新聞",
+    "summary": "プログラム言語「PHP」に深刻な脆弱性が発覚した問題で、利用サイトの半数では運営団体の公表した修正作業が難しいことが分かった。長期間更新されていない「休眠サイト」も多数含まれるとみられ、閉鎖が急務となっている。デロイトトーマツサイバーがウェブ技術の調査サービス「W3Techs.com」の統計をもとに推計した。...",
+    "published_at": "2026-10-23T20:43:19+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "483ab5238e88e5787fa236a7a6b208e1dff141a32964d9e7daa7a5bd51071fac",
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "title": "Using Claude to reduce the attack surface of code",
+    "summary": "Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited ",
+    "published_at": "2026-10-23T15:05:50+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "87c9cc82210f3de70f2c7a06f8bdbb5411f6c8a0c4e492808aac40a1c1e4806c",
+    "url": "https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/",
+    "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
+    "summary": "パナソニックホールディングス（HD）は23日、社内で利用が禁止されている外部の生成AI（人工知能）サービスに同社グループの従業員やその家族らの個人情報約33万人分が送出されたと発表した。不正アクセスではなく、特定の従業員が社内ルールに反し情報を生成AIにアップロードしたことによるものだという。子会社と人事...",
+    "published_at": "2026-10-23T10:56:07+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "fafbfc676e45eed54e365a95d0ab54e4c896e51053630aa336aac829ce2a064d",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2150751.html",
+    "title": "「Mermaid」図を描けるMarkdownエディター「MerMark Editor」が日本語化／有志の貢献により、v0.8.1から",
+    "summary": "",
+    "published_at": "2026-10-23T06:49:37+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "562fb01149cf6f56a3a16afa677f2f1a22db9cf7468b5e6ae6bc17798ddf68fe",
+    "url": "https://japan.zdnet.com/article/35253683/",
+    "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+    "summary": "チェコのプラハで開催された「Open Source Summit Europe」の基調講演において、ドイツのミュンヘン市の最高デジタル責任者を務めるLaura Dornheim博士は、同市が10年以上前に政治的な理由から「LiMux」と呼ばれる「Linux」デスクトップの導入を放棄して「Windows」に移行したものの、現在は再びオープンソースソフトウ...",
+    "published_at": "2026-10-23T10:30:55+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ed94c16882ee1d9e4fa8e7482a76ceb478e490286d4112ed8c8fdd36be499970",
+    "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
+    "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
+    "summary": "2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday...",
+    "published_at": "2026-10-23T13:15:06+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5250b0e7f0566331e91d38f23fc2fadbff45e4bb0d9abcf9febf0dd882e56216",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/23/2000002506/",
+    "title": "「パスキーはワナだ、使うな」にネット騒然 プロが“待った”をかけるワケ：902nd Lap",
+    "summary": "2026年10月、国内では「焼肉きんぐ」の公式アプリや「ローソンID」「タイムズカー」などで、不正アクセスによる個人情報の漏えいが相次いで公表された。不正アクセスによる個人情報の漏えいが相次ぐ現在、自分のアカウントをどう守るかは、誰にとっても無視できない問題だ。そんな中、パスワードに代わる新たな認証手段...",
+    "published_at": "2026-10-23T01:22:38+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0bae1e928b6e3172e5833836674c57d34258aa66c97ae05b9c75ca4a42df229d",
+    "url": "https://automaton-media.com/articles/newsjp/20261023-475245/",
+    "title": "マイクロソフトによる「シェーダーコンパイル要らず」の新技術、ついにNVIDIAグラボ向けに解禁。ゲーム起動時の“あの待ち時間”とおさらば - AUTOMATON",
+    "summary": "マイクロソフトによる「シェーダーコンパイル要らず」の新技術、ついにNVIDIAグラボ向けに解禁。ゲーム起動時の“あの待ち時間”とおさらば Microsoftは10月21日、同社が提供するシェーダー配信技術「Advanced Shader Delivery」の対応ハードウェアを拡大したことを発表した。 Microsoftは10月21日、同社が提供するシェー...",
+    "published_at": "2026-10-23T13:18:50+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "86b8c2a7f2cabb3e4818ff40cccfd0b3ea2814484979d0459d282a1936c1c9a0",
+    "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
+    "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
+    "summary": "",
+    "published_at": "2026-10-23T15:52:59+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "eac32504479d0492671cf01c3b1db5a722de904f994c4fb816c240e07586279f",
+    "url": "https://tech.codmon.com/entry/2026/10/23/173909",
+    "title": "PHP2Shellへの対応を振り返って - コドモン Product Team Blog",
+    "summary": "はじめに コドモンでプロダクト開発部長を務めております、松浦です。 2026年10月21日、PHPの脆弱性（通称「PHP2Shell」）への対策として、コドモンのサービスを日中に一時停止しました。 施設の先生方、保護者の皆さま、自治体や販売代理店の皆さまには、十分な事前のご案内ができないまま、長い時間にわたりご不便をお...",
+    "published_at": "2026-10-23T09:00:03+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9ed2e04824014f359c3f0eff9c127e8e6a709d750fd3542c3e266dd2ba2c7895",
+    "url": "https://www.nikkei.com/article/DGXZQOUB233Q60T21C26A0000000/",
+    "title": "野村証券、法人向けサービス「i-Port」で情報漏洩か 「委託先に不正アクセス」 - 日本経済新聞",
+    "summary": "野村証券は23日、金融機関など法人向けの運用資産管理ツール「i-Port」を利用する顧客のメールアドレスなどが外部に漏洩した可能性があると発表した。メール配信を委託するユミルリンクへの不正アクセスが原因としている。漏洩件数は調査中として明らかにしていない。対象となった金融機関などの顧客には個別に知らせる...",
+    "published_at": "2026-10-23T05:58:09+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "77cf349032fc9f0fde15f5c8b55cde0f2a41e5aa7f6a1e9c04deccfe73fb2eb1",
+    "url": "https://devin.ai/blog/vulnerability-fixes-plugin",
+    "title": "Fixing Critical Node & PHP Flaws | Devin",
+    "summary": "Cognition|October 22, 2026|11 min read|Copy link On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams running either runtime should identify affect",
+    "published_at": "2026-10-23T03:28:59+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3d98569f60b889c385c131b3f7b0aa3d5a5cd1b471c84add8d42cfd91380c425",
+    "url": "https://www2.sagawa-exp.co.jp/information/detail/430/",
+    "title": "【佐川急便】｜お知らせ",
+    "summary": "重要なお知らせ お知らせ一覧に戻る ホーム お知らせ",
+    "published_at": "2026-10-23T07:41:02+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b276772d25f34c275c8e9fa9975099cf96b6d379aa1b288285358aba72b91ee1",
+    "url": "https://holdings.panasonic/jp/information/topics/20261023.html",
+    "title": "外部生成AIサービスへの個人情報アップロードに関するお詫びとお知らせ - パナソニック ホールディングス",
+    "summary": "パナソニック オペレーショナルエクセレンス株式会社（以下、当社）は、子会社のパナソニック デジタル株式会社（以下、PD）と進める人事情報システム導入プロジェクトにおいて、プロジェクトメンバーが従業員、元従業員およびご家族の個人情報を含むデータを、当社が利用を禁止している外部の生成AIサービスにアップロ...",
+    "published_at": "2026-10-23T11:20:47+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e93a0cfb9d1eb8ade35f1387ed4b639b55350411706759d64ea2ee5e188f35de",
+    "url": "https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/",
+    "title": "タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞",
+    "summary": "パーク24は23日、カーシェアサービス「タイムズカー」の不正アクセスによる個人情報流出を受け、免許証などの本人確認書類の画像データが外部送信されたとみられる被害者に1人3000円を「お見舞い」として支払うと発表した。のべ146万人あまりが対象となり、総額は単純計算で約44億円となる見込み。タイムズカーでは9月に...",
+    "published_at": "2026-10-23T08:20:32+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "52e1ab9a42a32f272f47c0c3f9fc4f24bb9e6f19d536d85caef5829663c93565",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
+    "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
+    "summary": "モスバーガーを展開するモスフードサービスによりますと、不正アクセスによって店やネットでの支払いに使用できるプリペイドカードの情報が外部に流出したことから、カードの所有者に対し、身に覚えのない利用がない…",
+    "published_at": "2026-10-23T11:48:55+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d52d1980c89947e0f48ac95137a7f2974f4f0be3007272281d7c0f6209971bb4",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2150820.html",
+    "title": "タイムズカー情報漏えい、“お見舞金”3000円支払いへ 本人確認書類は全削除",
+    "summary": "",
+    "published_at": "2026-10-23T08:53:17+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3f7e88d163adccc90fd649923eb133eef636fa08bacbb6a854d0acd8182f14a9",
+    "url": "https://www.gizmodo.jp/article/2026_local_llm_matome-bij/",
+    "title": "無料で使えるAI｢ローカルLLM｣の進化がすごいよって話 | ギズモード・ジャパン",
+    "summary": "1. ローカルLLMの高性能化が止まらない「Gemma-4-31B」で画像認識をしているところ。同モデルはGoogleが2026年4月にリリースした非常に高性能なローカルLLMImage: かみやまたくみ2026年のローカルLLMで特徴的なのが、性能が大幅に向上したこと。 具体的なモデルとしては、3月にリリースされたQwen3.5シリーズ（アリババ...",
+    "published_at": "2026-10-22T16:40:19+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e184084c30401cd089b0f7abafe2cede7eca164eee5d847386d5e8d1b4113864",
+    "url": "https://zenn.dev/helloyuki/articles/e1e312796f35ed",
+    "title": "IntelliJ IDEAがLSPをしゃべるようになりVS CodeやCursorで使えるようになった",
+    "summary": "IntelliJがLSPをしゃべるようになり、VS CodeやCursorからExtension経由で呼び出せるようになる話が、夏頃から徐々に発表されていました。8月初旬にプレビューが開始されていました。 これがようやく1.0を迎えました。 VS CodeやCursorでは、下記をインストールすることで利用可能になります。 何ができるのか CursorやV...",
+    "published_at": "2026-10-23T12:07:15+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2368cc08cd1d7069902bdcf7eed1d1e38694a6abd7e1851c280ee3743db39e84",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64285",
+    "title": "佐川急便 流出した個人情報は最大5300万件超の可能性 | NHKニュース",
+    "summary": "宅配大手の佐川急便は、不正アクセスを受けて外部に流出したおそれがあると発表していた個人情報について、荷物の送り主と送り先の氏名や住所など、最大で5323万件に上る可能性があると明らかにしました。 会…",
+    "published_at": "2026-10-23T07:16:43+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cce648ff156e9d08e8a1843bdf36e9415f30ba6d6063bff59dc27642a83383f0",
+    "url": "https://group.gmo/info/alert/20261023/",
+    "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報） | GMOインターネットグループ株式会社",
+    "summary": "2026年10月23日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報） GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月23日 16：10時点 2026年10月21日および22日にお知らせいたしました「お名前.com デスクトップクラウド」への第三者によ...",
+    "published_at": "2026-10-23T08:53:50+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6c5f7563d6ccb7cfd4fd00a9f5332b30c2931261b07fe5b64d8212ce608b485e",
+    "url": "https://gigazine.net/news/20261023-usb-c-magnetic-connect-microsoft/",
+    "title": "MicrosoftのSurface Laptop Ultraに搭載された「マグネット式USB Type-Cコネクタ」とは一体何なのか？",
+    "summary": "Microsoftは2026年10月7日のNVIDIAの新型SoCであるRTX Sparkを搭載するWindows PC「Surface Laptop Ultra」を発表しました。そんなSurface Laptop Ultraに搭載されたマグネット式USB Type-Cコネクタ「Magnetic Connect」について、ガジェット系メディアのLTT Labsがまとめています。 USB-C Magnetic Connect Hardware an...",
+    "published_at": "2026-10-23T12:14:56+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6e569107e38d72ce120f50cc478cfc543d961ab916dffece5be6e1c6ecccbe09",
+    "url": "https://blog.syosetu.com/article/view/article_id/5278/",
+    "title": "【重要】第三者によるログインの恐れと今後の対応について",
+    "summary": "いつも小説家になろうグループをご利用いただき、誠にありがとうございます。 この度、小説家になろうグループの一部のアカウントに対し、登録ユーザ様ご本人ではない第三者によるログインが行われていた可能性があることを確認いたしました。 調査の結果、第三者が外部で不正に取得したログイン情報等を用い、ログイン...",
+    "published_at": "2026-10-23T09:32:32+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5db6eb39dd8c80a98ce266d20e0851a731076de02cb20804804b2d1bdc9a21b9",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2315K0T21C26A0000000/",
+    "title": "PHP脆弱性「サイト停止500件超」 ソフトバンクは緊急速報配信停止 - 日本経済新聞",
+    "summary": "世界のウェブサイトで幅広く使用されるプログラム言語「PHP」に深刻な脆弱性が見つかり、企業や政府機関でシステムなどの一時停止が相次いだ。民間の調査によると、国内の企業などのサービス停止は累計で500件を超えたとしている。クラウドサービスのセキュリティー評価サービスを手掛けるアシュアード（東京・渋谷）の...",
+    "published_at": "2026-10-23T11:19:05+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9bc540b1bc522076af429d114d77cb676d86e6920bbb85d6ce9dda56172babae",
+    "url": "https://share.timescar.jp/news/2026/1023/1825.html",
+    "title": "「タイムズカーWebシステム」への不正アクセスによる個人情報漏えいに関するご報告と今後の対応について（第5報） | カーシェアリングのタイムズカー",
+    "summary": "このたび、当社グループが運営するタイムズカーのWebシステムに対する第三者による不正アクセスにより、お客様情報の漏えい（本事案）が確認されました。 お客様をはじめ、関係者の皆様に多大なるご迷惑とご心配をお掛けしておりますことを、心より深くお詫び申し上げます。 当社は本事案を重大な問題と受け止め、外部専...",
+    "published_at": "2026-10-23T08:21:34+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a372b4319764a1926a702b427ef6ec87f2a72194362e1475133889aa52057170",
+    "url": "https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/",
+    "title": "AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現",
+    "summary": "Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 pepsipu.com/blog/2026-10-switch2-j...",
+    "published_at": "2026-10-23T11:06:18+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "31dc9b981b016f264268a87224b2285a37a903a8a63f72b769565d121ed52d6a",
+    "url": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2150542.html",
+    "title": "PCもHDDもカメラも分解したい!! 今度は精密ドライバーと特殊ネジの沼へ足を突っ込んでみた 【テレワークグッズ・ミニレビュー 第171回】",
+    "summary": "",
+    "published_at": "2026-10-23T12:18:59+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f982268040d987f1e5e87dce0d9184022e4e1d4c5f19c4e9c0727e77682c923a",
+    "url": "https://togetter.com/li/2762070",
+    "title": "修学旅行先で観光客に対して舐めた態度をとって煽っていた子がブチギレられていた…涙目になりながらヘラヘラしているその子に教頭がかけた言葉がGJだった",
+    "summary": "アイムフリー☺︎ @TeacherhaGreat 修学旅行先で観光客に対して舐めた態度をとって煽っていた子がブチギレられていた。涙目になりながらヘラヘラしている子に『日頃あなたの態度に対して先生たちは仕事だからあんな風には言わないけど、仕事でない人からはそのようにされても当然のことしてるのよ』って教頭が淡々と追い打...",
+    "published_at": "2026-10-23T16:29:28+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8eb9edd0d67b03668ab47de6ff52011f6d14bc0ae56023d9ea70715af122eb55",
+    "url": "https://togetter.com/li/2761908",
+    "title": "コメダで携帯電話は禁止という注意書きがあるのに、採用担当と思われる会社員が「正直この方はちょっと厳しいんですよね〜」と通話していた→マナーやコンプラに注意したい",
+    "summary": "コメダで携帯電話は禁止という注意書きがあるのに、採用担当と思われる会社員が「正直この方はちょっと厳しいんですよね〜」と通話していた→マナーやコンプラに注意したい",
+    "published_at": "2026-10-23T08:07:09+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hatena-career",
+        "name": "はてな：学び（キャリア）",
+        "category": "career"
+      }
+    ]
+  },
+  {
+    "id": "bf44de9e544de4cbe9fe1a2a613ba67b03dda83fe8633fc284d5c9ec8453b5d7",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "summary": "Comments",
+    "published_at": "2026-10-23T16:59:08+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "01356892d8796636b4ea8a399bc3bd438b4a2c3f6e7900d55342c370837129e8",
+    "url": "https://music.apple.com/this-url-doesnt-exist",
+    "title": "Apple Music 404 Not Found",
+    "summary": "Comments",
+    "published_at": "2026-10-23T12:28:47+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3513b9999983f116ac8c5e0812579074ec3fee0875f9d1f9cc2e75c93ef49f28",
+    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+    "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+    "summary": "Comments",
+    "published_at": "2026-10-23T23:30:17+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "36bdd90b32e8f9f32fdf220181065ef5b1302e80999cfe4caf1a3242fe4a3e4c",
+    "url": "https://cve.0xosprey.com/",
+    "title": "CVE Tracker",
+    "summary": "Comments",
+    "published_at": "2026-10-23T21:21:47+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6309a052e042f22fec0e0aaa5cbe68118ca26c2453d98714c9bc6ab59e264c1a",
+    "url": "https://blog.calif.io/p/iphone",
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "summary": "Comments",
+    "published_at": "2026-10-23T16:21:50+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b5cb20bfbe29ca467252b9888181d30061954fb596893731cbf1f457ba320a26",
+    "url": "https://block.xyz/dessa",
+    "title": "Dessa: the most authentic full-duplex speech model ever built",
+    "summary": "Comments",
+    "published_at": "2026-10-23T19:09:54+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "67d9de400f929ce0274dbcc229cd97fc702483b142a55e1356872d1c385347d2",
+    "url": "https://edjefferson.com/localwiki/",
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "summary": "Comments",
+    "published_at": "2026-10-22T23:01:18+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "06764cbc6d9a6757ff29ecd99c878f59b4e0bfeeddac4c855aeb87a7ed87c49b",
+    "url": "https://pudding.cool/2026/10/kevin-bacon/",
+    "title": "The Real Kevin Bacon",
+    "summary": "Comments",
+    "published_at": "2026-10-20T17:10:05+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "267687f580785c4793de0ce8a98d32e6375239c1fa0ce580432bcc085a7919ba",
+    "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+    "title": "Canadians are running out of time to oppose Bill C-22",
+    "summary": "Comments",
+    "published_at": "2026-10-22T22:43:19+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0c52706d1cc52b2e6a203551f29140caf341e62649910a0435d40fb5b9419f8e",
+    "url": "https://corgi.computer/",
+    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "summary": "Comments",
+    "published_at": "2026-10-23T19:46:38+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a9526976eeebfbfe11f723ec9d420402046ad8a284b661480087bc896dcebdb4",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "summary": "Comments",
+    "published_at": "2026-10-23T19:34:15+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5cc99ef91beee0160c22b5695454d1b4001458f6d0194c53817fc96cc02f35a3",
+    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+    "title": "No Source Code? No Problem",
+    "summary": "Comments",
+    "published_at": "2026-10-23T20:38:06+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "701bc159df4e5401d2270b03ae16c3c12345a804857dc90f09fac35d8096af5e",
+    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+    "title": "A whirlwind tour of systemd-nspawn containers",
+    "summary": "Comments",
+    "published_at": "2026-10-23T20:37:12+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4fb051deb678302903457c3dacce0044a8dfb434d7c867e1d42aea9f6009ae40",
+    "url": "https://rune.build/blog/rune-1-3-release",
+    "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+    "summary": "Comments",
+    "published_at": "2026-10-23T19:42:01+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a1f65d3a031587e28d1590c0d288aa13ba53511e991ece03a129eebf65166ccf",
+    "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+    "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+    "summary": "Comments",
+    "published_at": "2026-10-21T08:17:35+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "dff96282590c480042d3708f70b1fb93dd13abfa531bc4efcac7a4490bec78b9",
+    "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+    "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+    "summary": "Comments",
+    "published_at": "2026-10-20T15:41:28+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "137545da4da1bffd24f1778e334e180e96cb6c9c202497d2133b43a8513f7138",
+    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+    "title": "Air Purifiers as White Noise Machines",
+    "summary": "Comments",
+    "published_at": "2026-10-23T17:28:36+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "71853833e5fa6c7e4976284a3f9489d30d2fd47e116a955e18f46c26a68f36ea",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+    "title": "Securing our frontier model training environment",
+    "summary": "Comments",
+    "published_at": "2026-10-23T19:50:56+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9254e490d6dfe49fcd7196079ba01b29bbbad9becf739c76d6b1865a2d3f2679",
+    "url": "https://altchan.org/sh/42",
+    "title": "DNS: A Replacement for Finger",
+    "summary": "Comments",
+    "published_at": "2026-10-23T19:00:04+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0af5891f812aebe5b10d4def6dab75405fddb7c98a7a6c439ad232a1818cd2f1",
+    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
+    "title": "Animations for System Builders",
+    "summary": "Comments",
+    "published_at": "2026-10-23T17:02:24+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "7fac2c63054d14c164c6033618bde310a1a93bfe28f16593336b6b2d12631cf5",
+    "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+    "title": "German court calls Google aerial imagery 'spying'",
+    "summary": "Comments",
+    "published_at": "2026-10-23T22:18:49+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "04eeefad080681ef54477e009277c552425aef48fa9fd18e9140e722e1f0f867",
+    "url": "https://www.impossiblemachines.xyz/",
+    "title": "Show HN: Impossible Machines: declaratively program the physical world",
+    "summary": "Comments",
+    "published_at": "2026-10-22T23:54:28+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cdf86179f9a2ec80e00e256164042f6446e775e496c6bb1f89b020a9eac7379e",
+    "url": "https://swurf.org/",
+    "title": "Show HN: Swurf – Swipe through the real web",
+    "summary": "Comments",
+    "published_at": "2026-10-23T06:54:52+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c941988085609fb86c682f13b4de5d3ca97a0e765d3b8bccb5704fae94a74dfe",
+    "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+    "title": "Reforming English Spelling",
+    "summary": "Comments",
+    "published_at": "2026-10-23T15:56:06+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c39240f8180ddc666422f6ce441354b4046022e15f2bde52e9c3f0dbdc76b048",
+    "url": "https://microship.com/lisp-comes-of-age/",
+    "title": "LISP Comes of Age (1980)",
+    "summary": "Comments",
+    "published_at": "2026-10-22T19:08:09+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "79525a8afd6fd57ace8fbd77b068dea97b64c6137a5ef353c32c77c6b835b82d",
+    "url": "https://twitter.com/robbietilton/status/2111936458923851923",
+    "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+    "summary": "Comments",
+    "published_at": "2026-10-23T17:40:22+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c699ebd6aa1ff5d014581025d1b4caf50f8179d2865e3e33698abbcdf35a388b",
+    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "summary": "Comments",
+    "published_at": "2026-10-23T16:39:45+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ecad90cc6e1e90688af9e007659e138856b61e62fe4be345db4a8b6c36dc8ff0",
+    "url": "https://isaacmarovitz.com/posts/sonic-06/",
+    "title": "The Missed Opportunities of Sonic 06 (2025)",
+    "summary": "Comments",
+    "published_at": "2026-10-23T16:38:35+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "827ff1a721db5feb2bc28ac79f61f7e243d1ac3745ccc3505e265076f6580bc5",
+    "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+    "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+    "summary": "Comments",
+    "published_at": "2026-10-23T14:43:02+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "36f3eba3124704b69eda79585d1f96a4b94c4211f50b4437666cc6e8cad68cb3",
+    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+    "title": "We are all living inside of an obscure sci-fi film from 1970",
+    "summary": "Comments",
+    "published_at": "2026-10-23T19:41:59+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9ded370d014810b6cb6a02f416db60c3ad65aaafd031df4026aa45ca905d8288",
+    "url": "https://github.com/gruntwork-io/terragrunt/releases/tag/v1.2.1",
+    "title": "v1.2.1",
+    "summary": "",
+    "published_at": "2026-10-23T18:53:21+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "terragrunt",
+        "name": "Terragrunt Releases",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "adf49245e1521c1ea2818c411d950db5d7d636b4945fb449d87622b26af791f1",
+    "url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/4jdbjyyrkqk96egqozqb/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/72852413-419c-4509-90ec-ab167c241f50/audio/128/default.mp3",
+    "title": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
+    "summary": "This week, we focus on Billy Evans, the breakout character of the documentary “You Can See Everything,” and his Theranos-esque new blood-testing start-up. Rob Copeland, a New York Times finance reporter, and Erin Griffith, a tech reporter, ",
+    "published_at": "2026-10-23T11:00:00+00:00",
+    "collected_at": "2026-10-24T09:39:31.562821+09:00",
+    "sources": [
+      {
+        "id": "hard-fork",
+        "name": "Hard Fork",
+        "category": "podcast"
+      }
+    ]
+  }
+]
