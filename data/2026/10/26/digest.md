@@ -10,7 +10,7 @@
 - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html) — Hacker News
 - [Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ](https://forest.watch.impress.co.jp/docs/news/2151000.html) — はてな：テクノロジー
 - [いつも謎なんだけど、都会で車を持っておらず徒歩で買い物に行く人って、米とサラダ油と醤油を同時に買いたいときどうするんだろう「自転車」「ネットスーパーや生協の宅配」](https://togetter.com/li/2762755) — はてな：総合
-- [PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装](https://zenn.dev/hotaka_noda/articles/74a3b28185af5c) — Zenn
+- [登壇当日に Claude for Google Workspace で Markdown 原稿をスライドに変換して間に合わせた話](https://dev.classmethod.jp/articles/claude-for-google-workspace-slide-conversion/) — DevelopersIO
 
 ## 企業の実践・技術ブログ
 

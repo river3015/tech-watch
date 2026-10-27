@@ -116,6 +116,11 @@
         "id": "developersio",
         "name": "DevelopersIO",
         "category": "engineering"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
       }
     ]
   },
@@ -1120,6 +1125,11 @@
       {
         "id": "hatena-it",
         "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "zenn",
+        "name": "Zenn",
         "category": "community"
       }
     ]
