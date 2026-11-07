@@ -691,6 +691,11 @@
         "id": "developersio",
         "name": "DevelopersIO",
         "category": "engineering"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
       }
     ]
   },
