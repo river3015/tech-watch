@@ -9,8 +9,8 @@
 - [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5) — Hacker News
 - [かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ](https://togetter.com/li/2770247) — はてな：テクノロジー
 - [TypeScriptの有用性を、実際に動かして確かめてみた](https://qiita.com/MC_Engineer_Mtfuji/items/bef09d7c9e1288f38ad3) — Qiita
+- [\[アップデート\] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました](https://dev.classmethod.jp/articles/route53-recordset-protections/) — DevelopersIO
 - [ng: Neovim のためのシンプルな GUI](https://zenn.dev/shougo/articles/ng-nvim-simple-gui) — Zenn
-- [関文科相 議員会館パーティー/講師は厚労省課長/バイオ医薬品企業が参加費/実態は企業献金か 規正法違反の疑いも | しんぶん赤旗｜日本共産党](https://www.jcp.or.jp/akahata/aik26/2026-11-13/2026111301_02_0.php) — はてな：総合
 
 ## 企業の実践・技術ブログ
 

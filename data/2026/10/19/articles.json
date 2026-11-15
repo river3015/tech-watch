@@ -26,6 +26,16 @@
         "id": "aws-jp",
         "name": "AWS 日本語ブログ",
         "category": "official"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
       }
     ]
   },
