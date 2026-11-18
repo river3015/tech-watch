@@ -1,0 +1,2737 @@
+[
+  {
+    "id": "b58518e35472492e4ef65d202db0225f71745dba673e7e6c1499716e1cf3c25e",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
+    "title": "Amazon EMR 8.2 is now available",
+    "summary": "Amazon EMR 8.2 is now available with new features across Amazon EMR on EC2, Amazon EMR on EKS, and Amazon EMR Serverless. This release upgrades Apache Spark to 4.1.3, Apache Iceberg to 1.11.0, and Delta Lake to 4.2.0, and it is designated a",
+    "published_at": "2026-11-17T22:25:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "7556f3f0025e1149ef1011d8bfc1620020222e29c58b11f11b488ed04ce95be8",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/",
+    "title": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
+    "summary": "Amazon EMR Serverless now offers the Apache Spark optimization agent, which analyzes completed Spark job runs and delivers cost and performance optimization recommendations in seconds. You can select a cost or performance goal, and the agen",
+    "published_at": "2026-11-17T22:25:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "1871856fc0f56e9a95c53ca0995cebe634e8339ef5a1bf7ad4c0e864946959aa",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/",
+    "title": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
+    "summary": "AWS Partners can now expedite Migration Acceleration Program (MAP) deals, from qualification to incentive payout, with an end-to-end agentic workflow in AWS Transform. Partners can manage the full MAP lifecycle without leaving AWS Transform",
+    "published_at": "2026-11-17T22:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "40b41b954a094ace01c816c2654688aa8fffb34ad06c920bc0a60829144dacb0",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
+    "title": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Israel (Tel Aviv) region. The C8gn instances provide up to 30% better compute perf",
+    "published_at": "2026-11-17T22:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "e8b7363bc1201ee662bb202383ab4a3c9c2c182fdbb0f5e1cca131356505ae1f",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
+    "title": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8ine instances are available in the AWS Europe (Ireland) region. C8ine instances are powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS. These ",
+    "published_at": "2026-11-17T22:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "3a5cf3ae11d19f1c51732890bb49cd2bcb9163c997c55a49addc7a6e4c0a4192",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
+    "title": "Amazon ECR now supports global authentication tokens for private registries",
+    "summary": "Amazon Elastic Container Registry (Amazon ECR) now supports global authentication tokens for private registries. Previously, you needed to request a separate authentication token in each AWS Region where you push or pull container images. N",
+    "published_at": "2026-11-17T21:37:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "db431f0fd256361f33fa29d0a589be6d98876a725f2d9a30d49956a006f74884",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/",
+    "title": "Customize AWS Elemental Inference with custom models, prompts, and decisions",
+    "summary": "AWS Elemental Inference now lets you customize how it analyzes your live video in two ways. You can create functions that ask custom questions of the video using multi-modal foundational models in Amazon Bedrock, or add contextual metadata ",
+    "published_at": "2026-11-17T20:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "6396777ff1247de3fd7f06198dde25068086d9e56dbdc3179d0236d36c17da10",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
+    "title": "AWS Security Hub now infers resource criticality from installed software and usage",
+    "summary": "Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure findings, so that central s",
+    "published_at": "2026-11-17T20:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "4aa28792dc629a5008c041aa4247675d69f47660544b9e3a97840ce35d5184de",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "summary": "Amazon Bedrock AgentCore Memory now lets you keep short-term memory events for up to 10 years, up from one year. Developers can now use short-term memory as a long-lived record of agent conversations and interactions. This helps when that h",
+    "published_at": "2026-11-17T19:22:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "84bdce85c5225e9a950f5c9c05c1b21888b69ac7d03e3e88785b6bd4055f7fa6",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "summary": "Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than",
+    "published_at": "2026-11-17T19:22:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "977e9552566d4ac752f7272ec4c7282b2cec8aacfdb634d914fca559cfb5a4b9",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+    "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
+    "summary": "Amazon Bedrock AgentCore Memory now keeps a full session summary for every session. It's a single record that gives a snapshot of what happened in the conversation. Summary chunks cover the conversation in more detail, while the full sessio",
+    "published_at": "2026-11-17T19:17:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "faac87706e4e518b45fe680518b18f23b5834cb7bb3309945592bdfa89dca96a",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
+    "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
+    "summary": "Building high-quality training datasets has traditionally required weeks of manual labeling and data cleaning. Amazon SageMaker now offers AI data preparation capabilities that help data scientists and ML engineers build high-quality traini",
+    "published_at": "2026-11-17T19:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "8702eec011ed80aad044edacc4a227437b7dccd6651efb8b081aa3f7e23c8fbc",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-managed-instances-scale-to-zero/",
+    "title": "AWS Lambda now supports scale to and from zero for Lambda Managed Instances",
+    "summary": "AWS Lambda now supports scale to and from zero for Event Functions running on Lambda Managed Instances (LMI). Lambda automatically scales execution environments for your function to zero during idle periods and scales them back up when requ",
+    "published_at": "2026-11-17T19:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "79f93c1c339453203f0bdf492f00605c2ba2d88a2eb8d36ab47e8e3e7c0e38d4",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/",
+    "title": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
+    "summary": "Today, AWS announces the general availability of DynamoDB caching with Amazon ElastiCache Serverless for Valkey, a serverless alternative to Amazon DynamoDB Accelerator (DAX) that delivers sub-millisecond read latency for frequently accesse",
+    "published_at": "2026-11-17T18:54:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "b4b1702a3bde7e0814f122c52c2fb13da6a054bef5a1425c23e3e54212bbab65",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region",
+    "title": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
+    "summary": "Amazon OpenSearch UI has expanded to the AWS Africa (Cape Town) Region, bringing availability to 25 AWS Regions. OpenSearch UI provides a single endpoint to query, visualize, and analyze data across Amazon OpenSearch Service domains running",
+    "published_at": "2026-11-17T18:34:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "6290a1c67ddfe913b4ac87d9ab03ac136651c4a3fd2c5b7519b897fa67af7d82",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/",
+    "title": "Amazon Bedrock AgentCore now offers free monthly web search queries",
+    "summary": "Amazon Bedrock AgentCore now offers 5,000 free web search queries per month through the Web Search Tool in AgentCore gateway and the Web Search API. AgentCore helps developers build, deploy, and operate highly effective agents securely at s",
+    "published_at": "2026-11-17T18:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "11d9bf49bbb10282499e08328cb8df6f1aabf63c202385e8559ae562b0f1873d",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
+    "title": "AWS Config announces managed conformance packs",
+    "summary": "AWS Config now offers managed conformance packs. AWS builds and maintains these packs for specific compliance and governance frameworks. When you deploy one, you choose a framework, and AWS Config evaluates your resources against it. AWS ke",
+    "published_at": "2026-11-17T17:49:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "665dac86e916bcd6296cd89b14756826725509371435396188f9ead126eb2b01",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/",
+    "title": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
+    "summary": "Amazon Aurora DSQL now records statistics for each SQL statement your cluster runs and publishes them as Amazon CloudWatch OpenTelemetry (OTel) metrics. You can view them in Amazon CloudWatch Database Insights. For each statement, you see h",
+    "published_at": "2026-11-17T17:37:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "abe6469ad2fb6844f53f60ee538de79d6801708f0ca82654e014e4cea38f2971",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/",
+    "title": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
+    "summary": "Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the r7i.metal-24xl and r7i.metal-48xl Amazon Elastic Compute Cloud (EC2) bare metal instance types for VMware Cloud Foundation (VCF) 9.x deployments. EC2 ",
+    "published_at": "2026-11-17T17:27:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "e737916dbd599b6f54573b90b53acb3fd14ed756dd4af279173a25c53d5ae776",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+    "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+    "summary": "Today, AWS announces the general availability of OpenAI GPT-6.2 Astra and GPT-6.2 Sol on Amazon Bedrock. GPT-6.2 Astra brings frontier-level reasoning and judgment to your most ambitious work, including complex business problems, demanding ",
+    "published_at": "2026-11-17T17:17:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "1e0a72ba58adda5fdd61291acd9a1c09c6744cb6b3c6575748dfbc9bc0508825",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview",
+    "title": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
+    "summary": "When a WorkSpace is slow or won't connect, the IT administrator trying to help has traditionally had to dig through Amazon CloudWatch metrics, logs, and configuration data across multiple tools to find out why. And in the meantime, the user",
+    "published_at": "2026-11-17T16:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "6c106db8bbbb775ba1a3a324cc85ff519010557431c40bd9fb77411c54c44778",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
+    "title": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
+    "summary": "AWS now offers a 99.999% availability service level agreement (SLA) for cross-Region traffic over Amazon Virtual Private Cloud (Amazon VPC) cross-Region peering, AWS Transit Gateway, and AWS Cloud WAN, with a new capability called Multipath",
+    "published_at": "2026-11-17T16:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "4c4c68907957b095315ceb9c45ba7a66e60b341dfa41bca22cd3bc9baf96df93",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
+    "title": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
+    "summary": "AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoper",
+    "published_at": "2026-11-17T16:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "e8523f254f8a4899fadb0748d05859103d6c9203d24cae37d2893f72c7a7986b",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client",
+    "title": "Amazon WorkSpaces provides a new Windows client experience",
+    "summary": "Amazon WorkSpaces provides a new Windows client experience for Amazon WorkSpaces Personal. The new client experience includes an updated interface, a simplified connection flow, easier-to-find settings, and the new WorkSpaces Advisor proact",
+    "published_at": "2026-11-17T16:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "9595994685460aea2e467318b6b7485ca62c3082b3ab3a90c431d88851c2db27",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-graviton4-m8g-instances/",
+    "title": "Amazon MSK Standard Brokers now support Graviton4-based M8g instances",
+    "summary": "AWS Graviton4-based M8g instances are now generally available for Standard Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Standard Brokers on M7g, M8g delivers up to 35% lower P99 produce latency and 30% fast",
+    "published_at": "2026-11-17T16:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "8dc2ad8c65ce9ecd1f72a0081029807fbc81d8004fb5f09f962d7aa4d6d9b5fe",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-express-brokers-graviton4-m8g-instances/",
+    "title": "Amazon MSK Express Brokers now support Graviton4-based M8g instances",
+    "summary": "AWS Graviton4-based M8g instances are now generally available for Express Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Express Brokers on M7g, M8g delivers 15% lower compute costs, up to 45% lower P99 produ",
+    "published_at": "2026-11-17T16:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "f9f347faab6814e359034c336061def049725236aaafa7f1e5d6d8578037fc00",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers/",
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "summary": "Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than",
+    "published_at": "2026-11-17T15:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "04141d18d7908e343f6807dcebd8fda5db620243e636fdd0fffed4cf3be4a25b",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-corretto-nov-2026-updates/",
+    "title": "Amazon Corretto November 2026 Critical Security Patch Updates",
+    "summary": "On Nov 17, 2026, Amazon announced critical security patch update (CSPU) for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 27.0.1.1.4, 25.0.5.1.2, 21.0.13.1.2, 17.0.21.1.2, 11.0.33.1.1, and 8u",
+    "published_at": "2026-11-17T15:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "357f505c8e2088d63e9a11ef880a5c76f62c28f0a03d1b5217b46e024a11d29c",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/",
+    "title": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
+    "summary": "Amazon S3 now records the TLS key exchange algorithm in AWS CloudTrail for S3 requests, so you can see which requests and clients use post-quantum TLS (PQ-TLS). With this visibility, you can measure the share of your S3 traffic that is prot",
+    "published_at": "2026-11-17T14:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "4633d699e12341a597bb1fb3a74c243eed5564417b98118b755647f8adab56ca",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-key-exchange-support/",
+    "title": "Amazon S3 adds post-quantum TLS key exchange support to additional S3 endpoints",
+    "summary": "Amazon S3 adds post-quantum TLS (PQ-TLS) key exchange support to S3 Vectors and AWS PrivateLink for Amazon S3 interface endpoints. This extends the post-quantum cryptography support already available on regional S3, S3 Tables, and S3 Expres",
+    "published_at": "2026-11-17T14:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-news",
+        "name": "AWS What's New",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "abecbdc57ee9588da504d35176c8c888cd583abac11d52e9083f36c136900187",
+    "url": "https://aws.amazon.com/jp/blogs/news/bringing-ai-agents-closer-to-sap-whats-new-in-aws-for-sap-mcp-server/",
+    "title": "AI エージェントをより SAP の身近に: AWS for SAP MCP Server の新機能",
+    "summary": "AWS for SAP MCP Server に新機能が追加されました。Custom Catalog による SAP SuccessFactors 連携、OData V4 サポート、On-Behalf-Of によるアイデンティティ伝播と Microsoft EntraID 対応、Amazon Bedrock AgentCore Runtime V2 サポートにより、AI エージェントが SAP データへ安全かつ効率的にアクセスできます。さらにサンパウロ、ミラノ、スペインの 3",
+    "published_at": "2026-11-18T02:43:53+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "b98c21f7c403c78c7cf25da5d7c2883d78483ee8e87f925e23cb9ac008d9cdd3",
+    "url": "https://aws.amazon.com/jp/blogs/news/aws-systems-manager-for-sap-now-supports-sap-hana-scale-out-deployments/",
+    "title": "AWS Systems Manager for SAP が SAP HANA スケールアウト構成をサポート",
+    "summary": "AWS Systems Manager for SAP（SSM for SAP）が SAP HANA スケールアウト構成をサポートしました。マルチノードの SAP HANA システムを 1 つのアプリケーションとして登録し、AWS Backup によるバックアップ、アプリケーションを認識した起動・停止、認証情報の更新をシングルノードと同様に実行できます。Amazon EventBridge Scheduler と組み合わせれば非本番環境のコスト削減も可能です。追加料金なしで、",
+    "published_at": "2026-11-18T02:41:01+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "42678eae22f3c4ddcd8d36303387f636c0b9962edb3080130c7208f4f706d38c",
+    "url": "https://aws.amazon.com/jp/blogs/news/accelerate-your-dynamodb-workloads-with-dynamodb-caching-with-amazon-elasticache-serverless-for-valkey/",
+    "title": "Amazon ElastiCache Serverless for Valkey の DynamoDB caching で DynamoDB ワークロードを高速化",
+    "summary": "本ブログでは、Amazon ElastiCache Serverless for Valkey の新機能である DynamoDB caching をご紹介します。アプリケーションコードをほとんど変更することなく、Amazon DynamoDB に書き込みスルーキャッシュを導入でき、ミリ秒未満の読み取りレイテンシー、ホットキーによるスロットリングの軽減、読み取りコストの削減を実現します。セットアップ手順に加え、20,000 req/s の製品カタログを例に、月額コストを約 46",
+    "published_at": "2026-11-18T01:51:42+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "17e483c136ae900b7eb9dca30ad7556333dd82e0a97687b1441dd8630f567cdb",
+    "url": "https://aws.amazon.com/jp/blogs/news/nitro-sandboxes-hardware-isolation-for-every-eks-pod-ecs-task-and-ec2-workload/",
+    "title": "Nitro Sandboxes: すべての EKS ポッド、ECS タスク、EC2 ワークロードをハードウェアで分離",
+    "summary": "AWS Nitro Sandboxes は、各コンテナにハードウェアで分離された仮想マシン (VM) の境界を提供する Amazon EC2 の新しいビルディングブロックです。EKS ポッド、ECS タスク、EC2 ワークロードを分離でき、機密サンドボックスではクラスター管理者や AWS にもメモリを読み取られないよう保護します。本記事では、機密サンドボックスと分離サンドボックスの 2 つのモードの違いと、アテステーションおよび AWS KMS を活用した機密データの保護を紹",
+    "published_at": "2026-11-18T00:51:49+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "c538295be1aeddc86bce8099fa306716330b70d235ef5704dafda3683bf31206",
+    "url": "https://aws.amazon.com/jp/blogs/news/caching-kms-data-keys-in-multi-thread-environments-per-tenant-encryption-for-event-driven-systems-at-scale/",
+    "title": "マルチスレッド環境での AWS KMS データキーのキャッシュ: 大規模なイベント駆動型システムにおけるテナントごとの暗号化",
+    "summary": "マルチテナントの SaaS 環境で、テナントごとのエンベロープ暗号化を行う高スループットのシステムでは、キャッシュスタンピードによって AWS KMS の冗長な呼び出しが発生します。この記事では、この問題が発生する仕組みと 2 つの解決策を説明します。1 つは DynamoDB を使用した AWS 推奨の階層キーリング、もう 1 つは Caffeine を使用した AWS KMS クライアントのカスタムキャッシュです。また、テナントごとの暗号化の分離を維持しながら AWS K",
+    "published_at": "2026-11-18T00:08:52+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "7c70ce5aa8637b49cefe6cae6caea8a56f59c61049ff8957feb14994e0b386a7",
+    "url": "https://aws.amazon.com/jp/blogs/news/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/",
+    "title": "未使用の AWS KMS キーの特定と誤削除の防止",
+    "summary": "AWS Key Management Service (AWS KMS) の新しい GetKeyLastUsage API を使用して、KMS キーが最後に暗号化オペレーションに使用された日時を確認する方法を紹介します。CloudTrail ログを検索しなくても未使用キーを特定できるため、監査とコスト最適化に役立ちます。追跡期間の考え方や、Amazon EBS ボリュームを例にした削除前の注意点も説明します。さらに、kms:TrailingDaysWithoutKeyUsag",
+    "published_at": "2026-11-18T00:03:24+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "e72748dbca604491a9f6b8da14374b0571d744e7624ce0df27d743e09f4a57ed",
+    "url": "https://aws.amazon.com/jp/blogs/news/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/",
+    "title": "AWS Key Management Service (AWS KMS) の対称キーローテーション間隔の短縮をめぐる考察",
+    "summary": "AWS Key Management Service (AWS KMS) の対称キーで、自動キーローテーションの期間を 90～2,560 日の範囲で設定できるようになりました。オンデマンドローテーション、ListKeyRotations API によるローテーション履歴の可視化、2 回を超えるローテーションが行われたキーへの料金上限も紹介します。また、カエサル暗号から NIST SP 800-57 までのキーローテーションの歴史を振り返ります。そのうえで、HSM でキーの漏洩",
+    "published_at": "2026-11-18T00:00:36+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "0eb7b7a55ed3cc9de5933a505a34578aff54a8a9f05405e144ea00543e79b89e",
+    "url": "https://aws.amazon.com/jp/blogs/news/aws-kms-how-many-keys-do-i-need/",
+    "title": "AWS KMS: キーはいくつ必要か? 4 つの原則から考えるキー管理戦略",
+    "summary": "AWS KMS を使用する際、「実際にいくつのキーが必要か?」は多くのお客様が抱く疑問です。この記事では、データ分類、アプリケーション、AWS サービス、職務の分離という 4 つの指針となる原則に基づき、必要な KMS キーの数を判断する方法を解説します。一元的なアプローチ、分散型アプローチ、ハイブリッドモデルの比較と具体例に加え、AWS マネージドキーとカスタマーマネージドキーの選択基準、コスト、管理性といった考慮事項も紹介します。",
+    "published_at": "2026-11-17T07:10:28+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "aws-jp",
+        "name": "AWS 日本語ブログ",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "cad23ee7edf0513acb93bcb979d6f71305409be1ca5d11d99f5b5b3361434568",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-durable-agentic-systems-with-google-antigravity-from-instructions-to-loops/",
+    "title": "How to Build Durable Agentic Systems with Google Antigravity: From Instructions to Loops",
+    "summary": "I watched the discussion on agentic loops grow louder over the past few months. But for me, the reality is simpler: prompt engineering has shifted from individual tasks to systems design, and the harness around the model (not the model itse",
+    "published_at": "2026-11-18T00:11:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "856dbbfd18f4454d0e42965825ff0a956c2cc72237ddd6e42302da265f547067",
+    "url": "https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure/",
+    "title": "Simplifying multicloud networking to Azure with partner Cross-Cloud Interconnect",
+    "summary": "As AI changes how businesses build and run applications, more enterprises are spreading their models, data and applications across multiple clouds. To make that work, they need fast, private connections between those environments. Historica",
+    "published_at": "2026-11-17T18:35:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "488ff865c91974e9b15eccdb8c712d05820be37e11322bd8652bb405dfed07db",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-is-a-leader-in-the-2026-gartner-magic-quadrant/",
+    "title": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms",
+    "summary": "For the third time in a row, Google Cloud is recognized as a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms , positioned highest overall on the Ability to Execute axis. 1 These days, it’s very clear to us",
+    "published_at": "2026-11-17T17:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "47c068b8d22adea4df855bf5f4ba112f8d724632e706e89289c589a54471597e",
+    "url": "https://cloud.google.com/blog/products/business-intelligence/modern-data-visualizations-and-custom-charts-in-looker/",
+    "title": "The visual evolution of Looker: Modern design for enterprise data storytelling",
+    "summary": "Over the past year, we’ve focused on making Looker easier to use for every business user. We started by redesigning the exploration experience with drag-and-drop workspaces , streamlined field pickers, and conversational analytics to make i",
+    "published_at": "2026-11-17T17:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "a9b5a595f054c71c431b773432fb7fe1ec846f54edd84a78b9b133d50ae1366f",
+    "url": "https://cloud.google.com/blog/topics/partners/2026-google-cloud-partner-all-stars-winners/",
+    "title": "Congratulations to our 2026 Google Cloud Partner All-stars",
+    "summary": "The Google Cloud partner ecosystem plays an essential role in driving customer success. As we enter a transformative new era, our partners are instrumental in helping move AI from early pilots into true production-grade deployment. Closing ",
+    "published_at": "2026-11-17T17:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "0ca7f638e6a0b16413a9120aa9f46977ab2b303de0dc7ae4b2f1a54fb456cadb",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
+    "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+    "summary": "Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage ",
+    "published_at": "2026-11-17T14:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "e5e261df77eacbb31e8d3daae8215f5be609e76b59af4c72eb82b29f04885d3f",
+    "url": "https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/",
+    "title": "Building Sovereign AI in Europe, With Europe: Our New Startup Accelerator",
+    "summary": "Today we’re announcing an open call for applications for the Google for Startups Accelerator: Sovereign AI . Available in Europe and Israel, this initiative supports startups that are building cutting-edge AI solutions for European regulato",
+    "published_at": "2026-11-17T08:30:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "09aa4a3bfe84394c13cb654de2e100f8d33a42557c61be6499fe7c1a71429196",
+    "url": "https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/",
+    "title": "Sovereign AI in Europe: New ways to control your AI stack",
+    "summary": "Today in Brussels, public sector leaders, policymakers and partners are meeting at the Sovereign AI Summit to discuss how to build the next decade of Europe's public services, healthcare, and finance with AI under European control. We're he",
+    "published_at": "2026-11-17T08:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "google-cloud",
+        "name": "Google Cloud Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "17290ccd2258d75accc141470116f75fbfc6f806ed2c9ff6b48aca311038d1ef",
+    "url": "https://www.hashicorp.com/blog/from-exposed-secrets-to-managed-credentials",
+    "title": "From exposed secrets to managed credentials: Reducing credential risk across the application lifecycle",
+    "summary": "Learn how Vault Radar and Vault help organizations find exposed secrets, improve remediation, and reduce credential risk across the application lifecycle.",
+    "published_at": "2026-11-17T08:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hashicorp",
+        "name": "HashiCorp Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "5857dc3a046749e369e375d640563e48c3c9f3f5acd1366913acc07e31191bad",
+    "url": "https://www.hashicorp.com/blog/hcp-introduces-ibmid-support-and-new-enterprise-governance-capabilities",
+    "title": "HCP introduces IBMid support and new enterprise governance capabilities",
+    "summary": "HCP Platform continues to enhance identity management, governance, and administrative workflows, helping organizations securely adopt and operate HashiCorp products at scale.",
+    "published_at": "2026-11-16T17:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hashicorp",
+        "name": "HashiCorp Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "832bbc2871152355af6b73934506b0728b60f55dc06b953f3335e0b54643902a",
+    "url": "https://about.gitlab.com/blog/cisa-2030-cyber-strategy/",
+    "title": "What CISA’s new cyber strategy means for how you ship software",
+    "summary": "",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "gitlab",
+        "name": "GitLab Blog",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "9fd23e018da5cf4fc36c284e8c019ea545faab2ce07949176612b85056405af6",
+    "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+    "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+    "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+    "published_at": "2026-11-17T20:24:27+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "cloudflare",
+        "name": "Cloudflare Blog",
+        "category": "engineering"
+      },
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "572b48c6d3615359696e9e2cf35da48f112e8b91398f0afe538586fdefb0916d",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day2-track2-1130/",
+    "title": "[レポート][株式会社NTTデータ先端技術]フロンティアAI時代の脆弱性管理 ― 攻撃者と防御者の間に生まれたギャップをどう埋めるか - CODE BLUE 2026 #codeblue_jp #codeblue_2026",
+    "summary": "CODE BLUE 2026で行われた「[株式会社NTTデータ先端技術]フロンティアAI時代の脆弱性管理 ― 攻撃者と防御者の間に生まれたギャップをどう埋めるか」というセッションのレポートです。",
+    "published_at": "2026-11-18T03:29:02+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "05339ddff267da47c42fa44e9bb21516f2f406038331be42fad9935c99662dc4",
+    "url": "https://dev.classmethod.jp/articles/20261118-cc-updates-v2-1-327/",
+    "title": "Claude Code v2.1.327 の主要アップデート - MCP 設定の標準入力対応と権限チェックの厳格化",
+    "summary": "Claude Code v2.1.327 のアップデートを紹介します。claude mcp add-json が標準入力から JSON を読めるようになり、トークンをコマンドラインに書かずに MCP サーバーを登録できます。/status での壊れた設定ファイルの一覧表示や、権限チェックの厳格化など動作が変わる変更もまとめています。",
+    "published_at": "2026-11-18T03:13:34+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "b6d201a370b850df1d6323d0b8617d9ee524fb8d19e5f5f632b28634f321711a",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day2-track1-1130/",
+    "title": "[レポート]Operation ShadowCommit ｰ GitHub上の隠密作戦 - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「Operation ShadowCommit ｰ GitHub上の隠密作戦」というセッションのレポートです。",
+    "published_at": "2026-11-18T03:08:41+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "eefe38b05ec24b223201176695f47e1ecbcc32e078c9438e3bc312bf6bc8eea7",
+    "url": "https://dev.classmethod.jp/articles/openai-gpt-6-2-astra-sol-bedrock/",
+    "title": "Amazon Bedrock で一般提供になった OpenAI GPT-6.2 Astra / Sol を試してみた",
+    "summary": "Bedrock の GPT-6.2 は、Converse、InvokeModel、OpenAI 互換 API、OpenAI SDK のどれでも、一時認証情報の SigV4 署名だけで呼べました。OpenAI の公式価格では、Astra は GPT-6 Astra より入出力が2割、キャッシュ入力が6割安くなっています。",
+    "published_at": "2026-11-18T03:02:54+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "5377a164f558bbf81b72eefe4a50048a71032a8499837dc5e4dced73145da266",
+    "url": "https://dev.classmethod.jp/articles/java4shell-corretto-jvm-flag-waf-count/",
+    "title": "Java4Shell（CVE-2026-114938）対策として Amazon Corretto の更新、JVM フラグ、AWS WAF の Count ルールを試してみた",
+    "summary": "Java4Shell の対策に使える Amazon Corretto の修正版、JVM フラグ、AWS WAF の Count ルールをまとめました。Docker ではフラグの反映を CLI で確認でき、WAF では不正な Base64 トークンを含むリクエストを Count できました。",
+    "published_at": "2026-11-18T02:25:23+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "ab94b93d8ce278ecb0f3bbfbd16610b573f6c10cd5f84fd656b8fa0683766982",
+    "url": "https://dev.classmethod.jp/articles/nvidia-agentic-ai-day-japan-2026-llm-routing-talk/",
+    "title": "NVIDIA Agentic AI Day Japan 2026 で LLM ルーティングについて登壇しました",
+    "summary": "NVIDIA Agentic AI Day Japan 2026 で登壇した「284B から 30B へ」の講演ダイジェストです。公開アーカイブの案内とあわせて、判定役を 30B の Nemotron 3.5 Lightning に縮めた結果や、会話の見せ方で判定が揺れる観察をかいつまんで紹介します。",
+    "published_at": "2026-11-18T02:17:44+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "6ac29cf4c08c315f37fcf6adad0e15c960642f308200a30051411a6bfa822b32",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day2-track1-1040/",
+    "title": "[レポート]5年間のGitHub定点観測で明らかにした悪性PoCと販売PoCの流通ライフサイクル - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「5年間のGitHub定点観測で明らかにした悪性PoCと販売PoCの流通ライフサイクル」というセッションのレポートです。",
+    "published_at": "2026-11-18T02:09:10+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "ab145e38d2b3cc9200369222a906ca57bd7a2607913b0c1c3d22db94f36f82bd",
+    "url": "https://dev.classmethod.jp/articles/aws-backup-lag-vault-rds-cross-account-restore/",
+    "title": "[アップデート] AWS Backup の論理エアギャップボールトが Amazon RDS に対応したので、RAM で別アカウントに共有してリストアまでやってみた",
+    "summary": "AWS Backup の論理エアギャップボールトが RDS に対応しました。実際にバックアップを取り、RAM で別アカウントに共有してリストアするところまで試しています。aws/rds で暗号化したインスタンスの挙動も確認しました。",
+    "published_at": "2026-11-18T02:08:42+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "cd6a756e4cc29b449c0e6914d270547e0b8edc738139b4ce34bf41ef629a7d3d",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day2-track1-0950/",
+    "title": "[レポート]脆弱性、アッセンブル! Windowsカーネル内のクロスコンポーネント脆弱性製造工場 - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「脆弱性、アッセンブル! Windowsカーネル内のクロスコンポーネント脆弱性製造工場」というセッションのレポートです。",
+    "published_at": "2026-11-18T01:31:51+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "b1090f2929239ebee99268cd628175adf616c2d0f3c314bb7d252b780b9e2b80",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day2-track1-0900/",
+    "title": "[レポート]Shade Core：ハイパーバイザーで保護された現代のPCにおけるUEFI攻撃の復活 - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「Shade Core：ハイパーバイザーで保護された現代のPCにおけるUEFI攻撃の復活」というセッションのレポートです。",
+    "published_at": "2026-11-18T00:42:02+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "ea86b2d947fcd8d64e1c2164498914b87bf78deb782fd603a8645f07b53aa4e2",
+    "url": "https://dev.classmethod.jp/articles/agentcore-observability-claude-gateway-tracking/",
+    "title": "Amazon Bedrock AgentCore ObservabilityでClaudeからのツール呼び出しを追跡できるか検証してみた",
+    "summary": "Amazon Bedrock AgentCore Observabilityを有効にして、ゲートウェイの呼び出しを追跡できるか検証しました。ログ・トレース・CloudTrailの3つの記録方法を比較し、リクエストIDで突き合わせることで「誰が、どのツールを、どの引数で呼んだか」を確認します。",
+    "published_at": "2026-11-18T00:00:17+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "69322a497d444655f9bc0ec08ebdaf3c3a739982fdcc3044f670c2d18c622b44",
+    "url": "https://dev.classmethod.jp/articles/aws-kms-key-sharing-ram-organization/",
+    "title": "AWS RAM で AWS KMS キーの Organization 共有を試してみた",
+    "summary": "AWS KMS のキーを AWS RAM で共有できるようになりました。対称暗号化キーを Organization 宛てに共有し、default キーポリシーを変更しないまま、Organization 内の受け側アカウントから Encrypt と Decrypt ができることを確認しました。",
+    "published_at": "2026-11-17T18:49:26+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "0e635c348705d6eeea890d3006935cd5cb2430d6f3ce6624f3adbfc9be02d923",
+    "url": "https://dev.classmethod.jp/articles/aws-backup-lag-vault-rds-support/",
+    "title": "AWS Backup の logically air-gapped (LAG) vault が RDS に対応しました",
+    "summary": "RDS の DB インスタンスのバックアップを LAG vault に保存できるようになり、設定した保持期間が満了するまで削除も変更もできない形で保管できます。東京リージョンで LAG vault とプライマリ指定・コピー先指定のバックアッププランを作成し、DB インスタンスの割り当てまで確認しました。",
+    "published_at": "2026-11-17T17:43:50+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "e66fe27502b8ef87b5a972bdb36b13b694b4e4557b13d1fcd8f122adfe471c95",
+    "url": "https://dev.classmethod.jp/articles/lambda-layer-native-libraries-with-uv/",
+    "title": "ビルド済みディストリビューションとuvでPython Lambda Layerを組んでみた",
+    "summary": "PythonのLambda Layerをコンテナなしで効率良く作成する方法を紹介します。 uvのロックファイルとLinux向けwheelを活用し、再現性のあるLayerを簡単に組み立てるレシピをまとめました。",
+    "published_at": "2026-11-17T10:36:38+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "19b6872a5cdd8746e6b3acad18832ce7fd8a15ec5e87b52797d87c647ec30b28",
+    "url": "https://dev.classmethod.jp/articles/aws-devops-agent-investigation-timeout-durable-functions/",
+    "title": "AWS DevOps Agent のインシデント調査に Lambda durable functions で時間の上限を設けてみた",
+    "summary": "Lambda durable functions の関数 1 個で、調査の開始から上限時間を過ぎた調査の取り消しまでを行えました。",
+    "published_at": "2026-11-17T10:11:54+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "4f984216789449091e907b60395fdb92020bcf0a60ac5d632267ac999e487071",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track1-1800/",
+    "title": "[レポート]「反乱都市」からの報告：イランのAPTグループはいかにして自国民を監視するのか - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「「反乱都市」からの報告：イランのAPTグループはいかにして自国民を監視するのか」というセッションのレポートです。",
+    "published_at": "2026-11-17T09:44:24+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "46d3fdf2351b36d4923cd9351c28204458eb7c6b6dfeb1e75d1155155dc7037a",
+    "url": "https://dev.classmethod.jp/articles/tsnote-alteryx-designer-modern-view/",
+    "title": "Alteryx Designer にモダンビューが実装されました",
+    "summary": "Alteryx Designer 2026.3で実装されたモダンビューについて、その特徴とクラシックビューとの違いを確認していきます。Designer Cloudに近いレイアウトへの変更やツール名の修正、そして新機能Tidyによるワークフロー整理の方法まで、実際の使用例を交えてご紹介します。",
+    "published_at": "2026-11-17T09:24:44+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "09e159e4430d35acced7b9a12698a3183c358fbc84ccc280b972fedcb446092a",
+    "url": "https://dev.classmethod.jp/articles/aws-devops-agent-investigation-timeout-step-functions/",
+    "title": "AWS DevOps Agent のインシデント調査に Step Functions で時間の上限を設けてみた",
+    "summary": "Step Functions から調査を開始し、上限時間を過ぎても終わっていない調査を、AWS SDK 統合の UpdateBacklogTask で取り消す仕組みを作りました。",
+    "published_at": "2026-11-17T09:14:35+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "410f8bd62671beea83b4f7f0119e01554b40ff6e510ca9494870b3b25e19918d",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track1-1710/",
+    "title": "[レポート]Pass-the-Device：エンドポイント侵害後におけるSASE/VPNの「信頼」の移植 - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「Pass-the-Device：エンドポイント侵害後におけるSASE/VPNの「信頼」の移植」というセッションのレポートです。",
+    "published_at": "2026-11-17T08:48:08+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "e5220f736b121a656835f440eeefc7731aed7eea400463113d5d2bd1dd1df6c9",
+    "url": "https://dev.classmethod.jp/articles/reona-minifab-fox-agents/",
+    "title": "Japan NPN Partner Agentic AI Hackathon で、AI エージェントにミニ工場を任せるためにやったこと",
+    "summary": "2026/10 に開催された Japan NPN Partner Agentic AI Hackathon に製造ビジネステクノロジー部で Team CM-MBT として参加しました。AI エージェントが注文から出荷まで判断・制御する仕組みを紹介します。LLM は提案を出すだけにし、決定エンジンで承認する設計や、小さいモデルを安定させるコツをまとめました。",
+    "published_at": "2026-11-17T08:32:49+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "238c5e61bec82b7d67a0edd828ccacae93973bbef7d29d63a4511fd9af5b081b",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track2-1620/",
+    "title": "[レポート][NRIセキュアテクノロジーズ株式会社]熟練アナリストを超える Agentic SOC への挑戦 — 組織知の注入とハーネスによる統制 - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「[NRIセキュアテクノロジーズ株式会社]熟練アナリストを超える Agentic SOC への挑戦 — 組織知の注入とハーネスによる統制」というセッションのレポートです。",
+    "published_at": "2026-11-17T07:53:33+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "009b300815eb8da58e73629cf4499ed9c6bfc6295b2d84ed399bf2022d057160",
+    "url": "https://dev.classmethod.jp/articles/s3-vectors-hybrid-search-try/",
+    "title": "Amazon S3 Vectors のハイブリッド検索（ベクトル＋全文）を試してみた",
+    "summary": "全文検索用の 1 フィールドには最大 100 KB を保持でき、語単位（BM25 順位付け）で検索できます。ベクトルのみ・全文のみ・ハイブリッドの3方式を、DevelopersIO ブログ記事を利用して試しました。",
+    "published_at": "2026-11-17T07:27:12+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "7fd74f38c0595c174105565608eedf32c904f78d148ce7cff2b2911fee9a0599",
+    "url": "https://dev.classmethod.jp/articles/s3-vectors-hybrid-search/",
+    "title": "[アップデート] Amazon S3 Vectorsの全文検索とハイブリッド検索が可能になりました！",
+    "summary": "Amazon S3 Vectorsがハイブリッド検索と全文検索に対応しました！！激アツアップデートです！！！",
+    "published_at": "2026-11-17T07:23:27+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "0581e9ca5a3c2e03dfc7cae7683f46d5f31545287d450beae2d011da6fd309f0",
+    "url": "https://dev.classmethod.jp/articles/tsnote-cloudtrail-consolelogin-event-not-found-in-event-history/",
+    "title": "CloudTrail のイベント履歴で「ConsoleLogin」イベントが見当たらないときの対処方法",
+    "summary": "CloudTrailの「イベント履歴」でConsoleLoginイベントが見つからない場合、別のリージョンに記録されている可能性があります。その原因と対策について解説します。",
+    "published_at": "2026-11-17T07:10:49+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "de6d41a98098f33faf0be546669137f5658bf9921937f382b76c85351a01f659",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track2-1500/",
+    "title": "[レポート][SCSKセキュリティ株式会社]日本の事例と国際標準から学ぶ、フロンティアAIのリスクとガバナンス - CODE BLUE 2026 #codeblue_jp #codeblue2026",
+    "summary": "CODE BLUE 2026で行われた「[SCSKセキュリティ株式会社]日本の事例と国際標準から学ぶ、フロンティアAIのリスクとガバナンス」というセッションのレポートです。",
+    "published_at": "2026-11-17T06:26:33+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "5b3cc3a086fed1a100ec3ed70e982e201ee6ffd22831db09fdb721e7bb46d3dd",
+    "url": "https://dev.classmethod.jp/articles/scrum-fest-sapporo-2026-keynote/",
+    "title": "[レポート]Scrum Fest Sapporo 2026でKeynote対談してきました #スクフェス札幌",
+    "summary": "北の大地、熱を帯びて組むスクラム。 正解はない、全員で描く未来のプログラム。 魔法の銀の弾丸じゃない、向き合う現場。 泥臭いふりかえりこそが、僕らの変化。",
+    "published_at": "2026-11-17T06:16:59+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "15b4f84eccb1ba52a8192194f07aecb3e4d2a9ed8cf198e3b3707160455255da",
+    "url": "https://dev.classmethod.jp/articles/20261117-introducing-security-keys-for-logins-on-untrusted-devices/",
+    "title": "不特定環境のログイン対策としてプライベートで物理キーを導入してみた",
+    "summary": "プライベートでのセキュリティ対策としてSecurity Keyを導入してみました。YubiKeyとの違いや選び方について、参考になれば幸いです。",
+    "published_at": "2026-11-17T06:12:25+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "701b2cdec4be8e537ac2bf43749edddc71fd4b26d9b3dd9c476f13c609d247ce",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track2-1355/",
+    "title": "[レポート][GMOインターネットグループ株式会社]絶え間ない脆弱性ニュースの裏で、止まらない悪性パッケージ公開 - 1,900万検体の解析から見るソフトウェアサプライチェーン攻撃の実態 - CODE BLUE 2026 #codeblue_jp #codeblue_2026",
+    "summary": "CODE BLUE 2026で行われた「[GMOインターネットグループ株式会社]絶え間ない脆弱性ニュースの裏で、止まらない悪性パッケージ公開 - 1,900万検体の解析から見るソフトウェアサプライチェーン攻撃の実態」というセッションのレポートです。",
+    "published_at": "2026-11-17T05:53:11+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "46ac9c209bd132d6f6b08b583cd3b999838770191a3a4effb06b12deb3ccf225",
+    "url": "https://dev.classmethod.jp/articles/codeblue-2026-day1-track2-1300/",
+    "title": "[レポート][パナソニック ホールディングス株式会社]Threat Intelligenceとの付き合い方 - CODE BLUE 2026 #codeblue_jp #codeblue_2026",
+    "summary": "CODE BLUE 2026で行われた「[パナソニック ホールディングス株式会社]Threat Intelligenceとの付き合い方」というセッションのレポートです。",
+    "published_at": "2026-11-17T05:43:44+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "1ed1fd5eae64a32e510e5f6765e7c9945601e4d3263ae96235eec40e6ca5ed8a",
+    "url": "https://dev.classmethod.jp/articles/claude-connector-wiz/",
+    "title": "Claude Code と Wiz を連携して、マルチアカウント環境のリソース棚卸しと脆弱性調査をやってみた",
+    "summary": "Claude CodeをWizに接続し、複数のAWSアカウントを横断したリソース棚卸しや脆弱性調査を効率化する方法を試してみました。Security GroupやLambda、脆弱性の一元管理がどのようにできるか、実際の活用例を紹介します。",
+    "published_at": "2026-11-17T05:38:54+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "developersio",
+        "name": "DevelopersIO",
+        "category": "engineering"
+      }
+    ]
+  },
+  {
+    "id": "df7dc99a1fb34b95ecf891de59c132ff000c92bb5aabb2fe4d639e8d6bf11e9d",
+    "url": "https://zenn.dev/epicai_techblog/articles/29b509117755af",
+    "title": "L40S 1台で社内RAGは何人まで使えるか",
+    "summary": "はじめに 社内にLLMを導入する際に、「このGPUで何人まで利用できるのか」とよく尋ねられます。答えはモデルや設定によって変わり、検索用の埋め込みモデルを同じGPUで動かすかどうかにも左右されます。そこで、実際の利用に近い条件で計測することにしました。 利用人数を示した資料はすでにいくつか公開されています。 BroadcomのSPOCはコーディング支援を想定し、H100 4枚に300人分の負荷をかけて、最初の文字が出るまでの時間のp95が10秒未満などの基準を満たすことを確認",
+    "published_at": "2026-11-17T10:00:06+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "11709c2adb40051c72815a9c97675bf89d273b5e6a054a83e89b900e378ae470",
+    "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+    "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+    "summary": "AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれています。 https://zenn.dev/polyco/articles/e05c",
+    "published_at": "2026-11-17T09:53:47+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "73133a2f0d57bae8ac98edff3ab91e262b61c610d9060ce2bb42e0674ce083c0",
+    "url": "https://zenn.dev/mire0726/articles/1f3f118662a0f5",
+    "title": "Go Conference 2026実行委員を終えて",
+    "summary": "Go Conference 2026が無事終わり二ヶ月ほど経ちました。記事を書こう書こうと思っていたのですが、すっかり引き延ばして今になってしまいました... 言い訳をすると、開催から二ヶ月余りほぼ海外旅行をしており... けど来年の自分が振り返りを書くときに、前回との違いを感じて欲しいので！今更ですが書いていきます！！ ※この記事は全て人間が書いています はじめに 今年は閉会式で、実行委員長の交代が発表されました。 改めて、sivchariさん三年間実行委員長お疲れ様でした",
+    "published_at": "2026-11-17T07:21:52+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2a91eb3cc34c2542a795a8d964ddf5c19ad9276abc2dcdeab62f18f57a5ee2ea",
+    "url": "https://zenn.dev/port_inc/articles/ff974c7456f4db",
+    "title": "ローカルLLM入門",
+    "summary": "! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための仕組みを、次の流れで整理します。 モデルの正体と置き場所、クローズドとオープンの",
+    "published_at": "2026-11-17T07:17:24+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d92e300834c18bc5d652aab2d7f473c6bd8b37764d8f88f82698dc810d5cbaf0",
+    "url": "https://zenn.dev/namiki64/articles/7aab23e02d1dc4",
+    "title": "LTを盛り上げよう！AWSサービス応援うちわ制作裏話",
+    "summary": "はじめに 私が運営に携わっているJAWS-UG大阪で、「あなたの推しサービス教えて！」 というLTイベントを開催しました。 https://jawsugosaka.connpass.com/event/408808/ こちらのイベントにて、よりLTを盛り上げるために 応援うちわ を作りました。 イメージ図 私自身はアイドル文化に疎くライブにも行ったことがないのですが、アイドル側がファンを楽しませるだけでなく、ファン側もオリジナルうちわを作ったりオタ芸をしたり、お互いが場を盛り",
+    "published_at": "2026-11-17T03:55:17+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "7bf3a459b63544e958672d51eb877928e6d011b7893c4e2c967c3c8dc0044ba6",
+    "url": "https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
+    "title": "Claude Desktop 開発のすゝめ",
+    "summary": "はじめに PeopleX でプロダクト開発をしている Aki です。もともとフロントエンドのエンジニアで、最近はバックエンドの実装にも挑戦しています。 私のメインのエディタは、ここ数年 VS Code でした。使い始めたのは前の職場にいた2018年ごろだったと思います（その前は Atom を使っていました）。ちょうど Subversion から GitHub に本格的に移り、JavaScript から TypeScript に書き換えていった時期です。 いまは Claude ",
+    "published_at": "2026-11-17T03:41:36+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1f87a539d65902a752a3bd48d0a8ce001859950e6db1d95772beef02db307cd0",
+    "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+    "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+    "summary": "カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッション前後で開発velocityが安定し、100セッションを下回る日はほとんどありま",
+    "published_at": "2026-11-17T03:13:36+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "fee1978884f47b45947ef8a3209d2104ad2579f9f60333192724cefd3ad835ab",
+    "url": "https://zenn.dev/dress_code/articles/30bd78e1a67f87",
+    "title": "mise + gh skill で、dotfiles から Agent Skills を管理する",
+    "summary": "はじめに こんにちは。ぷーじ（@yug1224）です。 Mac の開発環境は dotfiles で管理していて、Homebrew のパッケージ、言語や CLI のツール、設定ファイルの symlink まで mise で入れています。新しい Mac でも make install を 1 回実行すれば、ほぼ元の環境に戻ります（2 回目以降の入れ直しは make mise）。 その dotfiles の中で、Claude Code と Cursor 用の skill（SKILL",
+    "published_at": "2026-11-17T03:00:08+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "25a26ba1ee5b67629b7406f9624352b5997ae1d1a7cf5485c2136cd8c105aa93",
+    "url": "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
+    "title": "OpenTelemetry×Cloudflareで組織のClaude Code利用ログを収集する",
+    "summary": "はじめに こんにちは、sosoです！ 以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています。 https://zenn.dev/gemcook/articles/claude-code-company-wide 導入したら次に気になるのが「実際どれくらい使われているのか」です。AI活用を推進していくために、Claude Codeの利用状況をモニタリングしたくなりました。 そこでClaude CodeのOpenTelemetry対応を使い、活用状",
+    "published_at": "2026-11-17T02:35:22+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d9ce39487d336ea40c0e2e9a84349006eddc12561563087a17fba4aa9c4a5214",
+    "url": "https://zenn.dev/rimo/articles/701d18b7764669",
+    "title": "お問い合わせの8割を、AIボットが解決するようになった話",
+    "summary": "問い合わせ対応の自動化に取り組んだ背景 増え続ける問い合わせと少人数のCS体制 Rimoでは、サービス内のチャットウィジェットから届くお問い合わせに、カスタマーサポート（CS）のメンバーが回答する運用を続けてきました。ところが、利用者の増加に伴って問い合わせ数も増え続け、月に150件を超える状況になりました（154件、164件と増加）。これを2〜3人のCSで分担していたため、1件ずつ丁寧に対応し続けるのは難しくなりつつありました。 自前のお問い合わせボットを作る判断 そこで、",
+    "published_at": "2026-11-17T01:05:13+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2161076f85255f263e66d953e977d34e0e4777328eff4fa101f25f8a2275d0f2",
+    "url": "https://zenn.dev/aldagram_tech/articles/f7b57935e31070",
+    "title": "スマホ内蔵のセンサーを使って周辺光取得を試す",
+    "summary": "アルダグラムで iOS・Android のアプリ「KANNA」の開発をしている小千田というものです。 普段のアプリ開発では、スマホに入っている各種センサーを使った機能を作ることはあまり多くありません。それでも以前から、何かしら活用できたらいいなという興味はありました。 今回ふと、スマホは周りが暗くなると画面も自動で暗くなるな、と思いました。同じような値をアプリから取れれば、ユーザー体験をよくすることに使えるのではないか。そう思って、調査と、試しに触ってみたところまでをまとめた",
+    "published_at": "2026-11-17T00:37:04+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3aef1901a2c45355f7834e730ff6cbe209c1729bb68245d5c0610bb9255fd9d6",
+    "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+    "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+    "summary": "こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んでいます（なぜエージェントハーネスで開発パイプラインを作っているのか）。 この記事では、その基盤でフロントエンドの実装をエージェントにどう分け",
+    "published_at": "2026-11-16T23:00:05+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f6ea3c9b362bef883b5411476f3aea4f35ca8a4944f7cf7bb9c72f312de15ae0",
+    "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
+    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
+    "summary": "",
+    "published_at": "2026-11-17T09:58:19+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "64f08f3768fc42799dea8cfc8edc68634024ecab856ea82f6721399055866617",
+    "url": "https://qiita.com/take-yoda/items/e24e62ba5a4ad4d84c0f",
+    "title": "dbt + DuckDBでSQL集計をローカルで動かしてみる",
+    "summary": "",
+    "published_at": "2026-11-17T13:09:18+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "add6c296b9524eef10483040a4afe0d4411310ccae556f0d9fd41149f3795de9",
+    "url": "https://qiita.com/ashimada83/items/c609ed38e53225c1eba6",
+    "title": "New Relicのユニットエコノミクスでビジネスの成長とクラウドコスト最適化を両立しよう！",
+    "summary": "",
+    "published_at": "2026-11-17T10:08:34+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1bcd1396dc9641a0a7e87cbb9fcad1b3285ed5751d28e8ff95166252456a6fab",
+    "url": "https://qiita.com/araidon/items/a18e9556db3297b7f790",
+    "title": "APEXlangでVibe Coding：ADBの機能を組み合わせて、都バスの運行を可視化してみた",
+    "summary": "",
+    "published_at": "2026-11-17T07:19:10+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "95259a927b5d579d249de15880226be27be8c190d12d4122595a755fc76d2152",
+    "url": "https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee",
+    "title": "AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた",
+    "summary": "",
+    "published_at": "2026-11-17T22:52:59+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ff46fe1d9d80ee08e47a0a7a289c20b0a7a9e42646fa9a053f411fec03dc0914",
+    "url": "https://qiita.com/human_hub_T/items/439bda5ea9234b7d9013",
+    "title": "【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫",
+    "summary": "",
+    "published_at": "2026-11-17T11:34:02+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "00382d29e12174258118b437fcaa9ef00fbbcdb1cb44f2394b242b6fbf09f84a",
+    "url": "https://qiita.com/maskot1977/items/00673a33a7f6f0888ed9",
+    "title": "「子孫へのツケ」は誰が受け取るのか——純債務・危機比較・世代間会計 : システム設計視点の行動経済学 (64)",
+    "summary": "",
+    "published_at": "2026-11-17T12:40:06+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ae5d6ab1ae8be29858727fa6b57e7980070d72fad2e3630cd9be7cdbb69a0a68",
+    "url": "https://qiita.com/maskot1977/items/6327d215b585169aaa64",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 7",
+    "summary": "",
+    "published_at": "2026-11-17T15:07:47+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0db08a62d9aeb11e95d9fce0435a2679169ef7e64226c1890e27a671fc3c68a7",
+    "url": "https://qiita.com/maskot1977/items/eaf4d8c547c3cfe8d8bd",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 47",
+    "summary": "",
+    "published_at": "2026-11-17T15:22:54+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8c23a59c9d81e2aed541da913fe61e3f37e9d1ace4a0e0aff7f8150cd7f4584f",
+    "url": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f",
+    "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？",
+    "summary": "",
+    "published_at": "2026-11-17T21:55:43+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1a020e2711803d804d5aefcae8ac84fb98f69a0c7556a0e0575e32e9b1bf4296",
+    "url": "https://qiita.com/Un_titled/items/b566535aa04d982bb9c8",
+    "title": "🥕難解言語Emojicodeで競プロがしたい！🐇",
+    "summary": "",
+    "published_at": "2026-11-17T18:14:30+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "89a9da0fc997cbc9e8caddf4ccfdb131ecc6b0cecf07fc3338096a1c0d7670d6",
+    "url": "https://qiita.com/kuracchi_enj/items/f771a426c68df7972ba4",
+    "title": "【AWS】CloudWatch Omni、なんか良さそうなので触ってみた！",
+    "summary": "",
+    "published_at": "2026-11-17T20:16:13+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e8fb66cafeed4281b1d0a319e0b27301d5f7c82f91f21bdef718ed64bdef3807",
+    "url": "https://qiita.com/top_of_the_world_winter/items/080b7f89899e13e4037d",
+    "title": "仮想世界を作って、AI が気づくか 100 回試した",
+    "summary": "",
+    "published_at": "2026-11-16T03:13:31+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6725d1c6de7b024c5c63595796c10090306d3c3c5dfdb2f4a198bbba805c7bbb",
+    "url": "https://qiita.com/satokan3/items/a3ec7c3b031afbc78796",
+    "title": "【予習特集】IETF 127 高機能暗号・新しい暗号利用 分析 ― ゼロ知識証明の部品が CFRG に揃う",
+    "summary": "",
+    "published_at": "2026-11-16T16:47:23+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2905d7c85e5065c4868ddd86928d8ce1f07ba2958b33d959d43997978b8dc226",
+    "url": "https://qiita.com/satokan3/items/09bc16527f6fac360ae3",
+    "title": "【会期に向けた予習】IETF 127 PQC 関連セッション分析 ― composite 署名は RFC に、焦点は鍵と署名の大きさへ",
+    "summary": "",
+    "published_at": "2026-11-16T16:25:58+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b041b729a831c15038f65a6db8720ec5d1d0ad7e00eb2335c448e58b8b7375a6",
+    "url": "https://qiita.com/momoda_yzrh/items/f465d303f9902f5eec78",
+    "title": "PhotoCraft＋OpenFillで、ローカル生成AIによる画像修正を試す",
+    "summary": "",
+    "published_at": "2026-11-16T15:54:21+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "6a9bec6082a8a67c46de2bc58312730509fb728cba4559cc55897e35217c356c",
+    "url": "https://qiita.com/suwa_nobu/items/faf0d787a602cc5ec74c",
+    "title": "AI に書かせたテストは、どれだけ穴を見つけるのか。Claude Code・Codex・Gemini CLI のテストを変異テストで48回採点したら、95%以上を見抜き、仕様を渡すと点が下がった",
+    "summary": "",
+    "published_at": "2026-11-17T12:05:14+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d6fabc5029457f301a1672f7edb9f018671a6627f0e92c20967929060d391793",
+    "url": "https://qiita.com/takuya035035/items/8a43c6f44aa8a9f6ea0d",
+    "title": "Everything Claude Code（ECC）入門：ルール・スキル・フックで開発環境を整える",
+    "summary": "",
+    "published_at": "2026-11-16T16:33:28+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "24f3e9e6184120b1f67781f355e6d8fc279d1cd22ed4b4d4e68fc9a7d562d06a",
+    "url": "https://qiita.com/mahaya123/items/0175b426a7a021ac8d4a",
+    "title": "数学Ⅲの積分を半導体工学で練習してみよう",
+    "summary": "",
+    "published_at": "2026-11-17T20:21:05+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c6339e9c8569f7563b75ca7583e66f4bf3555451bf80d8c0543a2f6436bd20e6",
+    "url": "https://qiita.com/rana_kualu/items/eb24edfd22b2d019f1b2",
+    "title": "【Signed HTTP Exchange】SXGとかいうゴミどうなったの？",
+    "summary": "",
+    "published_at": "2026-11-16T20:21:02+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0a949844086ce7b93b50fdf79f57372b31d867806b5fe93715f5c1a52a299201",
+    "url": "https://qiita.com/har1101/items/ebd90aa7ce654c9c8c97",
+    "title": "Kubernetesの構成要素にガチ入門する",
+    "summary": "",
+    "published_at": "2026-11-17T20:21:35+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "2bd4980603c29bb5b9629b7d1ce1690d6917410ec181d18c06874d9c0ed14253",
+    "url": "https://qiita.com/mmsbox/items/12e2b7e06468e1c0a98f",
+    "title": "【個人開発/未経験】エラーログが風流な短歌になる「絶望えらぁ短歌」開発してみた【Rails 8 + OpenAI API】",
+    "summary": "",
+    "published_at": "2026-11-17T19:21:18+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "04e4c264c310c7782d7a5609424386223ca38b4d3f70908658d99917715d5da2",
+    "url": "https://qiita.com/MasaoSasaki/items/056fdca93221d9a57b4a",
+    "title": "Claude Codeを会議に参加させる",
+    "summary": "",
+    "published_at": "2026-11-16T20:02:25+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "qiita",
+        "name": "Qiita",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "20cd84b78ec04a5efa3244b73c189409b0a47dc00705dedc652581be93e5ec54",
+    "url": "https://note.com/wakabame/n/nc76b65a187bb",
+    "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
+    "summary": "コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...",
+    "published_at": "2026-11-17T13:10:43+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "742804a05ec181791ccff367a7b39978894cab222f399e454a9657fc0bd6d8e2",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+    "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+    "summary": "",
+    "published_at": "2026-11-18T01:35:05+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3bc58d0b8ab5f5a9f2979cc7773fe6a5f75857973694a910b32519948def2267",
+    "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
+    "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
+    "summary": "仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...",
+    "published_at": "2026-11-16T01:04:11+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "c02c6a73dd746adca49aa98d64665f8c1b9247b7eb971d5183472141fb0d5dd5",
+    "url": "https://japan.cnet.com/article/35254996/",
+    "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
+    "summary": "Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。",
+    "published_at": "2026-11-17T07:22:06+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b9fe3669e7f6a4b14a41fc23fc4629753a5c68ca967b8892a2fe18cc629172f0",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
+    "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
+    "summary": "2026年11月17日、楽天証券は第三者による不正アクセスに伴い、保有する顧客情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 テスト環境から顧客情報漏えいのおそれ 楽天証券は11月16日に一部システムへの第三者による不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断...",
+    "published_at": "2026-11-18T01:53:39+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e46ed0fb0bfbe18a7e46dc3999257b563f53a3864f54b491a1bd2e0d104443ed",
+    "url": "https://www.turbo-so.jp/turbo-kids5.html",
+    "title": "蒸気タービンとは？｜ターボ機械協会",
+    "summary": "蒸気の持つ熱エネルギーから、羽根車の回転を介して動力を取り出す原動機を蒸気タービンといいます。原子力発電所や火力発電所では、蒸気をつくるために原子炉あるいはボイラを用い、蒸気タービンに発電機を連結させて、電気を作っています。 図１のように、水をやかんで沸騰させて蒸気をつくり、それを「かざぐるま」に...",
+    "published_at": "2026-11-17T07:23:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "935ffb89ab0515223e23a1a035879842805d53a80414d5bdf95e2fc73f858a1e",
+    "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+    "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは...",
+    "published_at": "2026-11-17T23:16:58+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "publickey",
+        "name": "Publickey",
+        "category": "news"
+      }
+    ]
+  },
+  {
+    "id": "c303ef77e3e2adb7c384f4b14cac9ab3adffea7d17993643a53a9d3427b057e1",
+    "url": "https://japan.cnet.com/article/35255050/",
+    "title": "8年ぶり「INFOBAR」登場、3万2780円 通話とSMSのみ、ウェブ閲覧やSNSは非対応",
+    "summary": "KDDIと沖縄セルラー電話は11月18日、通話やショートメッセージ（SMS）などの基本機能に絞った携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。ウェブ閲覧やSNSには対応しない。価格は3万2780円で、予約受付は同日始まった。 INFOBAR ZEROは、au公式のSIMフリーブランド「au Flex Style」初のオリジナルモデル...",
+    "published_at": "2026-11-18T02:20:59+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "16c77cbae530336d99bf84cd0de5740855c72ea437a2f1787b768956deea4705",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/java4shell-cve-2026-114938-oracle-openjdk-base64-rce-20261118/",
+    "title": "Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab",
+    "summary": "Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響 Oracleは2026年11月17日、Java SEのセキュリティ更新を公開し、「Java4Shell」と呼ばれる脆弱性「CVE-2026-114938」を正式にリスク評価表へ掲載しました。Oracleの評価はCVSS 3.1で8.1（High）...",
+    "published_at": "2026-11-18T00:59:57+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8dcba7381be04d199ded3f0c9a5e365090e2bce639c79ec3543b1f7324b397de",
+    "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html",
+    "title": "日本郵便が挑む「住所の正規化」――日本国内の住所を7桁の英数字で表す「デジタルアドレス」で、表記揺れや記入の面倒を無くす【地図と位置情報】",
+    "summary": "",
+    "published_at": "2026-11-17T23:00:37+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a5f219503d387f36ae021a0cd5244043796884f419deb1c6b7990f4f645143a0",
+    "url": "https://coliss.com/articles/build-websites/operation/work/font-manager-for-windows-tuna-fonts.html",
+    "title": "Windowsのフォント管理はこれが便利！ Windows10, 11対応、オープンソースの無料アプリ -tuna-fonts",
+    "summary": "当ブログでフォントを紹介する度に、「フォントの管理が、、、」という声がちらほら聞こえます。そんなフォントの管理に困っている人にぴったりのWindows10, 11対応のオープンソース無料アプリを紹介します。 インストール済みのフォントを管理するのはもちろん、有効化していないフォントを1クリックで有効化したり、独...",
+    "published_at": "2026-11-18T00:44:12+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a667440d8c9c1c2aed2332684d6b22931e68e69f506524a23dbaa38863e42d0f",
+    "url": "https://japan.zdnet.com/article/35254976/",
+    "title": "マイクロソフトの幹部、大規模障害を引き起こした3つの原因を公表",
+    "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftは、米国時間11月12日午前に発生し、74カ国で「Microsoft 365」「Copilot」「Outlook」へのアクセスに影響を与えた大規模なサービス障害について、その原因を説明する...",
+    "published_at": "2026-11-17T06:00:50+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d9782983b78690b250e4fde48aec61db88e39c7706d912d971329639f6217b9e",
+    "url": "https://japan.cnet.com/article/35255030/",
+    "title": "NVIDIAフアン氏、辞任後初声明 CEOに復帰できれば「光栄」と投稿（全文）",
+    "summary": "フアン氏は「私の復帰が株主、従業員、会社、米国にとって最善だと取締役会が判断するなら、こうした声に応え、CEOとして復帰できることを光栄に思う」と述べた。復帰に意欲を示す一方、最終的な判断は取締役会に委ねる考えを示した。 また、NVIDIAの全員に求められる基準を満たせず、私生活で重大な過ちを犯したと認め...",
+    "published_at": "2026-11-17T21:45:38+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "821b2be4c88a90e65bb91471b85dda8d14daad137a084edf71edce5de04f2e3c",
+    "url": "https://www.rakuten-sec.co.jp/web/info/info20261117-02.html",
+    "title": "当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券",
+    "summary": "このたび、楽天証券への第三者による不正アクセスを受けたことにともない、楽天証券が保有するお客様の情報の一部が漏えいした可能性があることを確認いたしましたので、お知らせいたします。 なお、楽天証券のログインに必要なパスワード、暗証番号を含む楽天証券の取引に必要な各種情報についての漏えいは確認しており...",
+    "published_at": "2026-11-17T08:41:53+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1c7303c763df1721d82d4dd6badd92c91069a24ed19e3fdb398c275b94da099b",
+    "url": "https://devblogs.microsoft.com/powershell/powershell-7-coming-to-windows/",
+    "title": "PowerShell 7 is coming to Windows - PowerShell Team",
+    "summary": "PowerShell 7 is coming to Windows. Beginning with the next release of Windows, PowerShell 7 will be included as the upgrade for Windows PowerShell 5.1. The Windows team has published the details in KB5137172. Here is what this means for you",
+    "published_at": "2026-11-17T22:22:29+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b54b2be6f61472c16ce9d8ea0eb00e19970254d0e6bc7cf30c93593bf8ab43dc",
+    "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs",
+    "title": "Faster type-aware linting with tsrs",
+    "summary": "We’re adding tsrs as an alternative to tsgolint for type-aware linting in Oxlint. It’s the Rust port of TypeScript announced by Cloudflare and VoidZero in October. Teams at Cloudflare, Owner.com and OpenAI are already using it for type-awar",
+    "published_at": "2026-11-17T16:08:06+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d46c7417a982a2be9677ae9cb1272cd6b0c1cd1a1c4a895bdd0777081f3f5129",
+    "url": "https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3",
+    "title": "楽天証券から漏洩した情報とは？ テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース",
+    "summary": "11月17日、楽天証券が不正アクセスによる情報漏洩の可能性について発表しました。 不正アクセスを受けたのはテスト環境とのことですが、具体的にどのような情報が流出したのか、またなぜテスト環境に顧客データを置いていたのか、広報部に聞いてみました。 テスト環境に置かれた合計約1572万口座のデータが漏洩か楽天証...",
+    "published_at": "2026-11-17T15:13:38+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a555692cdd312b508902af9ae2fbc1e1878a2bbb165a951f9da99be5785465a4",
+    "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003284/",
+    "title": "口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」 出金やログインパス変更に必要",
+    "summary": "最大約1125万口座分の情報が漏えいしたおそれがあると発表した楽天証券のWebサイトで、11月18日午前、「ワンタイムキー発行に時間がかかっている」ため、「少々時間をおいてから再度お手続きいただきますようお願い申し上げます」とのメッセージが表示されている。 ワンタイムキーは、出金やログインパスワードの変更、...",
+    "published_at": "2026-11-18T01:45:17+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0dae406675e92006dacf6e0158a199f7bbb0d91acff8b522b80b92f530c851df",
+    "url": "https://note.com/eichan_sh/n/ne8b7acafaac5",
+    "title": "ソシャゲに課金するならAIに課金した方がマシ？中国ゲーム業界の潜在的危機｜上海在住のえいちゃん",
+    "summary": "今回は中国のゲーム業界とAI、それとタイトル画像の「肥魚」にまつわる記事を紹介します。 但し書きとして、2026年上半期における中国国内のゲーム業界の売上収入は 1884.5億元（約4兆5000億円）で前年同期比12.17％増 でした。 この記事で述べられている「AIによるゲーム業界の浸食」は今のところ数字としては出ておら...",
+    "published_at": "2026-11-17T07:04:25+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "f1558468df090ea79d004835b9aafd07fc4961513ab943819565371013578128",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2157343.html",
+    "title": "クラムシェルの夢は滅びぬ。Arc G3 Extreme搭載の8型「GPD WIN Mini Ultra」",
+    "summary": "",
+    "published_at": "2026-11-18T02:24:38+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "b142b4b4a86ccb651248e2f68849e1de20cc9a0b6b0f46682ee6259383f3aa75",
+    "url": "https://github.com/cisco-ai-defense/project-quarry",
+    "title": "GitHub - cisco-ai-defense/project-quarry: Detection DSL and engine for AI agents",
+    "summary": "Project Quarry is a Python framework for detecting threats and behavior patterns in agent conversations. Write rules over messages, tool calls, tool results, and event order. You can also call a configured model adapter from a rule when loc",
+    "published_at": "2026-11-17T14:53:34+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "618c82ae18f404bb8e31d5717a336cddc4c40055bc2eef57e931ff1935437234",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2157106.html",
+    "title": "グーグルの「Gemini」、スキルの共有やGoogleドライブなどからのファイル追加に順次対応",
+    "summary": "",
+    "published_at": "2026-11-17T09:50:02+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e0a9b39996b224a2b0ccedea599d3be1b0ac05d175393889aaef537313572b51",
+    "url": "https://www.watch.impress.co.jp/docs/news/2157194.html",
+    "title": "グーグル、最新サイバー防御AIモデルを日本政府に提供",
+    "summary": "",
+    "published_at": "2026-11-17T09:54:58+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3ca0abcadaea4b0316cb3fd99aadc8f6fa453ae92226aeccc57750689e1f8744",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261117de77389",
+    "title": "メガネの「ジンズ」で個人情報漏えい 最大1800万件余の可能性 | NHKニュース",
+    "summary": "メガネチェーンの「ジンズ」は、メールマガジンの配信を委託していた会社が不正アクセスを受けた影響で、会員の氏名の一部や生年月日、メールアドレスなどの個人情報が漏えいしたと明らかにしました。 最大で1…",
+    "published_at": "2026-11-17T12:24:49+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8bd4aca216939389908a35b765c0e50d5877e10e3b45c1c416deb7472122fed1",
+    "url": "https://news.mynavi.jp/techplus/article/20261117-5339022/",
+    "title": "Windows 11のスタートアップアプリが遅い原因、レジストリ変更で起動を高速化する方法",
+    "summary": "Windows Latestは2026年11月13日(現地時間)、「Your PC isn't slow to start, Windows 11 is quietly holding your apps back on purpose, and one tweak cut a user's wait from 2.5 minutes to 30 seconds」において、Windows 11でスタートアップアプリの起動が遅くなる原因と改善方法を紹介した。 レジストリの変更に",
+    "published_at": "2026-11-17T00:21:27+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e80da8187920bf85459efa2db0be76043e4a102d04054b4ffba060275750a277",
+    "url": "https://www.nikkei.com/article/DGXZQOCD160IE0W6A111C2000000/",
+    "title": "スパイ疑惑美女のアリス・ファン氏がアイドル化 中国のネット世論は「よくやった」と称賛 - 日本経済新聞",
+    "summary": "米エヌビディアの前最高経営責任者（CEO）、ジェンスン・ファンと極めて親密な関係を築いた中国スパイ疑惑の渦中にいるアリス・ファン。2027年に向けて米中関係を大きく左右する謎だらけの女性は出身地・中国でどうみられているのか。インターネット上の情報が厳格に統制・管理されている中国だが、意外なことにアリス・...",
+    "published_at": "2026-11-17T22:10:28+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3833e7957fd33ba5d3912d2198e4ee26d217076fd03241ee79d0e8bd71375978",
+    "url": "https://www.ktv.jp/news/articles/?id=31012",
+    "title": "「AIで。（顔写真は）イメージです」物議醸した兵庫・尼崎市議補欠選挙のポスター 直撃取材にキーパーソンが認める 選管は「表現の自由あり指摘できない」 専門家「技術の発展と公選法のいたちごっこ続く」",
+    "summary": "「AIで。（顔写真は）イメージです」物議醸した兵庫・尼崎市議補欠選挙のポスター 直撃取材にキーパーソンが認める 選管は「表現の自由あり指摘できない」 専門家「技術の発展と公選法のいたちごっこ続く」11月17日 18:25 みなさん、選挙ポスターに実際の候補者とは、別人の顔が使われていたら、どう思いますか？ 15...",
+    "published_at": "2026-11-17T16:20:47+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "cbfdacadf9fdb0321418022c6b80bc94383e95740be363a77e5c92127e03f9bc",
+    "url": "https://mantan-web.jp/article/20261117dog00m200046000a.html",
+    "title": "押井守監督：「装甲騎兵ボトムズ 灰色の魔女」インタビュー なぜ「ボトムズ」にひかれたのか 15年ぶり新作は初めての“戦争映画” - MANTANWEB（まんたんウェブ）",
+    "summary": "押井監督は「『ボトムズ』をやりたい」とずっと考えていたという。まさに念願がかなった。 「『やりたい』と言ってもやらせてもらえるものではない。いろいろ偏見があるみたいだけど、なんでもやるんですよ。クセが強い監督扱いされてきたので、あんまり信用がなかった。サンライズと仕事すること自体が初めてですから。...",
+    "published_at": "2026-11-17T22:55:25+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hatena-all",
+        "name": "はてな：総合",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1887f66f9a10a465207cb091536cf1605206f293068c6e881053522a82a66074",
+    "url": "https://calif.io/java4shell/",
+    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+    "summary": "Comments",
+    "published_at": "2026-11-17T21:11:28+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "4549f158f0527f6139b65e5e033be8bae7d126e1033a3155be733cf1dee1caf3",
+    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+    "title": "ID.me terms required for IRS sign-in",
+    "summary": "Comments",
+    "published_at": "2026-11-18T00:51:45+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "89626dbace3abab073805ba8045870a859ae8ea08217116b3f5114d779836c03",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "summary": "Comments",
+    "published_at": "2026-11-18T00:17:58+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "0fb76b8d23388056a4408c126c8fa3b0c8f3679b08ad4a8e9dfbc09dba312944",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "title": "GPT‑6.2 Astra and Sol",
+    "summary": "Comments",
+    "published_at": "2026-11-17T17:46:43+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "41633899b7b6838d84983247b4f784eea02d2f7fca876f3e9f0ec794957064b0",
+    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+    "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+    "summary": "Comments",
+    "published_at": "2026-11-18T03:35:47+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3610d4233ee23b804823cd5287ae49d9aaf52ad1cc05120563b1e4476fd434c2",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "summary": "Comments",
+    "published_at": "2026-11-17T23:32:58+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "92e08c29ab9430064973ace044187aa174e65589ff64254d1ff67965f7a95176",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+    "summary": "Comments",
+    "published_at": "2026-11-17T23:18:49+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "ca337b2b3ceee43a251063ff09a5d602ce7b4c70fac2811196dd2921d68e1e13",
+    "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+    "summary": "Comments",
+    "published_at": "2026-11-17T17:12:06+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3a4d3301c790ce8ec05c7649a187927a9a71a0f57d5a2961dd425736edb8bed6",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "title": "jQuery 4.1.0",
+    "summary": "Comments",
+    "published_at": "2026-11-17T19:50:40+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "5fb2adb0a1f12f7b3992786899c7bab6edc732a7d24584fc6f8bc5d7985f2ed4",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "summary": "Comments",
+    "published_at": "2026-11-17T18:25:13+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "95bb52296bb3318588b849bdf8c25dbd3b976686cc038e759d74c8384d01a387",
+    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "title": "Highly classified US national security communications network goes down",
+    "summary": "Comments",
+    "published_at": "2026-11-17T15:38:28+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "85ee66f2022f4d22da01e0ed02de6e928e9c849b19e9cb6a64bf417e0093ba65",
+    "url": "https://phrack.org/issues/73/introduction_md",
+    "title": "Phrack 73 Released",
+    "summary": "Comments",
+    "published_at": "2026-11-17T18:31:25+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8e5c0d9d0faa3272be2b130bc49b6663799b7120edd996019544c1ec3df3d8c7",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+    "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+    "summary": "Comments",
+    "published_at": "2026-11-17T19:25:27+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3c25963477ac1c88f238d8bdcf4ecd1e1678d4137b15bd01a43f9ad606d089bb",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "title": "Cerebras Disaggregated Inference",
+    "summary": "Comments",
+    "published_at": "2026-11-18T00:56:23+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "1ed525b777a52b12b89e104750e4fc3a315188fefe7ccb95fbd7298d6a85927a",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "summary": "Comments",
+    "published_at": "2026-11-17T21:16:12+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "8cff3909a1b698e35c0579d59972adf6f6988387d5f5946f812d1bfbf5dcff36",
+    "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+    "title": "Fun with Constrained Programming",
+    "summary": "Comments",
+    "published_at": "2026-11-15T02:45:57+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "a62f1fc93705d60817a1c50d85eebe3399d9eb39955c6f95b128feed4e5562b3",
+    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+    "title": "Solid 2.0",
+    "summary": "Comments",
+    "published_at": "2026-11-17T18:56:17+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "de86fe1708919f4d8767c5ecff56f94feddb1ad4748f4aac08aee6d0e6b1f1bd",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "title": "What is the best harness for each model?",
+    "summary": "Comments",
+    "published_at": "2026-11-17T14:53:43+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "35ca44d444f163d1774f03920964cb4866be6696ba51842ced7657c998fa7ea1",
+    "url": "https://starsling.dev/",
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "summary": "Comments",
+    "published_at": "2026-11-17T19:01:43+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "d73671667702f79209579ae24fa4830b8e79a93417b5f09ff8ddc939e88f5b76",
+    "url": "https://namegarage.com/blog/python-3-15-lazy-imports",
+    "title": "Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help",
+    "summary": "Comments",
+    "published_at": "2026-11-14T15:41:51+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "85e628cc5ceac4060ad87cb5b93a62e99e4b4655ad7a28bbf07a397664c5862f",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "title": "Tencent Hy4 Flash",
+    "summary": "Comments",
+    "published_at": "2026-11-17T21:06:08+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "66904ef5c49bc7dec8791535061f623e081e74235e2d7b4b5f96f57fc6ff66d5",
+    "url": "https://developer.apple.com/system-status/",
+    "title": "Apple Services Down",
+    "summary": "Comments",
+    "published_at": "2026-11-17T17:47:14+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "30af260ff61249203bf4f95fe892098a79f7b2b05088970dcd84c7bade1cabcf",
+    "url": "https://browser.engineering/",
+    "title": "Web Browser Engineering (2021)",
+    "summary": "Comments",
+    "published_at": "2026-11-17T20:01:35+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "80ed49a62e49aefb994f1a210ae511ed1cea1feca505361d1a9de55f2a48e8fe",
+    "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+    "title": "Latent Lattice Language Models",
+    "summary": "Comments",
+    "published_at": "2026-11-17T22:17:18+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "233f4988e8c3601e84ee2f063f23a5f6c6d7f30234984fe40b8586cc6da1de86",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "title": "Not Everything Needs an LLM",
+    "summary": "Comments",
+    "published_at": "2026-11-17T18:16:18+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "9f655c22742dace6edb0cc487240192f3e992f7c5dc41c77f43e4bdc10aea1ee",
+    "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+    "title": "Who Builds the Machines That Build the Machines?",
+    "summary": "Comments",
+    "published_at": "2026-11-17T17:45:39+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "06fd8a8d71ebb3340f3a0554cb45ddc43a3677578020799b9ac9650f0e9dc1ff",
+    "url": "https://arxiv.org/abs/2611.09827",
+    "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+    "summary": "Comments",
+    "published_at": "2026-11-17T19:46:57+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "e612100262809bb8323186512442d99a5c14e802de10eac0eb1bc86939a77fc8",
+    "url": "https://aboard.com/lets-have-a-mouse-party/",
+    "title": "Mouse Party",
+    "summary": "Comments",
+    "published_at": "2026-11-14T15:38:50+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "fdb3c1f197ba522b4f237e34a31e6a6bff5af83dfae3b6d2a8b9657094c0e36f",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "title": "How the Claude Code team thinks about verification",
+    "summary": "Comments",
+    "published_at": "2026-11-17T10:20:40+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "category": "community"
+      }
+    ]
+  },
+  {
+    "id": "3a8e967d9a13cc119a84634ea7b4603414df6a94f3142885a578b9a5f7b6a1f4",
+    "url": "https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html",
+    "title": "［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」の正式リリースを発表し...",
+    "published_at": "2026-11-17T21:45:41+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "publickey",
+        "name": "Publickey",
+        "category": "news"
+      }
+    ]
+  },
+  {
+    "id": "e55d7ec314915937eb5bfb09f883223bec8aad11264ec8b2aa1797d2fe222bd9",
+    "url": "https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html",
+    "title": "［速報］PostgreSQL互換のサーバレスでOLTPとOLAP両対応を実現する「Microsoft Fabric HorizonDB」パブリックプレビュー",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版...",
+    "published_at": "2026-11-17T21:43:09+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "publickey",
+        "name": "Publickey",
+        "category": "news"
+      }
+    ]
+  },
+  {
+    "id": "7112dfb96e943cd9cd5f5a50b43547cf399d1a947d24946a805e2f0309ecc3fb",
+    "url": "https://www.publickey1.jp/blog/26/aioracle_dbpostgresqlazure_database_migration_service.html",
+    "title": "［速報］AIがOracle DBからPostgreSQLへの移行を支援、「Azure Database Migration Service」プレビュー",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Azure Database Migration Service （Azure DMS）におけるOracle DBからPostg...",
+    "published_at": "2026-11-17T21:40:32+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "publickey",
+        "name": "Publickey",
+        "category": "news"
+      }
+    ]
+  },
+  {
+    "id": "6c7bdd2fe8d5a106fdf9410faf107fbc4528a5fc253d9e4ab4b5f41d1a308710",
+    "url": "https://www.publickey1.jp/blog/26/azure_sql_databaseazure_sql_database_local_development_container.html",
+    "title": "［速報］Azure SQL Databaseをローカルで実行する「Azure SQL Database local development container」パブリックプレビュー",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Azure SQL Databaseをローカルで実行する「Azure SQL Database local developmen...",
+    "published_at": "2026-11-17T21:37:53+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "publickey",
+        "name": "Publickey",
+        "category": "news"
+      }
+    ]
+  },
+  {
+    "id": "0c73f0345bf69f0b358bdddd3f6abeb144aedc5ca513f16706f152d5ac04dc0c",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html",
+    "title": "Weekly Report: N-able N-centralに複数の脆弱性",
+    "summary": "N-able N-centralに複数の脆弱性",
+    "published_at": "2026-11-18T09:15:00+09:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "jpcert",
+        "name": "JPCERT/CC 注意喚起",
+        "category": "official"
+      }
+    ]
+  },
+  {
+    "id": "e0c8809f7a938fe8c12692d7e8e6a611a3ac3285096271e7e60f6a69fba042e6",
+    "url": "https://softwareengineeringdaily.com/podcasts/the-technical-interview-is-broken/",
+    "title": "The Technical Interview Is Broken",
+    "summary": "The technical interview has long been used as a proxy for actual job performance. Brain teasers, data structure puzzles, or reversing a linked list became the price of admission to employment as a developer in many organizations, even thoug",
+    "published_at": "2026-11-17T10:00:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "se-daily",
+        "name": "Software Engineering Daily",
+        "category": "podcast"
+      }
+    ]
+  },
+  {
+    "id": "c3a4fb4330adb47bc47390896871004e432c193e25b3fd3a341c3bbd6dc8627d",
+    "url": "https://e780d51f-f115-44a6-8252-aed9216bb521.libsyn.com/pod-autoscaling-and-resource-management-with-adrian-moisey-and-jakub-paweczak",
+    "title": "Pod Autoscaling and Resource Management, with Adrian Moisey and Jakub Pawełczak",
+    "summary": "Adrian Moisey is a Staff Site Reliability Engineer (SRE), a Technical Lead for Kubernetes SIG Autoscaling, and a contributor to SIG Network. Jakub Pawełczak is a Cloud Product Manager on Google Kubernetes Engine (GKE) at Google Cloud focuse",
+    "published_at": "2026-11-17T13:20:00+00:00",
+    "collected_at": "2026-11-18T12:42:03.331018+09:00",
+    "sources": [
+      {
+        "id": "kubernetes-podcast",
+        "name": "Kubernetes Podcast from Google",
+        "category": "podcast"
+      }
+    ]
+  }
+]
