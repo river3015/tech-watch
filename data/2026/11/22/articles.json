@@ -206,6 +206,11 @@
         "id": "zenn",
         "name": "Zenn",
         "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
       }
     ]
   },
@@ -571,6 +576,11 @@
         "id": "hatena-all",
         "name": "はてな：総合",
         "category": "community"
+      },
+      {
+        "id": "zenn",
+        "name": "Zenn",
+        "category": "community"
       }
     ]
   },
@@ -655,6 +665,11 @@
       {
         "id": "hatena-it",
         "name": "はてな：テクノロジー",
+        "category": "community"
+      },
+      {
+        "id": "qiita",
+        "name": "Qiita",
         "category": "community"
       }
     ]
