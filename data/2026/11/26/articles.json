@@ -1886,6 +1886,11 @@
         "id": "hackernews",
         "name": "Hacker News",
         "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
+        "category": "community"
       }
     ]
   },
@@ -1945,6 +1950,11 @@
       {
         "id": "hackernews",
         "name": "Hacker News",
+        "category": "community"
+      },
+      {
+        "id": "hatena-it",
+        "name": "はてな：テクノロジー",
         "category": "community"
       }
     ]
